@@ -1,0 +1,8 @@
+asin,name,target_price
+# How to add a product: open it on amazon.in, copy the 10-letter code after /dp/ in the link.
+# Example link: https://www.amazon.in/dp/B0ABCD1234  ->  ASIN is B0ABCD1234
+# name = short name for the post (leave empty to use Amazon's title)
+# target_price = optional. Post when price goes at or below this, even for a small drop.
+# Delete the # at the start of a line to turn it on.
+#B0ABCD1234,Apple iPhone 15 (128 GB),39000
+#B0EFGH5678,boAt Airdopes 141,
