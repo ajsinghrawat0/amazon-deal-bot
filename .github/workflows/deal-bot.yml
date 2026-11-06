@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      test_telegram:
+        description: "Send a test message to the channel"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,7 +36,7 @@ jobs:
           AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
           MIN_DROP_PERCENT: "2"
           MIN_DROP_RUPEES: "100"
-        run: python deal_bot.py
+                run: python deal_bot.py ${{ inputs.test_telegram && '--test' || '' }}
       - name: Save prices for next run
         run: |
           git config user.name "deal-bot"
