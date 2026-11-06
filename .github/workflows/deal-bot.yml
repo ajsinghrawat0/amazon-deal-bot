@@ -2,8 +2,8 @@ name: Amazon deal bot
 
 on:
   schedule:
-    - cron: "17 * * * *"
-  workflow_dispatch:
+    - cron: "17 * * * *"     # every hour (GitHub may run it a few minutes late)
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
     inputs:
       test_telegram:
         description: "Send a test message to the channel"
@@ -11,7 +11,7 @@ on:
         default: false
 
 permissions:
-  contents: write
+  contents: write             # needed to save state.json back to the repo
 
 concurrency:
   group: deal-bot
@@ -22,10 +22,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - run: pip install requests
+
       - name: Check prices and post deals
         env:
           AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
@@ -37,6 +40,7 @@ jobs:
           MIN_DROP_PERCENT: "2"
           MIN_DROP_RUPEES: "100"
         run: python deal_bot.py ${{ inputs.test_telegram && '--test' || '' }}
+
       - name: Save prices for next run
         run: |
           git config user.name "deal-bot"
