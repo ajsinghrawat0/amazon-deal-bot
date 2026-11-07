@@ -72,6 +72,18 @@ def rupees(amount: float) -> str:
     return ("-₹" if amount < 0 else "₹") + s
 
 
+def short_title(title: str, limit: int = 75) -> str:
+    """Amazon titles are very long. Keep the useful front part, cut at a natural break."""
+    t = " ".join((title or "").split())
+    if len(t) <= limit:
+        return t
+    cuts = [t.find(sep, 40) for sep in (" | ", " - ", ", ", " (", " with ", " for ")]
+    cuts = [i for i in cuts if 0 < i <= limit]
+    if cuts:
+        return t[:min(cuts)].strip()
+    return t[:limit].rsplit(" ", 1)[0].strip()
+
+
 def affiliate_link(asin: str) -> str:
     link = f"https://www.amazon.in/dp/{asin}"
     return f"{link}?tag={AMAZON_TAG}" if AMAZON_TAG else link
@@ -93,6 +105,7 @@ def load_products(path: str) -> list:
                 "asin": asin,
                 "name": (row.get("name") or "").strip(),
                 "target_price": float(target) if target else None,
+                "note": (row.get("note") or "").strip(),
             })
     return products
 
@@ -224,6 +237,7 @@ def parse_amazon_item(item: dict) -> dict:
         "title": _get(item, "itemInfo", "title", "displayValue") or "",
         "price": float(price) if price else None,
         "mrp": float(mrp) if mrp else None,
+        "badge": _get(listing, "dealDetails", "badge") or "",
         "image": image,
     }
 
@@ -348,6 +362,7 @@ def fetch_prices_amazon(asins: list) -> dict:
                 "offersV2.listings.price",
                 "offersV2.listings.availability",
                 "offersV2.listings.isBuyBoxWinner",
+                "offersV2.listings.dealDetails",
             ],
         })
         data = r.json()
@@ -419,27 +434,36 @@ def check_deal(product: dict, info: dict, old: dict) -> tuple:
         "is_lowest": lowest is None or price < lowest,
         "hit_target": hit_target,
         "mrp": info.get("mrp"),
+        "badge": info.get("badge") or "",
+        "note": product.get("note") or "",
     }
 
 
 def build_caption(name: str, asin: str, d: dict) -> str:
-    when = now_ist().strftime("%d %b, %I:%M %p IST")
-    lines = ["🔥 <b>PRICE DROP ALERT</b>", "", f"<b>{html.escape(name)}</b>", ""]
-    if d.get("mrp") and d["mrp"] > d["was"]:
-        lines.append(f"🏷️ MRP: <s>{rupees(d['mrp'])}</s>")
-    lines.append(f"❌ Was: <s>{rupees(d['was'])}</s>")
-    lines.append(f"✅ Now: <b>{rupees(d['now'])}</b>")
+    """Short deal-channel style:
+
+    Product name at ₹39,000 💥
+
+    📌 Price dropped ₹1,000 (was ₹40,000)
+    📌 Limited time deal
+    • any extra note from products.csv
+
+    Link: https://www.amazon.in/dp/...
+    """
+    e = html.escape
+    lines = [f"{e(short_title(name))} at {rupees(d['now'])} 💥", ""]
     if d["drop"] > 0:
-        lines.append(f"📉 You save {rupees(d['drop'])} ({d['drop_pct']:.0f}% off)")
-    if d["is_lowest"]:
-        lines.append("⭐ Lowest price we have tracked!")
-    lines += [
-        "",
-        f"🛒 <a href=\"{affiliate_link(asin)}\">Buy Now on Amazon</a>",
-        "",
-        f"<i>Price as of {when}. Prices can change anytime.</i>",
-        "<i>#ad - we may earn a small commission from this link.</i>",
-    ]
+        low = " · lowest price yet" if d["is_lowest"] else ""
+        lines.append(f"📌 <b>Price dropped {rupees(d['drop'])} (was {rupees(d['was'])}){low}</b>")
+    if d.get("mrp") and d["mrp"] > d["now"]:
+        off = round((d["mrp"] - d["now"]) / d["mrp"] * 100)
+        if off >= 10:
+            lines.append(f"📌 {off}% off on MRP {rupees(d['mrp'])}")
+    if d.get("badge"):
+        lines.append(f"📌 {e(d['badge'])}")
+    for note in filter(None, (d.get("note") or "").split(";")):
+        lines.append(f"• {e(note.strip())}")
+    lines += ["", f"Link: {affiliate_link(asin)}"]
     return "\n".join(lines)
 
 
@@ -457,17 +481,14 @@ def telegram(method: str, payload: dict) -> dict:
 
 def post_deal(asin: str, caption: str, image) -> None:
     if DRY_RUN:
-        print("---- DRY RUN post ----\n" + caption + f"\n[image: {image}]\n")
+        print("---- DRY RUN post ----\n" + caption + "\n")
         return
-    button = {"inline_keyboard": [[{"text": "🛒 Buy Now", "url": affiliate_link(asin)}]]}
-    base = {"chat_id": TELEGRAM_CHANNEL, "parse_mode": "HTML", "reply_markup": button}
-    if image:
-        try:
-            telegram("sendPhoto", {**base, "photo": image, "caption": caption})
-            return
-        except RuntimeError as e:
-            print(f"Photo failed, sending text instead: {e}")
-    telegram("sendMessage", {**base, "text": caption, "disable_web_page_preview": False})
+    telegram("sendMessage", {
+        "chat_id": TELEGRAM_CHANNEL,
+        "parse_mode": "HTML",
+        "text": caption,
+        "link_preview_options": {"is_disabled": False, "prefer_small_media": True},
+    })
 
 
 # ---------------------------------------------------------------- main
