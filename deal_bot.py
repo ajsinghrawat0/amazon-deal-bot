@@ -42,7 +42,7 @@ DRY_RUN = os.getenv("DRY_RUN", "0") == "1"               # 1 = print posts, don'
 # Auto-discovery: the bot searches Amazon with the keywords in searches.csv
 # once a day and tracks the results (on top of products.csv).
 SEARCHES_FILE = os.getenv("SEARCHES_FILE", "searches.csv")
-MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "500"))
+MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "1100"))
 DISCOVERY_EVERY_HOURS = float(os.getenv("DISCOVERY_EVERY_HOURS", "24"))
 AUTO_MIN_DROP_PERCENT = float(os.getenv("AUTO_MIN_DROP_PERCENT", "5"))  # stricter for auto products
 MIN_RATING = int(os.getenv("MIN_RATING", "4"))   # only products rated 4+ stars
@@ -320,6 +320,14 @@ def discover_products(state: dict) -> None:
     """Once a day, refresh the auto product list from searches.csv."""
     meta = state.setdefault("_meta", {})
     last = meta.get("last_discovery")
+    try:
+        import hashlib
+        with open(SEARCHES_FILE, "rb") as f:
+            searches_hash = hashlib.md5(f.read()).hexdigest()
+    except OSError:
+        searches_hash = ""
+    if searches_hash != meta.get("searches_hash"):
+        last = None   # searches.csv was edited: search again now
     if last:
         hours = (now_ist() - datetime.fromisoformat(last)).total_seconds() / 3600
         if hours < DISCOVERY_EVERY_HOURS:
@@ -344,6 +352,7 @@ def discover_products(state: dict) -> None:
     if auto:   # keep the old list if every search failed
         meta["auto_products"] = auto
         meta["last_discovery"] = now_ist().isoformat()
+        meta["searches_hash"] = searches_hash
         print(f"Auto list updated: {len(auto)} products")
 
 
@@ -412,7 +421,8 @@ def check_deal(product: dict, info: dict, old: dict) -> tuple:
     drop = last_price - price
     drop_pct = (drop / last_price * 100) if last_price else 0
     min_pct = AUTO_MIN_DROP_PERCENT if product.get("auto") else MIN_DROP_PERCENT
-    big_drop = drop >= MIN_DROP_RUPEES and drop_pct >= min_pct
+    # Cheap daily-use items rarely drop ₹100, so a 10%+ drop also counts.
+    big_drop = drop_pct >= min_pct and (drop >= MIN_DROP_RUPEES or drop_pct >= 10)
     hit_target = target is not None and price <= target < last_price
 
     if not (big_drop or hit_target):
