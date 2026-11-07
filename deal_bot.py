@@ -455,27 +455,30 @@ def check_deal(product: dict, info: dict, old: dict) -> tuple:
 
 
 def build_caption(name: str, asin: str, d: dict) -> str:
-    """Short deal-channel style:
+    """Deal post, price first and easy to read:
 
-    Product name at ₹39,000 💥
+    Lapcare Chillmate Laptop Cooler Pad
 
-    📌 Price dropped ₹1,000 (was ₹40,000)
-    📌 Limited time deal
-    • any extra note from products.csv
+    💰 Deal Price: ₹551 ✅
+    🏷️ MRP: ₹999 (45% off)
+    📉 Dropped ₹148 (was ₹699)
+    ⭐ Lowest price we have tracked
 
-    Link: https://www.amazon.in/dp/...
+    Link: https://amazon.in/dp/...
     """
     e = html.escape
-    lines = [f"{e(short_title(name))} at {rupees(d['now'])} 💥", ""]
-    if d["drop"] > 0:
-        low = " · lowest price yet" if d["is_lowest"] else ""
-        lines.append(f"📌 <b>Price dropped {rupees(d['drop'])} (was {rupees(d['was'])}){low}</b>")
+    lines = [f"<b>{e(short_title(name))}</b>", ""]
+    lines.append(f"💰 <b>Deal Price: {rupees(d['now'])}</b> ✅")
     if d.get("mrp") and d["mrp"] > d["now"]:
         off = round((d["mrp"] - d["now"]) / d["mrp"] * 100)
-        if off >= 10:
-            lines.append(f"📌 {off}% off on MRP {rupees(d['mrp'])}")
+        if off >= 5:
+            lines.append(f"🏷️ MRP: <s>{rupees(d['mrp'])}</s> ({off}% off)")
+    if d["drop"] > 0:
+        lines.append(f"📉 Dropped {rupees(d['drop'])} (was {rupees(d['was'])})")
+    if d["is_lowest"]:
+        lines.append("⭐ Lowest price we have tracked")
     if d.get("badge"):
-        lines.append(f"📌 {e(d['badge'])}")
+        lines.append(f"⏰ {e(d['badge'])}")
     for note in filter(None, (d.get("note") or "").split(";")):
         lines.append(f"• {e(note.strip())}")
     if d.get("link"):   # your own short link from SiteStripe / Amazon app
