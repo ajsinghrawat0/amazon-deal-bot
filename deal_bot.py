@@ -35,9 +35,17 @@ AMAZON_TAG = os.getenv("AMAZON_TAG", "")                  # e.g. yourtag-21
 
 MIN_DROP_PERCENT = float(os.getenv("MIN_DROP_PERCENT", "2"))   # post only if drop >= 2%
 MIN_DROP_RUPEES = float(os.getenv("MIN_DROP_RUPEES", "100"))   # ...and drop >= ₹100
-MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "15"))  # avoid spamming the channel
+MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "8"))  # avoid spamming the channel
 REPOST_COOLDOWN_HOURS = float(os.getenv("REPOST_COOLDOWN_HOURS", "24"))
 DRY_RUN = os.getenv("DRY_RUN", "0") == "1"               # 1 = print posts, don't send
+
+# Auto-discovery: the bot searches Amazon with the keywords in searches.csv
+# once a day and tracks the results (on top of products.csv).
+SEARCHES_FILE = os.getenv("SEARCHES_FILE", "searches.csv")
+MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "500"))
+DISCOVERY_EVERY_HOURS = float(os.getenv("DISCOVERY_EVERY_HOURS", "24"))
+AUTO_MIN_DROP_PERCENT = float(os.getenv("AUTO_MIN_DROP_PERCENT", "5"))  # stricter for auto products
+MIN_RATING = int(os.getenv("MIN_RATING", "4"))   # only products rated 4+ stars
 
 PRODUCTS_FILE = os.getenv("PRODUCTS_FILE", "products.csv")
 STATE_FILE = os.getenv("STATE_FILE", "state.json")
@@ -178,6 +186,7 @@ def fetch_prices(asins: list) -> dict:
 AMAZON_TOKEN_URL = "https://api.amazon.co.uk/auth/o2/token"   # India uses the EU endpoint
 AMAZON_ITEMS_URL = "https://creatorsapi.amazon/catalog/v1/getItems"
 AMAZON_BATCH = 10                                               # max 10 ASINs per request
+AMAZON_SEARCH_URL = "https://creatorsapi.amazon/catalog/v1/searchItems"
 
 
 def _get(d, *keys):
@@ -219,17 +228,116 @@ def parse_amazon_item(item: dict) -> dict:
     }
 
 
-def fetch_prices_amazon(asins: list) -> dict:
-    token = amazon_token()
-    headers = {
-        "Authorization": f"Bearer {token}",
+def amazon_headers() -> dict:
+    return {
+        "Authorization": f"Bearer {amazon_token()}",
         "Content-Type": "application/json",
         "x-marketplace": "www.amazon.in",
     }
+
+
+def amazon_post(url: str, headers: dict, body: dict):
+    """POST with a polite retry when Amazon says 'too many requests'."""
+    for attempt in range(4):
+        r = requests.post(url, headers=headers, json=body, timeout=60)
+        if r.status_code != 429:
+            return r
+        time.sleep(2 * (attempt + 1))
+    return r
+
+
+def search_amazon(headers: dict, row: dict) -> list:
+    """Run one keyword search. Returns list of (asin, title)."""
+    found = []
+    for page in range(1, row["pages"] + 1):
+        body = {
+            "keywords": row["keywords"],
+            "searchIndex": row["category"] or "All",
+            "itemCount": 10,
+            "itemPage": page,
+            "marketplace": "www.amazon.in",
+            "partnerTag": AMAZON_TAG,
+            "condition": "New",
+            "minReviewsRating": MIN_RATING,
+            "resources": ["itemInfo.title"],
+        }
+        if row["min_price"]:
+            body["minPrice"] = int(row["min_price"] * 100)   # rupees -> paise
+        if row["max_price"]:
+            body["maxPrice"] = int(row["max_price"] * 100)
+        r = amazon_post(AMAZON_SEARCH_URL, headers, body)
+        data = r.json()
+        items = _get(data, "searchResult", "items") or []
+        if r.status_code != 200 and not items:
+            print(f"  search '{row['keywords']}' p{page} failed ({r.status_code}): {str(data)[:200]}")
+            break
+        for item in items:
+            asin = _get(item, "asin")
+            if asin:
+                found.append((asin, _get(item, "itemInfo", "title", "displayValue") or ""))
+        time.sleep(1.1)
+        if len(items) < 10:
+            break
+    return found
+
+
+def load_searches(path: str) -> list:
+    if not os.path.exists(path):
+        return []
+    rows = []
+    with open(path, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            kw = (row.get("keywords") or "").strip()
+            if not kw or kw.startswith("#"):
+                continue
+            num = lambda k: float((row.get(k) or "0").strip() or 0)
+            rows.append({
+                "keywords": kw,
+                "category": (row.get("category") or "").strip(),
+                "min_price": num("min_price"),
+                "max_price": num("max_price"),
+                "pages": max(1, min(10, int(num("pages") or 1))),
+            })
+    return rows
+
+
+def discover_products(state: dict) -> None:
+    """Once a day, refresh the auto product list from searches.csv."""
+    meta = state.setdefault("_meta", {})
+    last = meta.get("last_discovery")
+    if last:
+        hours = (now_ist() - datetime.fromisoformat(last)).total_seconds() / 3600
+        if hours < DISCOVERY_EVERY_HOURS:
+            return
+    searches = load_searches(SEARCHES_FILE)
+    if not searches or not (AMAZON_CLIENT_ID and AMAZON_CLIENT_SECRET):
+        return
+    print(f"Finding products: {len(searches)} searches...")
+    headers = amazon_headers()
+    auto = {}
+    for row in searches:
+        try:
+            results = search_amazon(headers, row)
+        except Exception as e:
+            print(f"  search '{row['keywords']}' error: {e}")
+            continue
+        for asin, title in results:
+            if len(auto) >= MAX_AUTO_PRODUCTS:
+                break
+            auto.setdefault(asin, title[:90])
+        print(f"  '{row['keywords']}': {len(results)} found (total {len(auto)})")
+    if auto:   # keep the old list if every search failed
+        meta["auto_products"] = auto
+        meta["last_discovery"] = now_ist().isoformat()
+        print(f"Auto list updated: {len(auto)} products")
+
+
+def fetch_prices_amazon(asins: list) -> dict:
+    headers = amazon_headers()
     results = {}
     for i in range(0, len(asins), AMAZON_BATCH):
         batch = asins[i:i + AMAZON_BATCH]
-        r = requests.post(AMAZON_ITEMS_URL, headers=headers, json={
+        r = amazon_post(AMAZON_ITEMS_URL, headers, {
             "itemIds": batch,
             "itemIdType": "ASIN",
             "marketplace": "www.amazon.in",
@@ -241,7 +349,7 @@ def fetch_prices_amazon(asins: list) -> dict:
                 "offersV2.listings.availability",
                 "offersV2.listings.isBuyBoxWinner",
             ],
-        }, timeout=60)
+        })
         data = r.json()
         items = _get(data, "itemsResult", "items") or _get(data, "itemResults", "items") or []
         if r.status_code != 200 and not items:
@@ -287,7 +395,8 @@ def check_deal(product: dict, info: dict, old: dict) -> tuple:
 
     drop = last_price - price
     drop_pct = (drop / last_price * 100) if last_price else 0
-    big_drop = drop >= MIN_DROP_RUPEES and drop_pct >= MIN_DROP_PERCENT
+    min_pct = AUTO_MIN_DROP_PERCENT if product.get("auto") else MIN_DROP_PERCENT
+    big_drop = drop >= MIN_DROP_RUPEES and drop_pct >= min_pct
     hit_target = target is not None and price <= target < last_price
 
     if not (big_drop or hit_target):
@@ -374,40 +483,38 @@ def run() -> int:
     if not AMAZON_TAG:
         print("Warning: AMAZON_TAG is empty, links will not earn commission.")
 
-    products = load_products(PRODUCTS_FILE)
     state = load_state(STATE_FILE)
-    print(f"Checking {len(products)} products...")
+    products = load_products(PRODUCTS_FILE)
+    try:
+        discover_products(state)
+    except Exception as e:
+        print(f"Product search skipped: {e}")
+    manual = {p["asin"] for p in products}
+    for asin, title in (state.get("_meta", {}).get("auto_products") or {}).items():
+        if asin not in manual:
+            products.append({"asin": asin, "name": "", "target_price": None, "auto": True})
+    print(f"Checking {len(products)} products ({len(manual)} from products.csv)...")
 
     prices = get_prices([p["asin"] for p in products])
-    posts = 0
     stamp = now_ist().isoformat()
+    deals = []
 
     for product in products:
         asin = product["asin"]
         info = prices.get(asin)
         if not info:
-            print(f"{asin}: no data returned")
             continue
         old = state.get(asin, {})
         name = product["name"] or info["title"][:90] or asin
 
         if info["price"] is None:
-            print(f"{asin}: out of stock")
             old["in_stock"] = False
             state[asin] = old
             continue
 
         should_post, details = check_deal(product, info, old)
-        if should_post and posts < MAX_POSTS_PER_RUN:
-            post_deal(asin, build_caption(name, asin, details), info["image"])
-            posts += 1
-            old["last_posted_price"] = info["price"]
-            old["last_posted_at"] = stamp
-            old["ref_price"] = info["price"]
-            print(f"{asin}: POSTED {rupees(details['was'])} -> {rupees(details['now'])}")
-            time.sleep(3)   # stay well inside Telegram's rate limits
-        else:
-            print(f"{asin}: {rupees(info['price'])} (no deal)")
+        if should_post:
+            deals.append((details["drop_pct"], asin, name, details, info))
 
         ref = old.get("ref_price")
         if ref is None or info["price"] > ref:
@@ -420,6 +527,26 @@ def run() -> int:
             "checked_at": stamp,
         })
         state[asin] = old
+
+    # Post the biggest drops first; the rest wait for a later run.
+    deals.sort(key=lambda d: d[0], reverse=True)
+    posts = 0
+    for drop_pct, asin, name, details, info in deals[:MAX_POSTS_PER_RUN]:
+        try:
+            post_deal(asin, build_caption(name, asin, details), info["image"])
+        except Exception as e:
+            print(f"{asin}: post failed: {e}")
+            continue
+        posts += 1
+        state[asin].update({
+            "last_posted_price": info["price"],
+            "last_posted_at": stamp,
+            "ref_price": info["price"],
+        })
+        print(f"{asin}: POSTED {rupees(details['was'])} -> {rupees(details['now'])} ({drop_pct:.0f}% off)")
+        time.sleep(3)   # stay well inside Telegram's rate limits
+    if len(deals) > posts:
+        print(f"{len(deals) - posts} more deal(s) waiting for the next run")
 
     save_state(STATE_FILE, state)
     print(f"Done. Posted {posts} deal(s).")
@@ -437,4 +564,5 @@ def send_test_post() -> int:
 
 
 if __name__ == "__main__":
+    sys.stdout.reconfigure(line_buffering=True)   # show log lines live in GitHub
     sys.exit(send_test_post() if "--test" in sys.argv else run())

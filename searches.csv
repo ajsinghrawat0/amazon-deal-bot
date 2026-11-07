@@ -1,0 +1,70 @@
+keywords,category,min_price,max_price,pages
+# The bot searches Amazon.in with each line once a day and tracks what it finds (max 500 products).
+# Only products rated 4+ stars are picked. Prices are in rupees. pages = how many pages of 10 results (1-10).
+# Add or remove lines anytime. Lines starting with # are ignored.
+# --- Earbuds & headphones ---
+boAt wireless earbuds,,700,4000,2
+Noise wireless earbuds,,700,4000,1
+OnePlus Buds,,1500,10000,1
+JBL earbuds,,1500,12000,1
+realme Buds,,1000,6000,1
+Sony headphones,,2000,30000,1
+JBL headphones,,1500,15000,1
+neckband bluetooth earphones,,500,2500,1
+gaming headphones with mic,,1000,6000,1
+# --- Smartwatches ---
+Noise smartwatch,,1000,6000,2
+boAt smartwatch,,1000,6000,1
+Fire-Boltt smartwatch,,1000,5000,1
+Amazfit smartwatch,,3000,20000,1
+Samsung Galaxy Watch,,10000,40000,1
+# --- Budget phones ---
+Redmi 5G smartphone,,8000,25000,1
+realme 5G smartphone,,8000,25000,1
+iQOO 5G smartphone,,10000,35000,1
+Samsung Galaxy M series 5G,,9000,30000,1
+Samsung Galaxy F series 5G,,9000,30000,1
+OnePlus Nord,,15000,35000,1
+Motorola 5G smartphone,,8000,30000,1
+POCO 5G smartphone,,8000,25000,1
+Lava 5G smartphone,,6000,15000,1
+# --- Laptops ---
+laptop for students,,25000,60000,2
+HP laptop 16GB RAM,,35000,70000,1
+Lenovo IdeaPad laptop,,30000,70000,1
+ASUS Vivobook laptop,,30000,70000,1
+Acer Aspire laptop,,25000,60000,1
+Dell laptop i5,,40000,75000,1
+gaming laptop RTX,,55000,100000,1
+# --- Tablets ---
+Samsung Galaxy Tab,,10000,40000,1
+Redmi Pad,,10000,30000,1
+# --- Accessories ---
+power bank 20000mAh,,800,3000,1
+fast charger type c,,400,2500,1
+wireless mouse,,300,2000,1
+wireless keyboard mouse combo,,700,3500,1
+mechanical keyboard,,1500,6000,1
+pendrive 64GB,,300,1500,1
+portable SSD 1TB,,4000,12000,1
+internal SSD NVMe 1TB,,4000,12000,1
+memory card 128GB,,500,2000,1
+laptop backpack,,700,3000,1
+laptop stand,,500,2500,1
+bluetooth speaker,,1000,8000,1
+# --- Work from home ---
+office chair ergonomic,,3000,15000,1
+monitor 24 inch,,6000,15000,1
+monitor 27 inch,,9000,25000,1
+WiFi router dual band,,1000,5000,1
+webcam full HD,,1000,5000,1
+desk lamp LED,,400,2000,1
+# --- Daily use ---
+beard trimmer for men,,700,3500,1
+hair dryer,,700,3000,1
+electric kettle,,700,2500,1
+steel water bottle,,300,1200,1
+smart plug,,500,1500,1
+# --- Exam prep books ---
+aptitude book for placement,,200,800,1
+reasoning book competitive exams,,200,800,1
