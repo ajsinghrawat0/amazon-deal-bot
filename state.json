@@ -1,10 +1,4445 @@
 {
+  "B000AJIF4E": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6990.0,
+    "lowest_price": 6990.0,
+    "name": "Sony MDR-7506 Professional Wired On Ear Headphones (Best Compatible with Professional Cine",
+    "ref_price": 6990.0
+  },
+  "B008QS9J6Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1995.0,
+    "lowest_price": 1995.0,
+    "name": "Logitech C270 HD Web Camera",
+    "ref_price": 1995.0
+  },
+  "B00BX5FOCK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 790.0,
+    "lowest_price": 790.0,
+    "name": "SANDISK Cruzer Blade 64GB, USB 2.0, Flash drive, Pendrive, Red, 5Y Warranty (SDCZ50-064G-I",
+    "ref_price": 790.0
+  },
+  "B00CEQEGPI": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1495.0,
+    "lowest_price": 1495.0,
+    "name": "Logitech MK270r Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Spill-Res",
+    "ref_price": 1495.0
+  },
+  "B00D3GO8R4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1014.0,
+    "lowest_price": 1014.0,
+    "name": "Tenda N301 Wireless-N300 Easy Setup Router (White, Not a Modem) - RJ45 (single_band, 100 m",
+    "ref_price": 1014.0
+  },
+  "B00KCD8NFY": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 769.73,
+    "lowest_price": 769.73,
+    "name": "Philips India's No.1 Hair Styling Brand -Hair Dryer 1000W |Blow Dry for Men & Women | 2 He",
+    "ref_price": 769.73
+  },
+  "B00KYK2ABI": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "SanDisk Ultra 64GB, USB 3.0, Flash Drive, Upto 130MB/s R, Pendrive, Black, 5Y Warranty (SD",
+    "ref_price": 999.0
+  },
+  "B00PYKLKCS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11500.0,
+    "lowest_price": 11500.0,
+    "name": "Western Digital Elements® 1TB Portable HDD, Black USB 3.0, Compatible with PC, PS4 and Xbo",
+    "ref_price": 11500.0
+  },
+  "B00TO7JUFG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 807.0,
+    "lowest_price": 807.0,
+    "name": "Philips India's No.1 Hair Styling Brand - Foldable Hair Dryer | 1200W | Fast Blow Dry | 2 ",
+    "ref_price": 807.0
+  },
+  "B012MQS060": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 945.0,
+    "lowest_price": 945.0,
+    "name": "Logitech MK215 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact De",
+    "ref_price": 945.0
+  },
+  "B0151AM5UG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1278.0,
+    "lowest_price": 1278.0,
+    "name": "Tenda F3 300Mbps Wi-Fi Router, Easy Setup, WPS Button, Parental Control, Bandwidth Control",
+    "ref_price": 1278.0
+  },
+  "B01J0XWYKQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 445.0,
+    "lowest_price": 445.0,
+    "name": "Logitech B170 USB Mouse,12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+    "ref_price": 445.0
+  },
+  "B01L8ZNWN2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 788.0,
+    "lowest_price": 788.0,
+    "name": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+    "ref_price": 788.0
+  },
+  "B01LYLJ99X": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 759.0,
+    "lowest_price": 759.0,
+    "name": "HP v222w 64GB USB 2.0 Pen Drive, Metal Silver",
+    "ref_price": 759.0
+  },
+  "B01M0GSKNR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 759.0,
+    "lowest_price": 759.0,
+    "name": "HP v150w 64 GB USB 2.0 Flash Drive (Blue)",
+    "ref_price": 759.0
+  },
+  "B01N33BLDT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 949.0,
+    "lowest_price": 949.0,
+    "name": "Havells HD3151 1200 W Foldable Hair Dryer; 3 Heat (Hot/Cool/Warm) Settings Including Cool ",
+    "ref_price": 949.0
+  },
+  "B01N4EV2TL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1495.0,
+    "lowest_price": 1495.0,
+    "name": "Logitech MK240 Nano Wireless USB Keyboard and Mouse Set, 12 Function Keys 2.4GHz Wireless,",
+    "ref_price": 1495.0
+  },
+  "B071P7183Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1300.0,
+    "lowest_price": 1300.0,
+    "name": "AGARO Regency Multipurpose Kettle With Steamer, 1.2L Inner Pot, Double Layered Body, Varia",
+    "ref_price": 1300.0
+  },
+  "B071RSD473": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2049.0,
+    "lowest_price": 2049.0,
+    "name": "TP-Link Archer C50 AC1200 Dual Band Wireless Cable Router, Wi-Fi Speed Up to 867 Mbps/5 GH",
+    "ref_price": 2049.0
+  },
+  "B074C8C6F4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 699.0,
+    "lowest_price": 699.0,
+    "name": "Lapcare Chillmate Powerful Laptop Cooler Pad with Dual 125mm Fans, Silent Operation Noisel",
+    "ref_price": 699.0
+  },
+  "B077Q7F7Z3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11999.0,
+    "lowest_price": 11999.0,
+    "name": "Xiaomi Redmi Y2 (Black, 3GB RAM, 32GB Storage)",
+    "ref_price": 11999.0
+  },
+  "B078L5J7G1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2749.0,
+    "lowest_price": 2749.0,
+    "name": "D-Link DIR-825 |High Speed 1200Mbps Dual Band Wi-Fi Router| Gigabit Ethernet Ports | High-",
+    "ref_price": 2749.0
+  },
+  "B078S4P3J9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2659.0,
+    "lowest_price": 2659.0,
+    "name": "Tribit XSound Go Bluetooth Speaker (2026), 20W, IPX7,24H Playtime,Black | Bluetooth 6.0, X",
+    "ref_price": 2659.0
+  },
+  "B07C9KQ7KR": {
+    "in_stock": false
+  },
+  "B07DGPYKLP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2330.0,
+    "lowest_price": 2330.0,
+    "name": "Tenda AC10 AC1200 Wireless Smart Dual-Band Gigabit WiFi Router, MU-MIMO, 4 Gigabit Ports, ",
+    "ref_price": 2330.0
+  },
+  "B07DKD4ZR3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1979.0,
+    "lowest_price": 1979.0,
+    "name": "Tenda AC5 V3 AC1200 Wireless Dual Band WiFi Router, Speed Up to 867Mbps/5GHz + 300Mbps/2.4",
+    "ref_price": 1979.0
+  },
+  "B07DNQHPND": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9399.0,
+    "lowest_price": 9399.0,
+    "name": "TOSHIBA Canvio Basics 1TB Portable External HDD - USB 3.2 for PC Laptop Windows and Mac, 3",
+    "ref_price": 9399.0
+  },
+  "B07DQ5ZH1D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9799.0,
+    "lowest_price": 9799.0,
+    "name": "Seagate Portable 1TB External HDD – USB 3.0 for PC Laptop and Mac (STGX1000400)",
+    "ref_price": 9799.0
+  },
+  "B07FTRJJPZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6999.0,
+    "lowest_price": 6999.0,
+    "name": "INNOWIN Jazz High Back Office Chair | Mesh Ergonomic Chair with Multi-Tilt Lock, Lumbar Su",
+    "ref_price": 6999.0
+  },
+  "B07GVR9TG7": {
+    "in_stock": false
+  },
+  "B07JPX9CR7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 550.0,
+    "lowest_price": 550.0,
+    "name": "Dell WM118 Wireless Mouse, 1000DPI, 2.4 Ghz with USB Nano Receiver, Optical Tracking, 12-M",
+    "ref_price": 550.0
+  },
+  "B07JQ7157K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "TP-Link TL-WR820N 300 Mbps Speed Wireless WiFi Router, Easy Setup, IPv6 Compatible, Suppor",
+    "ref_price": 1199.0
+  },
+  "B07N8GRWTZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1049.0,
+    "lowest_price": 1049.0,
+    "name": "Tommy Hilfiger Joshua Polyester Unisex 15 Inch Laptop Backpack - Black | 21 Ltr Capacity| ",
+    "ref_price": 1049.0
+  },
+  "B07N8HR66T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1249.0,
+    "lowest_price": 1249.0,
+    "name": "Tommy Hilfiger Joshua Polyester Unisex 15 Inch Laptop Backpack - Navy | 21 Ltr Capacity| P",
+    "ref_price": 1249.0
+  },
+  "B07P3D6Y5B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2449.0,
+    "lowest_price": 2449.0,
+    "name": "SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monito",
+    "ref_price": 2449.0
+  },
+  "B07SLMR1K6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1225.0,
+    "lowest_price": 1225.0,
+    "name": "SANDISK Ultra Flair 64GB, USB 3.0, Flash Drive, Upto 150MB/s R, Pendrive, Metal, 5Y Warran",
+    "ref_price": 1225.0
+  },
+  "B07V82W5CN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1179.0,
+    "lowest_price": 1179.0,
+    "name": "HP USB Wireless Spill Resistance Keyboard and Mouse Combo with 10m Working Range 2.4G Wire",
+    "ref_price": 1179.0
+  },
+  "B07WGQ84V6": {
+    "in_stock": false
+  },
+  "B07WNK1FFN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "AGARO Esteem Electric Multipurpose Kettle 1.2L, 600W, with Stainless Steel Body, Egg Rack,",
+    "ref_price": 999.0
+  },
+  "B07WYJVMY6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17499.0,
+    "lowest_price": 17499.0,
+    "name": "iQOO Z11 Lite 44W 5G (Midnight Blue, 4GB RAM, 64GB Storage)",
+    "ref_price": 17499.0
+  },
+  "B07WYMJPVS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17499.0,
+    "lowest_price": 17499.0,
+    "name": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 64GB Storage)",
+    "ref_price": 17499.0
+  },
+  "B07X1KRPDZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 949.0,
+    "lowest_price": 949.0,
+    "name": "Portronics Key2-A Combo of Multimedia Wireless Keyboard & Mouse, Compact Light-Weight for ",
+    "ref_price": 949.0
+  },
+  "B07X3RGV9C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2129.0,
+    "lowest_price": 2129.0,
+    "name": "NUBWO N16 Gaming Headset - Noise Canceling Mic, Stereo Sound, and Comfortable Design for P",
+    "ref_price": 2129.0
+  },
+  "B083GKDRKR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1729.0,
+    "lowest_price": 1729.0,
+    "name": "Havells Aqua Plus Electric Kettle 1.2 Litre, 1250 Watt | 304 Stainless Steel Inner Body | ",
+    "ref_price": 1729.0
+  },
+  "B086PKMZ21": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3295.0,
+    "lowest_price": 3295.0,
+    "name": "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm ",
+    "ref_price": 3295.0
+  },
+  "B08B3L75WX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6088.0,
+    "lowest_price": 6088.0,
+    "name": "Acer SmartChoice SA242Y E 23.8 Inch Full HD IPS Monitor I 100Hz Refresh Rate I 1ms VRB I A",
+    "ref_price": 6088.0
+  },
+  "B08FXNP7CH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 528.0,
+    "lowest_price": 528.0,
+    "name": "Amazon Brand - Solimo Stainless Steel Insulated 24 Hours Hot or Cold Bottle Flask, 1000 ml",
+    "ref_price": 528.0
+  },
+  "B08FYJKGSX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1998.0,
+    "lowest_price": 1998.0,
+    "name": "TP-Link Archer C24 AC750 Mbps Dual-Band, WiFi Wireless Router | Multi Mode | 4 Antennas | ",
+    "ref_price": 1998.0
+  },
+  "B08GXDMLNJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2708.0,
+    "lowest_price": 2708.0,
+    "name": "TVS ELECTRONICS Gold Prime Mechanical Wired Keyboard | Dustproof Key switches | Guaranteed",
+    "ref_price": 2708.0
+  },
+  "B08HV25BBQ": {
+    "in_stock": false
+  },
+  "B08KDBX8KV": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "BigPassport 1080P Full HD Webcam with Mic | USB Camera for Laptop, PC, Video Calling, Onli",
+    "ref_price": 1499.0
+  },
+  "B08KSTYD3P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "Patriot Memory LX Series Micro SD Flash Memory Card 128GB PSF128GMDC10",
+    "ref_price": 1699.0
+  },
+  "B08KT89BWX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Lenovo 300 FHD Webcam with Full Stereo Dual Built-in Mics | FHD 1080P 2.1 Megapixel CMOS C",
+    "ref_price": 1999.0
+  },
+  "B08NDMTN2W": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "VGR V-071 Professional Beard Trimmer for Men, 2X Fast Charging, USB Type C, 120 Min Runtim",
+    "ref_price": 799.0
+  },
+  "B08QTYYNDN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2799.0,
+    "lowest_price": 2799.0,
+    "name": "JBL Tune 510BT, On Ear Wireless Headphones with Mic, up to 40 Hours Playtime, Pure Bass, Q",
+    "ref_price": 2799.0
+  },
+  "B08ZJDWTJ1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9199.0,
+    "lowest_price": 9199.0,
+    "name": "Seagate Expansion 1TB External HDD - USB 3.0 for Windows and Mac with 3 yr Data Recovery S",
+    "ref_price": 9199.0
+  },
+  "B0913GX9PW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 499.0,
+    "lowest_price": 499.0,
+    "name": "Sumeet Thermo1000 Stainless Steel Vacuum Flask 1000ml, Silver | 12-24 Hours Hot & Cold, IS",
+    "ref_price": 499.0
+  },
+  "B091V8HK8Z": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 839.0,
+    "lowest_price": 839.0,
+    "name": "Milton Appliances Go Electric Kettle 1.8 Litre I 3X Protection - Dry Boil, Auto Shut Off, ",
+    "ref_price": 839.0
+  },
+  "B0929P7NT1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 647.0,
+    "lowest_price": 647.0,
+    "name": "Amazon Brand - Solimo Stainless Steel Water Bottle, Set of 3, 1 L Each (Blitz)",
+    "ref_price": 647.0
+  },
+  "B094XSDC41": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "AGARO 2000W AC Professional Hair Dryer with Comb, Concentrator & Diffuser Nozzles, Hot & C",
+    "ref_price": 1399.0
+  },
+  "B097B3MCSN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1249.0,
+    "lowest_price": 1249.0,
+    "name": "Safari Forge 34L Laptop Backpack, 3 compartments, Raincover, Antitheft pocket, Trolley Sle",
+    "ref_price": 1249.0
+  },
+  "B097JM3NX5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 819.0,
+    "lowest_price": 819.0,
+    "name": "Safari Omega Pro Laptop Backpack With Raincover, 3 Compartments, Bottle Holder, Organizer,",
+    "ref_price": 819.0
+  },
+  "B09BB38CMH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 61000.0,
+    "lowest_price": 61000.0,
+    "name": "ASUS Vivobook 15 (2026),Intel Core 3 100U,Intel iGPU, 16GB RAM, 512GB SSD, FHD, 15.6\"(39.6",
+    "ref_price": 61000.0
+  },
+  "B09BB6DTW9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 51446.0,
+    "lowest_price": 51446.0,
+    "name": "ASUS Vivobook Go 15 (2026),AMD Ryzen 3 30,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD,15.6\"(39.6",
+    "ref_price": 51446.0
+  },
+  "B09BB87Y6D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 63990.0,
+    "lowest_price": 63990.0,
+    "name": "ASUS Vivobook Go 14 (2026),AMD Ryzen 5 40,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD, 14\"(35.5 ",
+    "ref_price": 63990.0
+  },
+  "B09BVCVTBC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2390.0,
+    "lowest_price": 2390.0,
+    "name": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard, 61 Keys Compact Mechanical Keyboard w/Wh",
+    "ref_price": 2390.0
+  },
+  "B09CYX92NB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4749.0,
+    "lowest_price": 4749.0,
+    "name": "JBL Tune 770NC, BITA Award Winner- Most loved Over Ear Wireless Headphones, True Adaptive ",
+    "ref_price": 4749.0
+  },
+  "B09DG9VNWB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13290.0,
+    "lowest_price": 13290.0,
+    "name": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)",
+    "ref_price": 13290.0
+  },
+  "B09DYY72F9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1149.0,
+    "lowest_price": 1149.0,
+    "name": "Philips India's No.1 Hair Styling Brand - Foldable Hair Dryer for Men and Women | 1200W | ",
+    "ref_price": 1149.0
+  },
+  "B09F5WJV8R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9999.0,
+    "lowest_price": 9999.0,
+    "name": "Kingston Xs2000 500G High Performance, Read/Write Speeds Up to 2,000Mb/S, Pocket-Sized Ext",
+    "ref_price": 9999.0
+  },
+  "B09F6DNLBD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4699.0,
+    "lowest_price": 4699.0,
+    "name": "EVM Internal SSD Interface PCle Gen 3x4 Fast Performance, Ultra Low Power Consumption NVME",
+    "ref_price": 4699.0
+  },
+  "B09HNTMPRK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3134.0,
+    "lowest_price": 3134.0,
+    "name": "beAAtho® Verona Mesh Mid Back Ergonomic Office Chair with 3 Years Limited Warranty - Adjus",
+    "ref_price": 3134.0
+  },
+  "B09ML2YBRF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4800.0,
+    "lowest_price": 4800.0,
+    "name": "HIKVISION E3000 Internal NVMe PCIe M.2 SSD 256GB, Internal Solid State Drive, Gen 3x4, 228",
+    "ref_price": 4800.0
+  },
+  "B09MQZY875": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "Cosmic Byte CB-GK-27 Vanth Mechanical Keyboard Upgraded with Swappable Outemu Blue Switche",
+    "ref_price": 1699.0
+  },
+  "B09NCFVNK9": {
+    "in_stock": false
+  },
+  "B09NDJ34RS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1328.0,
+    "lowest_price": 1328.0,
+    "name": "Ant Esports H1100 Pro RGB Wired Over Ear Gaming Headphones for PC / PS4 / PS5 / Xbox One /",
+    "ref_price": 1328.0
+  },
+  "B09P1KK9K1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "ZEBRONICS Zeb-Blitz USB Gaming Headphone with Dolby Atmos, RGB LED, Windows Software, Simu",
+    "ref_price": 1999.0
+  },
+  "B09QFYNJMB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3295.0,
+    "lowest_price": 3295.0,
+    "name": "Razer BlackShark V2 X - White | Multi-Platform Wired Esports On Ear Headset - RZ04-0324070",
+    "ref_price": 3295.0
+  },
+  "B09SBNSFR5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2295.0,
+    "lowest_price": 2295.0,
+    "name": "HP 320 FHD Webcam 1080 Full HD 30fps - Plug and Play Setup, Wide-Angle View for Video Call",
+    "ref_price": 2295.0
+  },
+  "B09T3H12GV": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1329.0,
+    "lowest_price": 1329.0,
+    "name": "Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up t",
+    "ref_price": 1329.0
+  },
+  "B09W2ZWLNQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5999.0,
+    "lowest_price": 5999.0,
+    "name": "EVM 512GB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | High Speed S",
+    "ref_price": 5999.0
+  },
+  "B09W31VBGM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11999.0,
+    "lowest_price": 11999.0,
+    "name": "EVM 1TB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | Laptop Desktop",
+    "ref_price": 11999.0
+  },
+  "B09XS7JWHH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19989.0,
+    "lowest_price": 19989.0,
+    "name": "Sony WH-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones with M",
+    "ref_price": 19989.0
+  },
+  "B0B1SJ7YSK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9766.0,
+    "lowest_price": 9766.0,
+    "name": "JBL Live Pro 2 Premium in Ear Wireless TWS Earbuds, ANC Earbuds, 40Hr Playtime, Dual Conne",
+    "ref_price": 9766.0
+  },
+  "B0B34WJK3X": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 789.0,
+    "lowest_price": 789.0,
+    "name": "FUR JADEN 40L Weekender Travel Laptop Backpack with Anti Theft Pocket, Organizer, 15.6 Inc",
+    "ref_price": 789.0
+  },
+  "B0B3XX8P9C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4499.0,
+    "lowest_price": 4499.0,
+    "name": "JBL Flip Essential 2, Wireless Portable Bluetooth Speaker with Deep Base, IPX7 Water & Dus",
+    "ref_price": 4499.0
+  },
+  "B0B4RZX4YN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 872.0,
+    "lowest_price": 872.0,
+    "name": "Milton Aura 1000 Thermosteel Water Bottle, 24 Hr Hot and Cold I Leak Proof Lid, ISI Certif",
+    "ref_price": 872.0
+  },
+  "B0B5LW5DFQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "Noise Pulse Go Buzz Smart Watch with Advanced Bluetooth Calling, 1.69\" TFT Display, SpO2, ",
+    "ref_price": 1399.0
+  },
+  "B0B6BLTGTT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS ",
+    "ref_price": 1399.0
+  },
+  "B0B919D52V": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 475.0,
+    "lowest_price": 475.0,
+    "name": "WEIRD WOLF Plastic Study Lamp with 3 Colour Modes & Adjustable Brightness Levels Table Lam",
+    "ref_price": 475.0
+  },
+  "B0BCFKG49M": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2799.0,
+    "lowest_price": 2799.0,
+    "name": "HyperX Cloud Stinger 2 Core Essential PC Gaming Wired Headset, Lightweight Over Ear Headse",
+    "ref_price": 2799.0
+  },
+  "B0BD7PHMP9": {
+    "in_stock": false
+  },
+  "B0BG4JX79W": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1786.0,
+    "lowest_price": 1786.0,
+    "name": "Samsung Original 65W Tri Port,Type-C & USB-A,Super Fast Charger (Cable not Included),Black",
+    "ref_price": 1786.0
+  },
+  "B0BG8LZNYL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 540.0,
+    "lowest_price": 540.0,
+    "name": "Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechar",
+    "ref_price": 540.0
+  },
+  "B0BJ72WZQ7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days",
+    "ref_price": 1399.0
+  },
+  "B0BJF85YRR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 709.0,
+    "lowest_price": 709.0,
+    "name": "Portronics Harmonics Z5 Wireless Bluetooth Stereo Headset with 33Hrs Playtime, Double EQ M",
+    "ref_price": 709.0
+  },
+  "B0BS1PRC4L": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2989.0,
+    "lowest_price": 2989.0,
+    "name": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Ch",
+    "ref_price": 2989.0
+  },
+  "B0BS1QCFHX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6989.0,
+    "lowest_price": 6989.0,
+    "name": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, ",
+    "ref_price": 6989.0
+  },
+  "B0BS9QGDF3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Portronics Hydra 10 Mechanical Wireless Gaming Keyboard with Bluetooth 5.0 + 2.4 GHz, RGB ",
+    "ref_price": 1999.0
+  },
+  "B0BTD4S4XF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 899.0,
+    "lowest_price": 899.0,
+    "name": "American Tourister Valex | 28L Backpack | 17\" Laptop Bag | 2 Compartments | College & Offi",
+    "ref_price": 899.0
+  },
+  "B0BTDJGD2K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "BROLAVIYA Overhead LED Desk Lamp Light with Metal arm Stand,3 Lighting Modes,360 Degree Sp",
+    "ref_price": 999.0
+  },
+  "B0BVR9RCYW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 599.0,
+    "lowest_price": 599.0,
+    "name": "Dyazo 10 Angle Aluminum Laptop Stand Portable & Fully Foldable Raiser Compatible for Lenov",
+    "ref_price": 599.0
+  },
+  "B0BW8RVQ3V": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "boAt Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Sup",
+    "ref_price": 1499.0
+  },
+  "B0BW8TXJJ2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "boAt Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Sup",
+    "ref_price": 1599.0
+  },
+  "B0BXXPG6FP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6989.0,
+    "lowest_price": 6989.0,
+    "name": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, ",
+    "ref_price": 6989.0
+  },
+  "B0BY2QJJ8J": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39\" TFT Display with Dual Button, Hands On",
+    "ref_price": 1299.0
+  },
+  "B0BYZ26QGB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "boAt Stone 352/358 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS",
+    "ref_price": 1199.0
+  },
+  "B0BZ4DJ7GZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "boAt Aavante Bar 610, 25W Signature Sound, 2.0 CH with Dual Passive Radiators, 7 HRS Batte",
+    "ref_price": 1699.0
+  },
+  "B0BZPJQ2X2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4499.0,
+    "lowest_price": 4499.0,
+    "name": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Year",
+    "ref_price": 4499.0
+  },
+  "B0BZZ263YF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1099.0,
+    "lowest_price": 1099.0,
+    "name": "MI Xiaomi Beard Trimmer 2C With High Precision Trimming For Men | 2 Beard Comb,USB Type-C,",
+    "ref_price": 1099.0
+  },
+  "B0C3B18PKT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 8779.0,
+    "lowest_price": 8779.0,
+    "name": "Transcend 310C 256GB USB C & USB A External Portable SSD, Up to 1,050 MB/s, 5 Yr Warranty,",
+    "ref_price": 8779.0
+  },
+  "B0C4Q5HNMH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3299.0,
+    "lowest_price": 3299.0,
+    "name": "Noise Halo Plus 1.46\" Super AMOLED Display Elite Smart Watch, Bluetooth Calling, Stainless",
+    "ref_price": 3299.0
+  },
+  "B0C4SN9V5K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4099.0,
+    "lowest_price": 4099.0,
+    "name": "TP-Link Archer AX12 AX1500 Wi-Fi 6 Router | Dual-Band Gigabit Wireless | MU-MIMO & OFDMA |",
+    "ref_price": 4099.0
+  },
+  "B0C5X2JV72": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2799.0,
+    "lowest_price": 2799.0,
+    "name": "Noise Diva (Smartchoice) Smartwatch with Diamond Cut dial, Glossy Metallic Finish, AMOLED ",
+    "ref_price": 2799.0
+  },
+  "B0C663VVP1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 695.0,
+    "lowest_price": 695.0,
+    "name": "Zebronics NC5500D Powerful Laptop Cooler with Dual 125mm Fans, Silent Operation, Adjustabl",
+    "ref_price": 695.0
+  },
+  "B0C74HZ4Y2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 7899.0,
+    "lowest_price": 7899.0,
+    "name": "Foxin SSD 512 GB NVMe | Internal Solid State Drive with Micron Chipset, SMI Controller, M.",
+    "ref_price": 7899.0
+  },
+  "B0C7VYN5PV": {
+    "in_stock": false
+  },
+  "B0C9J1QZ3B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10989.0,
+    "lowest_price": 10989.0,
+    "name": "Consistent 2.5 1 TB SSD with SATA III Interface, 6Gb/s,Read/Write Speed Upto - 570/500 MB/",
+    "ref_price": 10989.0
+  },
+  "B0C9J8NZMF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11899.0,
+    "lowest_price": 11899.0,
+    "name": "CONSISTENT 1TB M.2 NVMe PCIe Internal SSD (CTM2S001S7) Up to 3500MB/s Read | 3D NAND High ",
+    "ref_price": 11899.0
+  },
+  "B0C9TYS4YF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 898.0,
+    "lowest_price": 898.0,
+    "name": "HP 712w 64GB USB 3.2 Flash Drive- Blue",
+    "ref_price": 898.0
+  },
+  "B0CCD2B6SP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 8399.0,
+    "lowest_price": 8399.0,
+    "name": "Lava Yuva 2 (3 GB RAM, UFS 2.2 64GB Storage) - Glass Blue|Unisoc T606 Octa Core Processor|",
+    "ref_price": 8399.0
+  },
+  "B0CCV592KF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 34900.0,
+    "lowest_price": 34900.0,
+    "name": "Samsung Galaxy Watch6 Classic (Smartchoice) (Silver, 43mm) | Rotating Bezel | LTE | Monito",
+    "ref_price": 34900.0
+  },
+  "B0CD4BQ4SF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 65744.0,
+    "lowest_price": 65744.0,
+    "name": "Lenovo Ideapad Slim 3, AMD Ryzen 5 7520U, 16GB, 512GB SSD, FHD Thin and Light Laptop, 15.6",
+    "ref_price": 65744.0
+  },
+  "B0CDWP1D58": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3695.0,
+    "lowest_price": 3695.0,
+    "name": "Redragon K668 RGB Gaming Keyboard, 104 Keys + Extra 4 Hotkeys Wired Mechanical Keyboard w/",
+    "ref_price": 3695.0
+  },
+  "B0CDX74LYS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12999.0,
+    "lowest_price": 12999.0,
+    "name": "Amazfit Balance (Smartchoice) 46mm AMOLED Smart Watch, Body Composition, 14 Days Battery, ",
+    "ref_price": 12999.0
+  },
+  "B0CF5QFH77": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1754.0,
+    "lowest_price": 1754.0,
+    "name": "boAt Nirvana Ion ANC, Active Noise Cancellation(~32dB), 120Hrs Battery, App Support, Cryst",
+    "ref_price": 1754.0
+  },
+  "B0CG22DQ8B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2299.0,
+    "lowest_price": 2299.0,
+    "name": "Noise Vortex Plus 1.46” AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Batter",
+    "ref_price": 2299.0
+  },
+  "B0CG372R11": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3134.05,
+    "lowest_price": 3134.05,
+    "name": "Kreo Owl Full HD 1080P 60 FPS Webcam, Black | Auto-Focus, Built-in Dual Digital Mic, Plug ",
+    "ref_price": 3134.05
+  },
+  "B0CHFM2KTR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3045.0,
+    "lowest_price": 3045.0,
+    "name": "Logitech Brio 100 Full HD 1080P Webcam for Meetings and Streaming, Auto-Light Balance, Bui",
+    "ref_price": 3045.0
+  },
+  "B0CHMN4KVN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6999.0,
+    "lowest_price": 6999.0,
+    "name": "JBL Live 770NC Wireless Over Ear Headphones with True Adaptive Noise Cancelling, Smart Amb",
+    "ref_price": 6999.0
+  },
+  "B0CJ37223B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 18449.0,
+    "lowest_price": 18449.0,
+    "name": "Samsung Galaxy Tab A9 22.10 cm (8.7 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi+4",
+    "ref_price": 18449.0
+  },
+  "B0CJ3TCKYD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 749.0,
+    "lowest_price": 749.0,
+    "name": "Skybags Lumous 3 Compartment Laptop Backpack (E) 16 L Black",
+    "ref_price": 749.0
+  },
+  "B0CJ91BY1H": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12998.0,
+    "lowest_price": 12998.0,
+    "name": "Lava Blaze Pro 5G (Radiant Pearl, 8GB RAM, 128GB Storage)| 50 MP AI Camera |120 Hz FHD+ Di",
+    "ref_price": 12998.0
+  },
+  "B0CKQXW39Q": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "CP PLUS 64GB microSDXC Memory Card Grade UHS-3 Class 10, Up to 70 Mbps Reading & 30 Mbps W",
+    "ref_price": 1499.0
+  },
+  "B0CKRC958Z": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 899.0,
+    "lowest_price": 899.0,
+    "name": "boAt Rockerz 255 Pro+, 60H Battery, Fast Charge, IPX7, Dual Pair,Low Latency,Magnetic Buds",
+    "ref_price": 899.0
+  },
+  "B0CKYXGFZN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 969.0,
+    "lowest_price": 969.0,
+    "name": "ZEBRONICS Companion 301 2.4GHz Wireless Keyboard & Mouse Combo with UV Printed, Retro Styl",
+    "ref_price": 969.0
+  },
+  "B0CL43QZLK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 684.0,
+    "lowest_price": 684.0,
+    "name": "MILTON Aqua 1000 Stainless Steel Water Bottle, 1 pc, 950 ml, Silver (Pack of 2)",
+    "ref_price": 684.0
+  },
+  "B0CL72GGSF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 730.0,
+    "lowest_price": 730.0,
+    "name": "Wesley Luxur 45 Ltrs Overnighter Expandable Travel Laptop Backpack, Flight Cabin Approved ",
+    "ref_price": 730.0
+  },
+  "B0CL7CMTXS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 44990.0,
+    "lowest_price": 44990.0,
+    "name": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB DDR5 Ram, 512 GB SSD PCIe, Windows 11 Lif",
+    "ref_price": 44990.0
+  },
+  "B0CLRCTC58": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4999.0,
+    "lowest_price": 4999.0,
+    "name": "Titan Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown,",
+    "ref_price": 4999.0
+  },
+  "B0CNKKR6SP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9999.0,
+    "lowest_price": 9999.0,
+    "name": "EVM Elite EnSave Pro 512GB Portable External SSD | Up to 2000MB/s | USB 3.2 Gen 2x2 Type-C",
+    "ref_price": 9999.0
+  },
+  "B0CP2KRYLM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 61450.0,
+    "lowest_price": 61450.0,
+    "name": "Lenovo IdeaPad Slim 1, AMD Ryzen 5 5500U, 16GB RAM, 512GB SSD, HD, 15.6\", Windows 11 Home,",
+    "ref_price": 61450.0
+  },
+  "B0CP6BTQKR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "eMeet C950 Full HD 1080P Webcam with Microphone & Privacy Cover, Auto Light Correction, 70",
+    "ref_price": 1899.0
+  },
+  "B0CP9NSXYJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 599.0,
+    "lowest_price": 599.0,
+    "name": "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LE",
+    "ref_price": 599.0
+  },
+  "B0CQRNWJM2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 329.0,
+    "lowest_price": 329.0,
+    "name": "ZEBRONICS Blanc Slim Wireless Mouse with Rechargeable Battery, BT + 2.4GHz, 4 Buttons, 800",
+    "ref_price": 329.0
+  },
+  "B0CQRQT445": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "ZEBRONICS Havoc Premium Gaming Headphone with Dolby Atmos Subscription, 50mm Neodymium Dri",
+    "ref_price": 1899.0
+  },
+  "B0CQXNQYFP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5422.0,
+    "lowest_price": 5422.0,
+    "name": "AULA F75 75% Wireless Mechanical Keyboard | Hot Swappable | Pre-lubed Linear Switches | RG",
+    "ref_price": 5422.0
+  },
+  "B0CRF6NJC3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1523.0,
+    "lowest_price": 1523.0,
+    "name": "Philips OneBlade Turbo2X Hybrid Trim, Edge, Shave | Perfected for Skin Comfort | Trimmer M",
+    "ref_price": 1523.0
+  },
+  "B0CRL8FP2T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 699.0,
+    "lowest_price": 699.0,
+    "name": "boAt Rockerz 235 Pro Wireless Bluetooth Neckband Earphone, Upto 20 hrs of Playtime, Beast ",
+    "ref_price": 699.0
+  },
+  "B0CRVQ43VC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4395.0,
+    "lowest_price": 4395.0,
+    "name": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (White ",
+    "ref_price": 4395.0
+  },
+  "B0CSN6N2L2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "ZEBRONICS Transformer PRO Gaming Wireless Keyboard & Mouse Combo with 2.4GHz, Aluminum Bod",
+    "ref_price": 1699.0
+  },
+  "B0CW9944RQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 735.0,
+    "lowest_price": 735.0,
+    "name": "Beardo Ape-X Prime 3-in-1 Multipurpose Trimmer for Men | Grooming Kit : Beard Trimmer, Pre",
+    "ref_price": 735.0
+  },
+  "B0CW9J2RCL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1250.0,
+    "lowest_price": 1250.0,
+    "name": "BEARDO Studio Professional Tornado Hair Dryer With 2000 Watts Power|Ac Motor, Concentrator",
+    "ref_price": 1250.0
+  },
+  "B0CWS3V8QN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 949.05,
+    "lowest_price": 949.05,
+    "name": "Portronics My Buddy K11 Metal Laptop Stand with 360° Rotation, Height & Angle Adjustable, ",
+    "ref_price": 949.05
+  },
+  "B0CWVX1GNX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12980.0,
+    "lowest_price": 12980.0,
+    "name": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Ma",
+    "ref_price": 12980.0
+  },
+  "B0CY2PLQ8N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 66845.0,
+    "lowest_price": 66845.0,
+    "name": "HP 15, AMD Ryzen 5 7520U,(16GB LPDDR5, 512GB SSD), Anti-Glare, Micro-Edge, FHD, 15.6''/39.",
+    "ref_price": 66845.0
+  },
+  "B0CZLDT5Q9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 327.0,
+    "lowest_price": 327.0,
+    "name": "MILTON Brim 750 Stainless Steel Water Bottle 690 ml, Single Walled, ISI Certified I Leak P",
+    "ref_price": 327.0
+  },
+  "B0D18192T2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 545.0,
+    "lowest_price": 545.0,
+    "name": "Logitech M186 Wireless Mouse, 2.4GHz with USB Mini Receiver, 3 Years Battery Life, 1000 DP",
+    "ref_price": 545.0
+  },
+  "B0D1C7KM6Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Redmi Pad SE| All Day Battery | Qualcomm Snapdragon 680| 90Hz Refresh Rate| 8GB, 128GB Tab",
+    "ref_price": 21999.0
+  },
+  "B0D2KGZZ4R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "Fire-Boltt Brillia Smart Watch 2.02” Super AMOLED Display, Bluetooth Calling, SpO2, Heart ",
+    "ref_price": 1899.0
+  },
+  "B0D2R2MXXJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 512.0,
+    "lowest_price": 512.0,
+    "name": "Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Mot",
+    "ref_price": 512.0
+  },
+  "B0D3596YR4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1060.0,
+    "lowest_price": 1060.0,
+    "name": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank with 22.5W Max Output, LED Battery ",
+    "ref_price": 1060.0
+  },
+  "B0D3HG5CMG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 48990.0,
+    "lowest_price": 48990.0,
+    "name": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR4, 512GB SSD) FHD, Micro-Edge, 15.6\"/39.6cm, Win 11, M3",
+    "ref_price": 48990.0
+  },
+  "B0D3XVTRRY": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1295.0,
+    "lowest_price": 1295.0,
+    "name": "Milton Champ 1.5L 600W Electric Multi Cook Kettle with Steamer | Multipurpose Electric Ket",
+    "ref_price": 1295.0
+  },
+  "B0D473ZDPH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5990.0,
+    "lowest_price": 5990.0,
+    "name": "Green Soul Zodiac Lite | Office Chair|Flybird Ergonomic Design|1D Adjustable Armrests|Sync",
+    "ref_price": 5990.0
+  },
+  "B0D63WC6GM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 581.0,
+    "lowest_price": 581.0,
+    "name": "TARKAN Laptop Stand for Desk, Heavy Metal Riser Stable Height Elevator with Air Flow for 1",
+    "ref_price": 581.0
+  },
+  "B0D6GK2871": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2199.0,
+    "lowest_price": 2199.0,
+    "name": "Noise Pulse 4 Max Smart Watch with AI Create (India's 1st Ever with Unlimited Watch Faces)",
+    "ref_price": 2199.0
+  },
+  "B0D6W7F7WH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "boAt Stone 352 Pro/Stone 358 Pro w/ 14W Signature Sound, Up to 12 Hours Playback, RGB LEDs",
+    "ref_price": 1499.0
+  },
+  "B0D7MCRMKT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11999.0,
+    "lowest_price": 11999.0,
+    "name": "OnePlus Watch 2R with Wear OS 4 by Google,Snapdragon W5 Chipset,Upto 100hrs Battery Life,1",
+    "ref_price": 11999.0
+  },
+  "B0D7ZHKZD3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 950.0,
+    "lowest_price": 950.0,
+    "name": "Havells 1200W Foldable Hair Dryer; 3 Heat Settings With Cool Shot (Hot/Cool/Warm),Heat Bal",
+    "ref_price": 950.0
+  },
+  "B0D83G8R99": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 50692.0,
+    "lowest_price": 50692.0,
+    "name": "Dell Inspiron 15 3535, Windows 11 Home AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, FHD, 15.6\"/3",
+    "ref_price": 50692.0
+  },
+  "B0D8QFDC67": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3799.0,
+    "lowest_price": 3799.0,
+    "name": "beAAtho® Verona Mesh High Back Ergonomic Office Chair with 3 Years Limited Warranty - Adju",
+    "ref_price": 3799.0
+  },
+  "B0D9W55VLG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 698.0,
+    "lowest_price": 698.0,
+    "name": "Ant Esports NC230 Gaming Notebook Cooler for 10–17 Inch Laptops | Cooling Pad with 6 Fans ",
+    "ref_price": 698.0
+  },
+  "B0DB8H4JWR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "ZEBRONICS NS4000 PRO Rotatable Laptop Metal Stand, Upto 17 inch, 360° Fidget Rotation, Fol",
+    "ref_price": 1399.0
+  },
+  "B0DBGNY4XP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12",
+    "ref_price": 1899.0
+  },
+  "B0DBGP48NW": {
+    "in_stock": false
+  },
+  "B0DCK1RYTN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 372.0,
+    "lowest_price": 372.0,
+    "name": "MILTON Glide 1000 Stainless Steel Water Bottle, 1 L, Light Green| Single walled | Leak Pro",
+    "ref_price": 372.0
+  },
+  "B0DCSYTVDD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 56600.0,
+    "lowest_price": 56600.0,
+    "name": "HP 255 G10 Laptop for Home or Work, 16GB RAM DDR5, 512GB SSD, 15.6\" Full HD, Ryzen 3 7335U",
+    "ref_price": 56600.0
+  },
+  "B0DCZ3WDTB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD |Smart 12 Layer Protection|Type C",
+    "ref_price": 1999.0
+  },
+  "B0DCZ9PRCP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19999.0,
+    "lowest_price": 19999.0,
+    "name": "Amazfit T-Rex 3 Smartchoice Outdoor Rugged Military 48mm smart Watch Built in GPS, 27 Days",
+    "ref_price": 19999.0
+  },
+  "B0DDV1GWP7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1689.0,
+    "lowest_price": 1689.0,
+    "name": "EvoFox Katana X2 TKL Mechanical Gaming Keyboard | 3‑Pin Replaceable Clicky Blue Switches, ",
+    "ref_price": 1689.0
+  },
+  "B0DFQ1R3W4": {
+    "in_stock": false
+  },
+  "B0DFWL8F5C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "realme Buds T110 Bluetooth Truly Wireless in Ear Earbuds with mic, AI ENC for Calls, Googl",
+    "ref_price": 1199.0
+  },
+  "B0DG2GCTD7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 59990.0,
+    "lowest_price": 59990.0,
+    "name": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39",
+    "ref_price": 59990.0
+  },
+  "B0DG5DL8TM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 729.0,
+    "lowest_price": 729.0,
+    "name": "EVM EnX 64GB USB 3.2 Gen 1 Flash Drive | Exceptional 120MB/s Read| Sturdy Premium Metal Bo",
+    "ref_price": 729.0
+  },
+  "B0DGGVHMDS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3499.0,
+    "lowest_price": 3499.0,
+    "name": "Fastrack Astor FR2 Pro 1.43\" AMOLED Stainless Steel Smart Watch with SpO2, Heart Rate, BT ",
+    "ref_price": 3499.0
+  },
+  "B0DGGWCJ37": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 312.0,
+    "lowest_price": 312.0,
+    "name": "Portronics Toad 34 Wireless Mouse with 2.4 GHz Wireless, Adjustable Sensitivity, USB Recei",
+    "ref_price": 312.0
+  },
+  "B0DGX1VCWX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2699.0,
+    "lowest_price": 2699.0,
+    "name": "Spigen Audio Newly Launched SA-HP P10 Wireless Over Ear Headphones with 60H Playtime, Upto",
+    "ref_price": 2699.0
+  },
+  "B0DH8FHY3S": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1099.0,
+    "lowest_price": 1099.0,
+    "name": "Blaupunkt 2025 Launch ATOMIK Grab 20W Party Speaker Boombox, Unbelievable Loud & Clear Mus",
+    "ref_price": 1099.0
+  },
+  "B0DHPM9GWB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 16899.0,
+    "lowest_price": 16899.0,
+    "name": "Redmi Pad SE 4G | WiFi Mediatek Helio G55| 8.7-Inc Display | 6650Mah Battery | 90Hz Smooth",
+    "ref_price": 16899.0
+  },
+  "B0DKFT2J9C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 29899.0,
+    "lowest_price": 29899.0,
+    "name": "Samsung Galaxy Watch 7 (44mm, Silver, BT) with 3nm Processor | Dual GPS | Sapphire Glass &",
+    "ref_price": 29899.0
+  },
+  "B0DKK15M2P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 50000.0,
+    "lowest_price": 50000.0,
+    "name": "acer Aspire Lite, 13th Gen, Intel Core i3-1305U, 16GB RAM, 512GB SSD, Full HD 15.6\"/39.62 ",
+    "ref_price": 50000.0
+  },
+  "B0DN5PKTLB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 99990.0,
+    "lowest_price": 99990.0,
+    "name": "HP Victus Gaming Laptop, 14th Gen Intel Core i5-14450HX, 6GB RTX 3050 GPU, 15.6\" (39.6 cm)",
+    "ref_price": 99990.0
+  },
+  "B0DNFRNNDS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1249.0,
+    "lowest_price": 1249.0,
+    "name": "SANDISK Ultra Dual Drive Go Type-C 64GB, OTG, Upto 300MB/s, Pendrive, Navagio Blue, 5Y War",
+    "ref_price": 1249.0
+  },
+  "B0DNPWJLQC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "realme Buds Wireless 5 ANC in Ear Bluetooth Headphones,50dB ANC, 13.6mm Dynamic Bass Drive",
+    "ref_price": 1599.0
+  },
+  "B0DPCNCFGJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 14888.0,
+    "lowest_price": 14888.0,
+    "name": "BenQ GW2790Q, 27 Inch (68.58 cm), IPS, 2K QHD 2560x1440, 100Hz, Black, 99% sRGB, 1500:1 CR",
+    "ref_price": 14888.0
+  },
+  "B0DPKFT27W": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1459.0,
+    "lowest_price": 1459.0,
+    "name": "SWISS MILITARY 30L Laptop Travel Backpack for 15.6 Inch Laptop, Unisex Office & College Ba",
+    "ref_price": 1459.0
+  },
+  "B0DPQWPQN2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9799.0,
+    "lowest_price": 9799.0,
+    "name": "LG 24GS65F Smartchoice 60.47cm (23.8Inch) Ultragear FHD (1920x1080) IPS Gaming Monitor, 18",
+    "ref_price": 9799.0
+  },
+  "B0DQ57M7MD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6949.0,
+    "lowest_price": 6949.0,
+    "name": "Samsung 24\"(60.5 cm) Flat IPS Monitor|IPS Panel|FHD 1920 x 1080|100 Hz|New Super Slim Desi",
+    "ref_price": 6949.0
+  },
+  "B0DQSX3Z76": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9399.0,
+    "lowest_price": 9399.0,
+    "name": "Crucial E100 SSD 480GB M.2 NVMe PCIe Gen4 Internal SSD, Up to 4,700MB/s, Laptop & Desktop ",
+    "ref_price": 9399.0
+  },
+  "B0DSFKDRLW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 658.0,
+    "lowest_price": 658.0,
+    "name": "Clazkit Stainless Steel Water Bottle, 1000 ml - Single-Walled, Spill-Proof, Food Grade Ste",
+    "ref_price": 658.0
+  },
+  "B0DSFPW382": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 59543.0,
+    "lowest_price": 59543.0,
+    "name": "Dell DC 15250 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD,",
+    "ref_price": 59543.0
+  },
+  "B0DSFQZTVW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 73490.0,
+    "lowest_price": 73490.0,
+    "name": "Dell 15 SmartChoice (Previously Inspiron), Intel 13th Gen Core i5-1334U, 16GB, 1TB SSD, FH",
+    "ref_price": 73490.0
+  },
+  "B0DST37ZS3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10789.0,
+    "lowest_price": 10789.0,
+    "name": "Green Soul Jupiter Pro (2026 Edition) | Ergonomic Office Chair for Work | 5 Year Warranty ",
+    "ref_price": 10789.0
+  },
+  "B0DTBPC46X": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 70000.0,
+    "lowest_price": 70000.0,
+    "name": "Lenovo IdeaPad Slim 3X - 2025 - Everyday AI Laptop - Copilot+ PC - 15.3\" WUXGA Display - 1",
+    "ref_price": 70000.0
+  },
+  "B0DV5GLTLZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2799.0,
+    "lowest_price": 2799.0,
+    "name": "boAt Rockerz 650 Pro, Touch/Swipe Controls, Dolby Audio, 80Hrs Battery, 2Mics ENx, Fast Ch",
+    "ref_price": 2799.0
+  },
+  "B0DV984J97": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 43990.0,
+    "lowest_price": 43990.0,
+    "name": "HP 255 Notebook, AMD Athlon Silver 7120U,8GB DDR4, 256GB SSD, 15.6-inch(39.6cm),Anti-Glare",
+    "ref_price": 43990.0
+  },
+  "B0DVC5P58G": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband with 13.4 Mm Dynamic Bass Boost Drive",
+    "ref_price": 1299.0
+  },
+  "B0DXKXG9LC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5333.0,
+    "lowest_price": 5333.0,
+    "name": "KINGSTER 1TB Portable External Hard Drive, Up to 145 MB/s, USB 3.0 2.5-Inch HDD, Ultra-Sli",
+    "ref_price": 5333.0
+  },
+  "B0DXPDYDNV": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "Lifelong Electric Kettle 0.8 Litre with 2 Cups | 600W Stainless Steel Kettle with Double W",
+    "ref_price": 799.0
+  },
+  "B0DXVGVNKN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 99400.0,
+    "lowest_price": 99400.0,
+    "name": "Acer ALG, 13th Gen Intel Core i5-13420H, NVIDIA GeForce RTX 3050-6GB DDR6, 16GB RAM, 512GB",
+    "ref_price": 99400.0
+  },
+  "B0DYKC512N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 18998.0,
+    "lowest_price": 18998.0,
+    "name": "Samsung Galaxy F06 5G (Bahama Blue, 128 GB) (6 GB RAM)",
+    "ref_price": 18998.0
+  },
+  "B0DYP4NYYJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13999.0,
+    "lowest_price": 13999.0,
+    "name": "Samsung Galaxy F06 5G, Bahama Blue (4GB, 128GB)",
+    "ref_price": 13999.0
+  },
+  "B0DZCRYG7R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "realme Buds T200 Lite Bluetooth in Ear Earbuds,4 Mic, AI ENC for Calls,48 Hours Total Play",
+    "ref_price": 1299.0
+  },
+  "B0DZHJT3JB": {
+    "in_stock": false
+  },
+  "B0DZHXSXP4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9499.0,
+    "lowest_price": 9499.0,
+    "name": "Acer Nitro VG270 X1 27 Inch IPS Full HD Backlit LED Gaming Monitor I 0.5 MS Response I 200",
+    "ref_price": 9499.0
+  },
+  "B0F1N8B7Z4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Redmi 13 5G Hawaiian Blue 8GB RAM 128GB ROM (Without Offer)",
+    "ref_price": 21999.0
+  },
+  "B0F1TV64CQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "Portronics Key11 Combo Rechargeable Wireless Keyboard and Mouse Set, Bluetooth 5.3&2.4GHz ",
+    "ref_price": 1499.0
+  },
+  "B0F29HNJL1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 58700.0,
+    "lowest_price": 58700.0,
+    "name": "Lenovo V15 G4 AMD Ryzen 5 7520U 15.6 inch FHD Laptop | 15.6\" FHD Laptop 16GB DDR5 5500MHz ",
+    "ref_price": 58700.0
+  },
+  "B0F3DD2MXD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1139.0,
+    "lowest_price": 1139.0,
+    "name": "Ant Esports H590 7.1 Surround Sound Gaming Headset, USB Wired Over-Ear Headphones with 50m",
+    "ref_price": 1139.0
+  },
+  "B0F3XB7T5Q": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12399.0,
+    "lowest_price": 12399.0,
+    "name": "POCO C71, Cool Blue (4GB, 64GB)",
+    "ref_price": 12399.0
+  },
+  "B0F3XP9GRT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12299.0,
+    "lowest_price": 12299.0,
+    "name": "POCO C71, Power Black (4GB, 64GB)",
+    "ref_price": 12299.0
+  },
+  "B0F43WXC8K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 27999.0,
+    "lowest_price": 27999.0,
+    "name": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla G",
+    "ref_price": 27999.0
+  },
+  "B0F4K8KZS8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2299.0,
+    "lowest_price": 2299.0,
+    "name": "Kreo Hive 65 Wired Mechanical Gaming Keyboard | 65% Layout | Gasket Mount | Metal Volume K",
+    "ref_price": 2299.0
+  },
+  "B0F4KCJG35": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "128GB Micro SD Card with SD Adapter, microSDXC UHS-I C10 U1 Memory Card, 85MB/s Read 30MB/",
+    "ref_price": 1599.0
+  },
+  "B0F4RD9G72": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 16980.0,
+    "lowest_price": 16980.0,
+    "name": "Samsung Galaxy A06 5G, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 128GB Storage, ",
+    "ref_price": 16980.0
+  },
+  "B0F5GV3Y87": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3099.0,
+    "lowest_price": 3099.0,
+    "name": "realme Earbuds Air 7 True Wireless,12.4mm Dynamic Bass Drivers,52Hrs Playtime,52dB Hybrid ",
+    "ref_price": 3099.0
+  },
+  "B0F5QLVD15": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1459.0,
+    "lowest_price": 1459.0,
+    "name": "SWISS MILITARY 30L Laptop Travel Backpack for 15.6 Inch Laptop, Unisex Office & College Ba",
+    "ref_price": 1459.0
+  },
+  "B0F7Y54PJX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 699.0,
+    "lowest_price": 699.0,
+    "name": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge, ENx Technology, App Support, M",
+    "ref_price": 699.0
+  },
+  "B0F845SQKD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 43900.0,
+    "lowest_price": 43900.0,
+    "name": "Acer Aspire Lite, AMD Ryzen 3-5400U, Office 2024 + M365 Basic, 8GB RAM/512GB SSD, Full HD ",
+    "ref_price": 43900.0
+  },
+  "B0F8W13YV4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "PHILIPS Audio TAS2400BK Portable Bluetooth Speaker with Stereo Sound, 32W RMS, 2400mAh Rec",
+    "ref_price": 1899.0
+  },
+  "B0F8W3VKDZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1099.0,
+    "lowest_price": 1099.0,
+    "name": "PHILIPS Audio TAS1400BL Wireless Bluetooth Speaker with Deep Bass, Passive Radiator, 12W S",
+    "ref_price": 1099.0
+  },
+  "B0F94KYCQX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11999.0,
+    "lowest_price": 11999.0,
+    "name": "Amazfit Active 2 Square Smartchoice, 2000 Nits Bright AMOLED Display, Built in GPS, 10Day ",
+    "ref_price": 11999.0
+  },
+  "B0F9TVTWP3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19999.0,
+    "lowest_price": 19999.0,
+    "name": "realme NARZO 80 Lite 5G (Crystal Purple, 4GB+128GB) | 6000mAh Long-Lasting Battery | Media",
+    "ref_price": 19999.0
+  },
+  "B0F9X7Q776": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 7599.0,
+    "lowest_price": 7599.0,
+    "name": "DROGO Aura Ergonomic Gaming Chair with Premium PU Leather Fabric, Linkage Armrest, Adjusta",
+    "ref_price": 7599.0
+  },
+  "B0FB98C9GZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 63000.0,
+    "lowest_price": 63000.0,
+    "name": "ASUS Vivobook Go 15, AMD Ryzen 5 7520U Thin & Light Laptop(AMD Radeon iGPU/8GB RAM/512GB S",
+    "ref_price": 63000.0
+  },
+  "B0FBRGKXHG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1682.0,
+    "lowest_price": 1682.0,
+    "name": "OnePlus Bullets Wireless Z3 in-Ear Neckband with 12.4mm Drivers, 3D Spatial Audio,10 mins ",
+    "ref_price": 1682.0
+  },
+  "B0FBRS76BR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17999.0,
+    "lowest_price": 17999.0,
+    "name": "Redmi Pad 2, 11-inch (27.94 CM CM), LCD Display - 2.5K Sharp & Clear, 4GB RAM, 128GB ROM, ",
+    "ref_price": 17999.0
+  },
+  "B0FBRVRF4F": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21399.0,
+    "lowest_price": 21399.0,
+    "name": "Redmi Pad 2, 11-inch (27.94 CM), LCD Display - 2.5K Sharp & Clear, 6GB RAM, 128GB ROM, Wi-",
+    "ref_price": 21399.0
+  },
+  "B0FC69MZQ7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Noise Junior Champ 3 Smart Watch for Kids | 3-in-1 Look with 2 Switchable Bumpers, in-Buil",
+    "ref_price": 1999.0
+  },
+  "B0FCMPJQ1J": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6099.0,
+    "lowest_price": 6099.0,
+    "name": "OnePlus Buds 4 TWS Earbuds with Upto 55dB Real-time ANC, Adaptive Mode, Dual Drivers and D",
+    "ref_price": 6099.0
+  },
+  "B0FDB9ZCTD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 23999.0,
+    "lowest_price": 23999.0,
+    "name": "Samsung Galaxy M36 5G Mobile (Velvet Black, 8GB RAM, 128GB Storage) | Google Gemini| Goril",
+    "ref_price": 23999.0
+  },
+  "B0FDFVM6CR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 539.0,
+    "lowest_price": 539.0,
+    "name": "Portronics 35W Adapto 35B Dual Port Fast Charging Adaptor with Type C PD Port & USB-A Port",
+    "ref_price": 539.0
+  },
+  "B0FDGFZCRJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1799.0,
+    "lowest_price": 1799.0,
+    "name": "EvoFox Katana X2 FS Mechanical Gaming Keyboard | 3‑Pin Replaceable Clicky Blue Switches, D",
+    "ref_price": 1799.0
+  },
+  "B0FDGVNSLH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3399.0,
+    "lowest_price": 3399.0,
+    "name": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6",
+    "ref_price": 3399.0
+  },
+  "B0FDL2BFP7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "Ambrane 20000mAh Pocket Size Power Bank with Inbuilt Type-C Cable, 22.5W Fast Charging, Ty",
+    "ref_price": 1599.0
+  },
+  "B0FDQ9M1SD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 579.0,
+    "lowest_price": 579.0,
+    "name": "Portronics Toad 8 Transparent Wireless Bluetooth Mouse with Dual Wireless (BT + 2.4 GHz), ",
+    "ref_price": 579.0
+  },
+  "B0FDQJSPJK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17999.0,
+    "lowest_price": 17999.0,
+    "name": "Samsung Galaxy Watch8 (40mm, Bluetooth, Graphite) with 3nm Processor | Dual GPS | Sapphire",
+    "ref_price": 17999.0
+  },
+  "B0FDQK5KSZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Samsung Galaxy Watch8 (44mm, LTE, Graphite) with 3nm Processor | Dual GPS | Sapphire Glass",
+    "ref_price": 21999.0
+  },
+  "B0FDQKWW14": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 50990.0,
+    "lowest_price": 50990.0,
+    "name": "Lenovo IdeaPad Slim 3 Ryzen 3 15.6\" (39.6cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/",
+    "ref_price": 50990.0
+  },
+  "B0FDQLKGBW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 20999.0,
+    "lowest_price": 20999.0,
+    "name": "Samsung Galaxy Watch8 (40mm, LTE, Silver) with 3nm Processor | Dual GPS | Sapphire Glass &",
+    "ref_price": 20999.0
+  },
+  "B0FDWFRC48": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 14799.0,
+    "lowest_price": 14799.0,
+    "name": "Lenovo Tab (Smartchoice) | 10.1 Inch Display| Wi-Fi Only| 4 GB RAM + 64 GB ROM (Expandable",
+    "ref_price": 14799.0
+  },
+  "B0FDWH5WTL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 57375.0,
+    "lowest_price": 57375.0,
+    "name": "Dell 15 (Previously Inspiron), Intel 14th Gen Core i3 / Core 3 100U, 16GB, 512GB SSD, FHD,",
+    "ref_price": 57375.0
+  },
+  "B0FF37F5XR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10800.0,
+    "lowest_price": 10800.0,
+    "name": "Acer KA270 P6 27 Inch IPS Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VRB, AMD F",
+    "ref_price": 10800.0
+  },
+  "B0FF4VMVFN": {
+    "in_stock": false
+  },
+  "B0FFD2YSBY": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6589.0,
+    "lowest_price": 6589.0,
+    "name": "Acer EK240Y P6 P6 23.8 Inch IPS Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VRB ",
+    "ref_price": 6589.0
+  },
+  "B0FFM8M9B5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 26989.0,
+    "lowest_price": 26989.0,
+    "name": "Primebook 2 Pro (2026) AI Laptop | 8GB RAM, 128GB UFS Storage (Expandable upto 1TB) | 14.1",
+    "ref_price": 26989.0
+  },
+  "B0FFMQB3KL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 29989.0,
+    "lowest_price": 29989.0,
+    "name": "Primebook 2 Max (2026) AI Laptop | 8GB RAM, 256GB UFS Storage (Expandable upto 1TB) | 15.6",
+    "ref_price": 29989.0
+  },
+  "B0FFTFL9H1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 25468.0,
+    "lowest_price": 25468.0,
+    "name": "Motorola Edge 60 Fusion 5G, Pantone Mykonos Blue, 256 GB, 12 GB RAM",
+    "ref_price": 25468.0
+  },
+  "B0FG2QT7H2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2699.0,
+    "lowest_price": 2699.0,
+    "name": "boAt Rockerz 512 ANC,(~40dB) Hybrid ANC, 80H Battery, 40mm Drivers, 40ms Low Latency, ENx ",
+    "ref_price": 2699.0
+  },
+  "B0FGXN53SS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9365.0,
+    "lowest_price": 9365.0,
+    "name": "Acer SA272 P1 27 Inch Full HD IPS Ultra Slim (7.2mm Thick) Backlit LED Monitor I Zero Fram",
+    "ref_price": 9365.0
+  },
+  "B0FHBXTVR8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5220.0,
+    "lowest_price": 5220.0,
+    "name": "MAYUMI DRIXEL HS 1TB External Hard Disk for PC, Mac & Mobile (Type-C) | Built-In Type-C Co",
+    "ref_price": 5220.0
+  },
+  "B0FHHL4GC3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "boAt Rockerz Prime 255Z, Spatial Audio,ENx Tech, Dual Pair, 50H Battery, Stream Ad Free Mu",
+    "ref_price": 1599.0
+  },
+  "B0FHWR3TBX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22990.0,
+    "lowest_price": 22990.0,
+    "name": "OnePlus,Pad Lite, 11-inch (27.94 CM), LCD, 8GB RAM, 128GB ROM, WiFi + LTE, Quad Speakers, ",
+    "ref_price": 22990.0
+  },
+  "B0FHWVNVVK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1789.0,
+    "lowest_price": 1789.0,
+    "name": "HIKVISION Extreme 128GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 50MB/s Write Sp",
+    "ref_price": 1789.0
+  },
+  "B0FHWZ4RZM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "HIKVISION Extreme 64GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 40MB/s Write Spe",
+    "ref_price": 1199.0
+  },
+  "B0FJ318CHQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 410.0,
+    "lowest_price": 410.0,
+    "name": "RARECARE Table Lamp for Study Room | Study Lamp with 3 Light Modes | 1 Year Warranty | Lam",
+    "ref_price": 410.0
+  },
+  "B0FJFTMG59": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 23499.0,
+    "lowest_price": 23499.0,
+    "name": "Redmi 15 5G Frosted White 8GB + 128GB | 7000mAh Battery, 17.53cm (6.9) Display Up to 144Hz",
+    "ref_price": 23499.0
+  },
+  "B0FJG1V6RJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 25999.0,
+    "lowest_price": 25999.0,
+    "name": "Lenovo Idea Tab Smartchoice with Pen|Wi-Fi| 11 Inch, 2.5K Display, 500 Nits Brightness| 8G",
+    "ref_price": 25999.0
+  },
+  "B0FJG2TL3C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 28999.0,
+    "lowest_price": 28999.0,
+    "name": "Lenovo Idea Tab Smartchoice with Pen|5G + Wi-Fi|11 Inch,2.5K Display, 500 Nits Brightness|",
+    "ref_price": 28999.0
+  },
+  "B0FJG84M6X": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 518.0,
+    "lowest_price": 518.0,
+    "name": "80W USB-A to Type-C Fast Charger & Cable Compatible with Oneplus/Oppo/Xiaomi/Realme/Samsun",
+    "ref_price": 518.0
+  },
+  "B0FJGDS5W3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 571.0,
+    "lowest_price": 571.0,
+    "name": "45W GaN Type- C Super Fast Charger Compatible with Samsung Galaxy S26/S25/S24/S23/S22/S21/",
+    "ref_price": 571.0
+  },
+  "B0FJYJ8LVY": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 48990.0,
+    "lowest_price": 48990.0,
+    "name": "HP 15 Smartchoice, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, ",
+    "ref_price": 48990.0
+  },
+  "B0FKTLK63R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1799.0,
+    "lowest_price": 1799.0,
+    "name": "realme Buds T200 True Wireless Earbuds with Hi-Res Audio, 12.4mm Dynamic Bass Drivers, 32 ",
+    "ref_price": 1799.0
+  },
+  "B0FL2W325Z": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 968.0,
+    "lowest_price": 968.0,
+    "name": "boAt Airdopes 213, 50H Battery, ENx Tech, Beast Mode, ASAP Charge, Bluetooth Earbuds, TWS ",
+    "ref_price": 968.0
+  },
+  "B0FLF38P8G": {
+    "in_stock": false
+  },
+  "B0FLF44GTQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calling, Functi",
+    "ref_price": 1399.0
+  },
+  "B0FLJD9JM3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1798.0,
+    "lowest_price": 1798.0,
+    "name": "Kreo Owl Lite Full HD Webcam with 1080P 30 FPS, Auto-Focus and Built-in Dual Digital Mic, ",
+    "ref_price": 1798.0
+  },
+  "B0FLY4C8S5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2087.0,
+    "lowest_price": 2087.0,
+    "name": "Sony IER-EX15C Wired in Ear Type C Headphones, in-Line Remote for Volume & Mute Function w",
+    "ref_price": 2087.0
+  },
+  "B0FM2Y25HP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Rockerz 301 ANC, (~30dB) ANC, 13mm Drivers,ENx, 40ms Low Latency, Hall Switch, Stream",
+    "ref_price": 1399.0
+  },
+  "B0FM7WX84H": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "DR VAKU® 65W Charger Type C Fast Adapter with Multi Port Dual PD Charging GaN Technology f",
+    "ref_price": 999.0
+  },
+  "B0FMDL81GS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1700.0,
+    "lowest_price": 1700.0,
+    "name": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+    "ref_price": 1700.0
+  },
+  "B0FMDLD86P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1849.0,
+    "lowest_price": 1849.0,
+    "name": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+    "ref_price": 1849.0
+  },
+  "B0FN7QTRPY": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11999.0,
+    "lowest_price": 11999.0,
+    "name": "Samsung Galaxy M07 Mobile (Black, 4GB RAM, 64GB Storage) | MediaTek Helio G99 | AnTuTu 624",
+    "ref_price": 11999.0
+  },
+  "B0FN8745CD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10699.0,
+    "lowest_price": 10699.0,
+    "name": "Samsung 27\" (68.5cm) 100Hz Curved Monitor|1800R Curved Screen|100Hz|4ms|SRGB 95%|Ports-HDM",
+    "ref_price": 10699.0
+  },
+  "B0FNN886G7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 699.0,
+    "lowest_price": 699.0,
+    "name": "Lifelong Stainless Steel Water Bottle 900ml | Leak-Proof, Rust-Free, Odour-Free & Easy-to-",
+    "ref_price": 699.0
+  },
+  "B0FNWNZZ1B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 30999.0,
+    "lowest_price": 30999.0,
+    "name": "Samsung Galaxy Tab S10 Lite [Smartchoice], 10.9-inch (27.7 CM), LCD Display, 6GB RAM, 128G",
+    "ref_price": 30999.0
+  },
+  "B0FPCZ6Q8Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "Noise Twist Go Smart Watch 1.39\" Display, TruSyncᵀᴹ BT Calling, Glossy Metal Finish, 150+ ",
+    "ref_price": 1599.0
+  },
+  "B0FPGBDLHS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 53490.0,
+    "lowest_price": 53490.0,
+    "name": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i3-1315U 15.6 inch (39.6cm) FHD Laptop (8GB RAM/",
+    "ref_price": 53490.0
+  },
+  "B0FQ5F2QSQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10799.0,
+    "lowest_price": 10799.0,
+    "name": "Dell S2425HSM 24\"/60.45cm FHD Monitor|Ash White|144Hz Refresh|99% Srgb, 300 cd/m2 Brightne",
+    "ref_price": 10799.0
+  },
+  "B0FQBX87B7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 14850.0,
+    "lowest_price": 14850.0,
+    "name": "Samsung Galaxy F06 5G (Lit Violet, 64 GB) (4 GB RAM)",
+    "ref_price": 14850.0
+  },
+  "B0FQJNCX67": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17990.0,
+    "lowest_price": 17990.0,
+    "name": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 4 GB RAM, 64 GB Storage, Wi-F",
+    "ref_price": 17990.0
+  },
+  "B0FQJQ1YG8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 24980.0,
+    "lowest_price": 24980.0,
+    "name": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 8 GB RAM, 128 GB Storage, Wi-",
+    "ref_price": 24980.0
+  },
+  "B0FQJQQWG3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19999.0,
+    "lowest_price": 19999.0,
+    "name": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 4 GB RAM, 64 GB Storage, Wi-F",
+    "ref_price": 19999.0
+  },
+  "B0FQV27MZK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "Cosmic Byte CryoCore Wired Gaming Headset for PC with 7.1.4 THX Spatial Audio, 50mm Hi-Fi ",
+    "ref_price": 1899.0
+  },
+  "B0FQW98HT2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 998.0,
+    "lowest_price": 998.0,
+    "name": "NYRWANA LED Table Lamp for Study Room, Adjustable Arm Desk Lamp, 3 Color Modes, 10-Level D",
+    "ref_price": 998.0
+  },
+  "B0FRSW8QRX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22490.0,
+    "lowest_price": 22490.0,
+    "name": "Samsung Galaxy F17 5G (Violet Pop, 128 GB) (6 GB RAM)",
+    "ref_price": 22490.0
+  },
+  "B0FSLSGHN8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2199.0,
+    "lowest_price": 2199.0,
+    "name": "REDMI Watch Move 1.85 Premium AmoLED,14 Day Battery,Best Accuracy,Dual Core Processor Smar",
+    "ref_price": 2199.0
+  },
+  "B0FT8TXXZS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 23740.0,
+    "lowest_price": 23740.0,
+    "name": "Samsung Galaxy F36 5G (Red, 128 GB) (8 GB RAM) | 8 GB RAM",
+    "ref_price": 23740.0
+  },
+  "B0FTFCHTQX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "Mivi DuoPods Marathon Earbuds Wireless | Fast Charge | 70H Playtime | BT v5.3 | 13mm Drive",
+    "ref_price": 799.0
+  },
+  "B0FTFHW5F6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "Mivi DuoPods Echo | AI-ENC Calls| IPX 4.0 Earphone Wireless | 13mm Drivers Earbuds | TWS E",
+    "ref_price": 799.0
+  },
+  "B0FV3R4JZX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6999.0,
+    "lowest_price": 6999.0,
+    "name": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+    "ref_price": 6999.0
+  },
+  "B0FV3RJBV7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6999.0,
+    "lowest_price": 6999.0,
+    "name": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+    "ref_price": 6999.0
+  },
+  "B0FV3S8RNN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6999.0,
+    "lowest_price": 6999.0,
+    "name": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+    "ref_price": 6999.0
+  },
+  "B0FVLFTL4B": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "realme Buds T310 Truly Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 1",
+    "ref_price": 1899.0
+  },
+  "B0FWCRMYGT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4999.0,
+    "lowest_price": 4999.0,
+    "name": "Noise Diva Araya Smartwatch for Women with AMOLED Display (850 Nits), 60 Precision-Set Cry",
+    "ref_price": 4999.0
+  },
+  "B0FX9KJWH2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 8799.0,
+    "lowest_price": 8799.0,
+    "name": "Lenovo L24-4C| 24 Inch (60.96cm) Ultraslim PC Monitor, IPS, FHD 1920x1080, 144Hz, 99% sRGB",
+    "ref_price": 8799.0
+  },
+  "B0FX9NWX64": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10599.0,
+    "lowest_price": 10599.0,
+    "name": "Lenovo L27-4C| 27 Inch (68.58 cm) Ultraslim Monitor, FHD 1920x1080, IPS, 144Hz, 99% sRGB, ",
+    "ref_price": 10599.0
+  },
+  "B0G1BS9S4Q": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Samsung Galaxy Tab A11+ [Smartchoice], 11-inch (27.82 CM), LCD Display, 6GB RAM, 128GB ROM",
+    "ref_price": 21999.0
+  },
+  "B0G1C5DM4T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 24821.0,
+    "lowest_price": 24821.0,
+    "name": "Samsung Galaxy Tab A11+, 11-inch (27.82 CM), LCD Display, 6GB RAM, 128GB ROM, Wi-Fi+5G, Qu",
+    "ref_price": 24821.0
+  },
+  "B0G1T2GZP9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animat",
+    "ref_price": 1399.0
+  },
+  "B0G2GGLTMF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 749.0,
+    "lowest_price": 749.0,
+    "name": "Mivi DuoPods Sync in Ear Earbuds | 60H Playtime Bluetooth Earphones Wireless | Earbuds ENC",
+    "ref_price": 749.0
+  },
+  "B0G2MM7VH9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 56810.0,
+    "lowest_price": 56810.0,
+    "name": "HP 15 (2025) AMD Ryzen 3 7335U Quad Core Laptop 16GB DDR5 512GB SSD AMD Radeon Graphics Wi",
+    "ref_price": 56810.0
+  },
+  "B0G2R8YYXZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 90500.0,
+    "lowest_price": 90500.0,
+    "name": "HP Victus, 13th Gen Intel Core i5-13420H, 6GB RTX 3050, 16GB DDR4, 512GB SSD, FHD, 144Hz, ",
+    "ref_price": 90500.0
+  },
+  "B0G2S8C4VQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3249.0,
+    "lowest_price": 3249.0,
+    "name": "Philips India's No.1 Men's Trimmer* | One tool, ultimate precision | BeardSense Technology",
+    "ref_price": 3249.0
+  },
+  "B0G3SWTTQ7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22450.0,
+    "lowest_price": 22450.0,
+    "name": "Motorola G57 Power 5G (Corsair, 8GB RAM, 128GB Storage)",
+    "ref_price": 22450.0
+  },
+  "B0G3T3HZC6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22690.0,
+    "lowest_price": 22690.0,
+    "name": "Motorola G57 Power 5G (Regatta, 8GB RAM, 128GB Storage) | Snapdragon 6s Gen 4 Processor | ",
+    "ref_price": 22690.0
+  },
+  "B0G3TFPN94": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21499.0,
+    "lowest_price": 21499.0,
+    "name": "Motorola G57 Power 5G (Fluidity, 8GB RAM, 128GB Storage)| Snapdragon 6s Gen 4 Processor | ",
+    "ref_price": 21499.0
+  },
+  "B0G3X99MZS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22985.0,
+    "lowest_price": 22985.0,
+    "name": "realme P4X Smartphone 6.72 inch 144Hz Display 7000mAh Titan Bettery 45W Fast Charge 6GB RA",
+    "ref_price": 22985.0
+  },
+  "B0G48L1X1S": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 948.0,
+    "lowest_price": 948.0,
+    "name": "boAt Airdopes 212, 50H Battery, ENx Tech, Beast Mode, ASAP Charge, Bluetooth Earbuds, TWS ",
+    "ref_price": 948.0
+  },
+  "B0G4F6ZCSV": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13499.0,
+    "lowest_price": 13499.0,
+    "name": "Amazfit Active Max(Smartchoice) Smart Watch 1.5\" AMOLED Display,25-Day Battery,Offline Map",
+    "ref_price": 13499.0
+  },
+  "B0G4QQNK1K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 29447.0,
+    "lowest_price": 29447.0,
+    "name": "OnePlus, Pad Go 2, 12.1 inch (30.73 CM), LCD, 8GB RAM, 128GB ROM, Wi-Fi, Quad Speakers, Ey",
+    "ref_price": 29447.0
+  },
+  "B0G5G7LCJQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 28999.0,
+    "lowest_price": 28999.0,
+    "name": "REDMI Note 15 5G (Glacier Blue, 8GB RAM 128GB Storage) | 108MP OIS Camera | Snapdragon 6 G",
+    "ref_price": 28999.0
+  },
+  "B0G6DVB6DG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "Philips India's No.1 Men's Trimmer* | Engineered for skin safe grooming | Skin protect tec",
+    "ref_price": 1299.0
+  },
+  "B0G6KNC9ZZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11330.0,
+    "lowest_price": 11330.0,
+    "name": "Tecno Spark GO 3 (Ink Black, 4GB+64GB | Super Durability Drop Resistant & IP64 Rated | Mak",
+    "ref_price": 11330.0
+  },
+  "B0G81P4MPG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 6GB RAM, 128GB Storage) | 50MP OIS Triple Ca",
+    "ref_price": 21999.0
+  },
+  "B0G81T8LC8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 18999.0,
+    "lowest_price": 18999.0,
+    "name": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 4GB RAM, 128GB Storage) | 50MP OIS Triple ",
+    "ref_price": 18999.0
+  },
+  "B0G81TPT89": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21999.0,
+    "lowest_price": 21999.0,
+    "name": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 6GB RAM, 128GB Storage) | 50MP OIS Triple ",
+    "ref_price": 21999.0
+  },
+  "B0G92LZJD3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 53000.0,
+    "lowest_price": 53000.0,
+    "name": "ASUS Vivobook 15 (2025), 13th Gen,Intel Core i3-1315U, 8GB RAM, 512GB SSD, FHD, 15.6\", 39.",
+    "ref_price": 53000.0
+  },
+  "B0GCBB7KMQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22689.0,
+    "lowest_price": 22689.0,
+    "name": "Motorola G57 Power 5G (Regatta, 8GB RAM, 128GB Storage) | Snapdragon 6s Gen 4 Processor | ",
+    "ref_price": 22689.0
+  },
+  "B0GD69BWD6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 599.0,
+    "lowest_price": 599.0,
+    "name": "80w Fast Charger Adapter & USB-A to Type C Cable Combo, Compatible with OnePlus, Realme, X",
+    "ref_price": 599.0
+  },
+  "B0GDGGGG35": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 585.0,
+    "lowest_price": 585.0,
+    "name": "HIKVISION M225 64GB USB 2.0 Metal Pen Drive | Compact & Durable Flash Drive for Laptop and",
+    "ref_price": 585.0
+  },
+  "B0GDQ26XZB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 26999.0,
+    "lowest_price": 26999.0,
+    "name": "Redmi Pad 2 Pro, 12.1-inch (30.73 CM), LCD Display - 2.5K Sharp & Clear, 8GB RAM, 128GB RO",
+    "ref_price": 26999.0
+  },
+  "B0GDQ28DY5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3799.0,
+    "lowest_price": 3799.0,
+    "name": "realme Buds Air 8,11mm+6mm Dual Dynamic Bass Drivers,58Hrs Playtime, 55dB ANC,6 Mic ENC, 4",
+    "ref_price": 3799.0
+  },
+  "B0GDTK3VR6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 399.0,
+    "lowest_price": 399.0,
+    "name": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightw",
+    "ref_price": 399.0
+  },
+  "B0GDTSH5BW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 374.0,
+    "lowest_price": 374.0,
+    "name": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightw",
+    "ref_price": 374.0
+  },
+  "B0GFLS72L8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 6448.0,
+    "lowest_price": 6448.0,
+    "name": "acer EK240Y P0 23.8 Inch VA Panel Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VR",
+    "ref_price": 6448.0
+  },
+  "B0GFMT9VKP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 599.0,
+    "lowest_price": 599.0,
+    "name": "PHILIPS 5W CLARO White LED Desk Light | 3-in-1 Study & Table Lamp | EyeComfort Technology ",
+    "ref_price": 599.0
+  },
+  "B0GFN87SXK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 599.0,
+    "lowest_price": 599.0,
+    "name": "PHILIPS 5W VION White LED Desk Light | 3-in-1 Study & Table Lamp | EyeComfort Technology |",
+    "ref_price": 599.0
+  },
+  "B0GFVKCNP1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13499.0,
+    "lowest_price": 13499.0,
+    "name": "realme C71 4G Smartphone 4GB+64GB Black | 6300mAh Battery, 6.745 inch Screen, 90Hz Eye Com",
+    "ref_price": 13499.0
+  },
+  "B0GGRDS2XR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19485.0,
+    "lowest_price": 19485.0,
+    "name": "Poco C85 5G Power Black 6GB RAM 128GB ROM",
+    "ref_price": 19485.0
+  },
+  "B0GGRTW1TC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 20980.0,
+    "lowest_price": 20980.0,
+    "name": "Poco C85 5G Mystic Purple 6GB RAM 128GB ROM",
+    "ref_price": 20980.0
+  },
+  "B0GH71CR2D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22850.0,
+    "lowest_price": 22850.0,
+    "name": "Poco M8 5G Carbon Black 6GB RAM 128GB ROM",
+    "ref_price": 22850.0
+  },
+  "B0GHDG5GP3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+    "ref_price": 1699.0
+  },
+  "B0GHDWJ8DR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+    "ref_price": 1699.0
+  },
+  "B0GHF61Z9N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+    "ref_price": 1299.0
+  },
+  "B0GHL3KLX4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 890.0,
+    "lowest_price": 890.0,
+    "name": "Beetel Volte Series PB20 20000mAh Power Bank 22.5W Fast Charging | Triple | Triple Output ",
+    "ref_price": 890.0
+  },
+  "B0GJSFFLXZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11299.0,
+    "lowest_price": 11299.0,
+    "name": "SANDISK Optimus™ 5100 NVMe™ SSD, 500GB, Upto 6600MB/s R, 5600MB/s W, 5Y Warranty, PCIe Gen",
+    "ref_price": 11299.0
+  },
+  "B0GK1MTWC1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "truke New Launch Mega 12 True Wireless in Ear Earbuds W/ 24-Bit Spatial Audio, Premium Lea",
+    "ref_price": 999.0
+  },
+  "B0GL7QWQF1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2699.0,
+    "lowest_price": 2699.0,
+    "name": "ZEBRONICS 2026 Launch 50W Bluetooth Speaker, Dual 5.7cm Drivers, 8.9cm Subwoofer, Upto 5Hr",
+    "ref_price": 2699.0
+  },
+  "B0GLFVSH8Z": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 61900.0,
+    "lowest_price": 61900.0,
+    "name": "ASUS Vivobook 15 (2026),Intel Core i3-1315U, Intel iGPU, 16GB RAM, 512GB SSD, FHD, 15.6\"(3",
+    "ref_price": 61900.0
+  },
+  "B0GLH6M7DL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4686.0,
+    "lowest_price": 4686.0,
+    "name": "AULA F75 75% Wireless PBT Keycaps Mechanical Keyboard | Hot Swappable, Pre-lubed Linear Sw",
+    "ref_price": 4686.0
+  },
+  "B0GLPHXR6N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 14999.0,
+    "lowest_price": 14999.0,
+    "name": "JBL Live 780NC, BITA Award Winner- Product of the Year, Advanced Noise Cancellation 2.0 Wi",
+    "ref_price": 14999.0
+  },
+  "B0GMK9KF8Z": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days",
+    "ref_price": 1399.0
+  },
+  "B0GMQLQGFW": {
+    "in_stock": false
+  },
+  "B0GN1J78Z2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19999.0,
+    "lowest_price": 19999.0,
+    "name": "Samsung Galaxy M17e 5G Mobile (Blitz Blue, 6GB RAM, 128GB Storage, Monster 6000mAh Battery",
+    "ref_price": 19999.0
+  },
+  "B0GN1NNYXF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 19999.0,
+    "lowest_price": 19999.0,
+    "name": "Samsung Galaxy M17e 5G Mobile (Vibe Violet, 6GB RAM, 128GB Storage, Monster 6000mAh Batter",
+    "ref_price": 19999.0
+  },
+  "B0GP6YWSY2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 37999.0,
+    "lowest_price": 37999.0,
+    "name": "Lenovo {Smartchoice} Idea Tab Pro with Pen Plus & Keyboard|12.7\" 3K Display|144 Hz Refresh",
+    "ref_price": 37999.0
+  },
+  "B0GPDNKWQ3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Wave Sigma 3 Curv Smartwatch with 2.01” (5.33 cm) Immersive Curved Display, Metallic ",
+    "ref_price": 1399.0
+  },
+  "B0GPDYDDZZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "boAt Wave Sigma 3 Curv Smartwatch with 2.01” (5.33 cm) Immersive Curved Display, Metallic ",
+    "ref_price": 1299.0
+  },
+  "B0GQ17GY1H": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 55470.0,
+    "lowest_price": 55470.0,
+    "name": "HP Professional 15 (2026), Intel (i3 14th Gen) Core 3 100U - (16 GB/512 GB SSD/Intel UHD G",
+    "ref_price": 55470.0
+  },
+  "B0GQSHYJ2D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22748.0,
+    "lowest_price": 22748.0,
+    "name": "Redmi Pad 2, 11-inch (27.94 CM), LCD Display - 2.5K Sharp & Clear, 4GB RAM, 128GB ROM, Wi-",
+    "ref_price": 22748.0
+  },
+  "B0GQTNXDYM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4199.0,
+    "lowest_price": 4199.0,
+    "name": "OnePlus Nord Buds 4 Pro E518A Radiant Gray in",
+    "ref_price": 4199.0
+  },
+  "B0GQTSHLLR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4199.0,
+    "lowest_price": 4199.0,
+    "name": "OnePlus Nord Buds 4 Pro E518A Raven Black in",
+    "ref_price": 4199.0
+  },
+  "B0GR64G4H6": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 68990.0,
+    "lowest_price": 68990.0,
+    "name": "Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, ",
+    "ref_price": 68990.0
+  },
+  "B0GRBQYQY3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 12794.0,
+    "lowest_price": 12794.0,
+    "name": "Samsung Galaxy A07 LTE (Green, 4GB RAM, 64GB Storage) | 50MP Dual Camera | 6.7 Inch HD+ Di",
+    "ref_price": 12794.0
+  },
+  "B0GRGP1B8Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 899.0,
+    "lowest_price": 899.0,
+    "name": "Philips India's No.1 Men's Trimmer* | Lift & Trim Technology | Skin Friendly Beard Trimmer",
+    "ref_price": 899.0
+  },
+  "B0GRMZ8X9R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 29589.0,
+    "lowest_price": 29589.0,
+    "name": "Motorola Edge 70 Fusion (Pantone Blue Surf, 8GB RAM, 128GB Storage) | 6.78\" 1.5K 144Hz AMO",
+    "ref_price": 29589.0
+  },
+  "B0GS5BHX4N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 749.0,
+    "lowest_price": 749.0,
+    "name": "Havells 1000W Foldable Hair Dryer|Blow Dry for Men & Women|2 Temperature Settings|Travel F",
+    "ref_price": 749.0
+  },
+  "B0GSQQNKQC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 791.0,
+    "lowest_price": 791.0,
+    "name": "Philips India's No.1 Men's Trimmer* | Skin Safe Beard Trimmer for Men | Durapower tech | S",
+    "ref_price": 791.0
+  },
+  "B0GSQRXKZ2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "GOBOULT Y1 v2.0 Ear Buds Wireless with 60H Playtime, Zen Quad Mic ENC, 45ms Low Latency, T",
+    "ref_price": 999.0
+  },
+  "B0GSV7DPV5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3299.0,
+    "lowest_price": 3299.0,
+    "name": "CrossBeats Everest 2.0 | Latest 2026 Smart Watch for man | 1.43\" AMOLED Always ON Display ",
+    "ref_price": 3299.0
+  },
+  "B0GSVR9C3X": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 99990.0,
+    "lowest_price": 99990.0,
+    "name": "Lenovo LOQ Essential AMD Ryzen 7 170 | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/FHD IPS/144",
+    "ref_price": 99990.0
+  },
+  "B0GT5BKZB2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4999.0,
+    "lowest_price": 4999.0,
+    "name": "Noise Alt Watch 1 Smart Watch 1.32” AMOLED Display, Built-in GPS, AI Suite, Functional Rot",
+    "ref_price": 4999.0
+  },
+  "B0GTFQG1BQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1849.0,
+    "lowest_price": 1849.0,
+    "name": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+    "ref_price": 1849.0
+  },
+  "B0GTVDH4G2": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 60990.0,
+    "lowest_price": 60990.0,
+    "name": "HP 15, AMD Ryzen 5 7520U (16GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm",
+    "ref_price": 60990.0
+  },
+  "B0GTZJVD3Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 99990.0,
+    "lowest_price": 99990.0,
+    "name": "Lenovo LOQ Essential AMD Ryzen 7 7735HS | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Re",
+    "ref_price": 99990.0
+  },
+  "B0GV1L119H": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 58590.0,
+    "lowest_price": 58590.0,
+    "name": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 16GB D",
+    "ref_price": 58590.0
+  },
+  "B0GVFQD1JK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11750.0,
+    "lowest_price": 11750.0,
+    "name": "REDMI A7 4G (Black, 3 GB RAM, 64GB Storage) | Large 17.48cm (6.88) Smooth 120Hz Display | ",
+    "ref_price": 11750.0
+  },
+  "B0GVFVND7C": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11760.0,
+    "lowest_price": 11760.0,
+    "name": "REDMI A7 4G (Sky Blue, 3 GB RAM, 64GB Storage) | Large 17.48cm (6.88) Smooth 120Hz Display",
+    "ref_price": 11760.0
+  },
+  "B0GVJQTMRH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 15499.0,
+    "lowest_price": 15499.0,
+    "name": "REDMI 15A 5G Awesome Blue 4GB RAM 64GB ROM",
+    "ref_price": 15499.0
+  },
+  "B0GVJZ56K5": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 669.0,
+    "lowest_price": 669.0,
+    "name": "HIKVISION Extreme 16GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 15MB/s Write Spe",
+    "ref_price": 669.0
+  },
+  "B0GVNP7J9Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 48890.0,
+    "lowest_price": 48890.0,
+    "name": "Acer TravelLite TL04-41M 14.0\" FHD Laptop, AMD Ryzen 3 5400U, 16GB RAM | 512GB SSD, Window",
+    "ref_price": 48890.0
+  },
+  "B0GVYF57G9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 32499.0,
+    "lowest_price": 32499.0,
+    "name": "OnePlus Nord CE6 Lite | 8GB+256GB | Vivid Mint | Segment's Fastest Dimensity 7400 Apex Pro",
+    "ref_price": 32499.0
+  },
+  "B0GVYFM7QZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 32499.0,
+    "lowest_price": 32499.0,
+    "name": "OnePlus Nord CE6 Lite | 8GB+256GB | Hyper Black | Segment's Fastest Dimensity 7400 Apex Pr",
+    "ref_price": 32499.0
+  },
+  "B0GVYGLNH7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 26499.0,
+    "lowest_price": 26499.0,
+    "name": "OnePlus Nord CE6 Lite | 8GB+128GB | Vivid Mint | Segment's Fastest Dimensity 7400 Apex Pro",
+    "ref_price": 26499.0
+  },
+  "B0GVZ7JJRP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2999.0,
+    "lowest_price": 2999.0,
+    "name": "realme Buds T500 Pro TWS Earbuds with 12.4mm Drivers, Upto 50dB ANC,3D Spatial Audio, 56H ",
+    "ref_price": 2999.0
+  },
+  "B0GW8PLMZM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13299.0,
+    "lowest_price": 13299.0,
+    "name": "Dell SE2726D 27 inch (68.58 cm) QHD IPS Display, 144Hz Refresh, AMD FreeSync, Eye Comfort ",
+    "ref_price": 13299.0
+  },
+  "B0GWF2HM26": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 15990.0,
+    "lowest_price": 15990.0,
+    "name": "realme P4 Lite 5G (Mosaic Green, 4GB RAM, 64GB) | 13MP Camera | 6.8\" 144Hz Display | Dimen",
+    "ref_price": 15990.0
+  },
+  "B0GWF4S9KF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "Cookwell Multipurpose Cook Kettle With 1.5L Steel Inner Pot (600W)",
+    "ref_price": 1199.0
+  },
+  "B0GWJJZN9K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "HomeBasic Electric Kettle 2L, 1500W, 5-Min Rapid Boil, Cool-Touch Body, Stainless Steel In",
+    "ref_price": 799.0
+  },
+  "B0GWLHVJRH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 34999.0,
+    "lowest_price": 34999.0,
+    "name": "OnePlus Nord CE6 | 8GB+128GB | Pitch Black | Snapdragon 7s Gen 4 | Segment's Fastest Touch",
+    "ref_price": 34999.0
+  },
+  "B0GWLHWCLJ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 34999.0,
+    "lowest_price": 34999.0,
+    "name": "OnePlus Nord CE6 | 8GB+128GB | Fresh Blue | Snapdragon 7s Gen 4 | Segment's Fastest Touch ",
+    "ref_price": 34999.0
+  },
+  "B0GWLTLNTV": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 34999.0,
+    "lowest_price": 34999.0,
+    "name": "OnePlus Nord CE6 | 8GB+128GB | Lunar Pearl | Snapdragon 7s Gen 4 | Segment's Fastest Touch",
+    "ref_price": 34999.0
+  },
+  "B0GWW13HC3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "SANDISK 64GB Ultra Go microSD Card UHS-I, Up to 140MB/s, Full HD Video, Memory Card for An",
+    "ref_price": 1499.0
+  },
+  "B0GWW7V4KG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "SANDISK 128GB Ultra Go microSD Card UHS-I, Up to 190MB/s, Full HD Video, Memory Card for A",
+    "ref_price": 1999.0
+  },
+  "B0GX1W2CLZ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 24390.0,
+    "lowest_price": 24390.0,
+    "name": "Redmi Note 15 SE 5G Smartphone, Crimson Reserve, 6GB RAM, 128GB, 5800mAh Battery, IP66 Mil",
+    "ref_price": 24390.0
+  },
+  "B0GX9HWLBF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96” (4.97 cm) HD Display",
+    "ref_price": 1399.0
+  },
+  "B0GX9JK9SN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96”(4.97 cm) HD Display,",
+    "ref_price": 1599.0
+  },
+  "B0GX9M5DJC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96”(4.97 cm) HD Display,",
+    "ref_price": 1599.0
+  },
+  "B0GXB8526M": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4999.0,
+    "lowest_price": 4999.0,
+    "name": "Noise New Launch ColorFit Ultra 4 Smartwatch with BT Calling, 1.96\" AMOLED Always-On Displ",
+    "ref_price": 4999.0
+  },
+  "B0GXFPG1X3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 55999.0,
+    "lowest_price": 55999.0,
+    "name": "Acer Aspire Lite Intel Core 3-100U Processor, Office 2024 + M365 Basic, 8GB RAM/512GB SSD,",
+    "ref_price": 55999.0
+  },
+  "B0GXYV3XR4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 43990.0,
+    "lowest_price": 43990.0,
+    "name": "Acer Aspire Lite, AMD Ryzen 3-7330U, Office 2024 + M365 Basic,8GB RAM, 256GB SSD, Full HD ",
+    "ref_price": 43990.0
+  },
+  "B0GXYVZFDN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 45990.0,
+    "lowest_price": 45990.0,
+    "name": "Acer Aspire Lite Intel Core i3/Core 3 14th Gen-100U Processor, Office 2024 + M365 Basic, 8",
+    "ref_price": 45990.0
+  },
+  "B0GY26RL13": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10999.0,
+    "lowest_price": 10999.0,
+    "name": "Amazfit Bip Max 50mm Smartwatch, 2.07\" AMOLED Display, 20 Days of Battery, GPS, 4GB Storag",
+    "ref_price": 10999.0
+  },
+  "B0GY7VGHDQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 47990.0,
+    "lowest_price": 47990.0,
+    "name": "HP 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB/512 GB SSDDOS (MS Office/Windows not",
+    "ref_price": 47990.0
+  },
+  "B0GYRKTVKB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt (2026 Launch) Energyshroom PB401 20000 mAh 22.5W Fast Charging Power Bank (4X Output ",
+    "ref_price": 1399.0
+  },
+  "B0GZ8PX635": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10999.0,
+    "lowest_price": 10999.0,
+    "name": "Amazfit Bip Max 50mm Smartwatch, 2.07\" AMOLED Display, 20 Days of Battery, GPS, 4GB Storag",
+    "ref_price": 10999.0
+  },
+  "B0GZGJ2XNQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 21499.0,
+    "lowest_price": 21499.0,
+    "name": "realme NARZO 90x 5G (Aqua Blue 2026, 6GB+128GB) | 7000mAh + 60W Biggest Battery & Fastest ",
+    "ref_price": 21499.0
+  },
+  "B0GZMYZW7R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1799.0,
+    "lowest_price": 1799.0,
+    "name": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+    "ref_price": 1799.0
+  },
+  "B0GZN9ZPRG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+    "ref_price": 1399.0
+  },
+  "B0GZND14GT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+    "ref_price": 1399.0
+  },
+  "B0GZWNK24R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11590.0,
+    "lowest_price": 11590.0,
+    "name": "Poco C81, Elite Black (4GB, 64GB)",
+    "ref_price": 11590.0
+  },
+  "B0H1BMBX9R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11998.0,
+    "lowest_price": 11998.0,
+    "name": "realme NARZO 80 Lite 4G (Obsidian Black 2026, 4GB+64GB) | 6300mAh Segment's Biggest Batter",
+    "ref_price": 11998.0
+  },
+  "B0H1G7Q5YD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2000.0,
+    "lowest_price": 2000.0,
+    "name": "iVOOMi Full HD 1080P 30 FPS Webcam for PC, Auto-Light Balance, 5P FHD Lense, 2.0MP CMOS Se",
+    "ref_price": 2000.0
+  },
+  "B0H1JG89ZB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 16999.0,
+    "lowest_price": 16999.0,
+    "name": "iQOO Z10 Lite 5G (Titanium Blue 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G Processor",
+    "ref_price": 16999.0
+  },
+  "B0H1JGWF81": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 16999.0,
+    "lowest_price": 16999.0,
+    "name": "iQOO Z10 Lite 5G (Cyber Green 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G Processor |",
+    "ref_price": 16999.0
+  },
+  "B0H1WVW8VY": {
+    "in_stock": false
+  },
+  "B0H1WY55ZL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 32999.0,
+    "lowest_price": 32999.0,
+    "name": "Samsung Galaxy A56 5G Mobile (Awesome Violet Glow, 8GB, 128GB) | Segment Most Complete Tri",
+    "ref_price": 32999.0
+  },
+  "B0H25X3W7F": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 95990.0,
+    "lowest_price": 95990.0,
+    "name": "ASUS TUF A15 (2026),Smartchoice,AMD Ryzen 7 8845HS,RTX 3050,16GB RAM (Upgradeable Upto 64G",
+    "ref_price": 95990.0
+  },
+  "B0H268Z1CC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 91690.0,
+    "lowest_price": 91690.0,
+    "name": "Lenovo LOQ Essential AMD Ryzen 5 7535HS | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Re",
+    "ref_price": 91690.0
+  },
+  "B0H2FD3L97": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 31599.0,
+    "lowest_price": 31599.0,
+    "name": "Lenovo Idea Tab (Smartchoice) with Folio Keyboard + Tab Pen | Wi-Fi + 5G |11\" Display, 2.5",
+    "ref_price": 31599.0
+  },
+  "B0H2HGLNQP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1799.0,
+    "lowest_price": 1799.0,
+    "name": "boAt Ultima Ember 2 Smartwatch, 1.96” AMOLED Display, Ultra Bright 1000 nits Brightness, A",
+    "ref_price": 1799.0
+  },
+  "B0H2MF4HPG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 749.0,
+    "lowest_price": 749.0,
+    "name": "boAt Slazer S100 Beard Trimmer For Men, 300 min runtime,2X Fast Charging, USB Type C, Meta",
+    "ref_price": 749.0
+  },
+  "B0H339SP81": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 24499.0,
+    "lowest_price": 24499.0,
+    "name": "realme NARZO 100x 5G (Flash Orange,6GB+128GB) | Biggest 8000mAh Battery | 45W Fast Charge ",
+    "ref_price": 24499.0
+  },
+  "B0H33KMYHX": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 24499.0,
+    "lowest_price": 24499.0,
+    "name": "realme NARZO 100x 5G (Midnight Black,6GB+128GB) | Biggest 8000mAh Battery | 45W Fast Charg",
+    "ref_price": 24499.0
+  },
+  "B0H3BMSM6T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightwe",
+    "ref_price": 1299.0
+  },
+  "B0H3BXLJ3T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightwe",
+    "ref_price": 1299.0
+  },
+  "B0H3P1RB8D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 499.0,
+    "lowest_price": 499.0,
+    "name": "Fulminare Plastic LED Rechargeable Touch Lamp | Magnetic Stick-On Light with 3 Color Modes",
+    "ref_price": 499.0
+  },
+  "B0H3PQ6MW4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3199.0,
+    "lowest_price": 3199.0,
+    "name": "OnePlus Nord Buds 4 TWS Earbuds with 52dB Real-time ANC, Game Sound Spatial Audio, 6-Mic A",
+    "ref_price": 3199.0
+  },
+  "B0H3PZGX1T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 25199.0,
+    "lowest_price": 25199.0,
+    "name": "Samsung Galaxy A17 5G, 8GB RAM, 128GB, Gray | 16.91 cm Super AMOLED display, 5000 mAh batt",
+    "ref_price": 25199.0
+  },
+  "B0H3Q5DPP9": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 3199.0,
+    "lowest_price": 3199.0,
+    "name": "OnePlus Nord Buds 4 TWS Earbuds with 52dB Real-time ANC, Game Sound Spatial Audio, 6-Mic A",
+    "ref_price": 3199.0
+  },
+  "B0H416MQ6S": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 26838.0,
+    "lowest_price": 26838.0,
+    "name": "Motorola g67 Power 5G (Pantone Cilantro, 256 GB) (12 GB RAM)",
+    "ref_price": 26838.0
+  },
+  "B0H45YFPJT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 41990.0,
+    "lowest_price": 41990.0,
+    "name": "Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM/ 256GB SSD, 14.0\"/35.56cm WXGA",
+    "ref_price": 41990.0
+  },
+  "B0H46H6JK8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 45990.0,
+    "lowest_price": 45990.0,
+    "name": "Acer Smartchoice Aspire One, AMD Ryzen 5-40,Office 2024 + M365 Basic, 8GB LPDDR5 RAM/ 512G",
+    "ref_price": 45990.0
+  },
+  "B0H4HCKQTW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5998.0,
+    "lowest_price": 5998.0,
+    "name": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Reclin",
+    "ref_price": 5998.0
+  },
+  "B0H4HFHXSN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 5998.0,
+    "lowest_price": 5998.0,
+    "name": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Reclin",
+    "ref_price": 5998.0
+  },
+  "B0H4R38VQG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 663.0,
+    "lowest_price": 663.0,
+    "name": "100W USB-A to Type-C Fast Charger & Cable Compatible with Oneplus/Oppo/Xiaomi/Realme/Samsu",
+    "ref_price": 663.0
+  },
+  "B0H4RBY9JN": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt (2026 Launch) Energyshroom PB401 20000 mAh 22.5W Fast Charging Power Bank (4X Output ",
+    "ref_price": 1399.0
+  },
+  "B0H4VLRRWK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 608.0,
+    "lowest_price": 608.0,
+    "name": "Ant Riser 40 360° Rotating Laptop Stand Height & Angle Adjustable Foldable Carbon Steel La",
+    "ref_price": 608.0
+  },
+  "B0H5CBFP36": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 23999.0,
+    "lowest_price": 23999.0,
+    "name": "realme P4R 5G Smartphone, Lavender Glare, 8000mAh Battery, 144Hz Display, 6 GB RAM, 128 GB",
+    "ref_price": 23999.0
+  },
+  "B0H696XFPH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 13499.0,
+    "lowest_price": 13499.0,
+    "name": "Lenovo LOQ 27Q-10 (Smartchoice) | 27\" (68.5cm) QHD (2560x1440) IPS 180Hz Gaming Monitor | ",
+    "ref_price": 13499.0
+  },
+  "B0H698MM7K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 10499.0,
+    "lowest_price": 10499.0,
+    "name": "Lenovo LOQ 27-10 (Smartchoice) | 27\" (68.5cm) FHD (1920x1080) IPS 200Hz Gaming Monitor | 0",
+    "ref_price": 10499.0
+  },
+  "B0H69FXJC8": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 8799.0,
+    "lowest_price": 8799.0,
+    "name": "Lenovo LOQ 24-10 (Smartchoice) | 23.8\" (60.45cm) FHD (1920x1080) IPS 200Hz Gaming Monitor ",
+    "ref_price": 8799.0
+  },
+  "B0H6FQPGFT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+    "ref_price": 1199.0
+  },
+  "B0H6FR1KJ1": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+    "ref_price": 1199.0
+  },
+  "B0H6FSKJ5K": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1199.0,
+    "lowest_price": 1199.0,
+    "name": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+    "ref_price": 1199.0
+  },
+  "B0H6HY2C29": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 11998.0,
+    "lowest_price": 11998.0,
+    "name": "realme narzo 80 Lite 4G (See Blue,4GB+64GB) 2026 | 6300mAh Segment's Biggest Battery | 7.9",
+    "ref_price": 11998.0
+  },
+  "B0H6MZ4N6D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "CP PLUS 64GB microSDXC Memory Card Grade UHS-3 Class 10, Up to 70 Mbps Reading & 30 Mbps W",
+    "ref_price": 1499.0
+  },
+  "B0H6SP6YVQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1499.0,
+    "lowest_price": 1499.0,
+    "name": "Milton Rapid Electric Kettle 1.5L | 1350 Watts | Hot Water portable Electric Kettle for Ho",
+    "ref_price": 1499.0
+  },
+  "B0H6SXS6XR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "Milton Rapid Cool Touch Electric Kettle 1.5 Litre | 304 SS Inner Body Hot Water Kettle Ele",
+    "ref_price": 1399.0
+  },
+  "B0H6WDV3GH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 57990.0,
+    "lowest_price": 57990.0,
+    "name": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i3-1315U 15.6\" (39.6cm) FHD Thin and Light Lapto",
+    "ref_price": 57990.0
+  },
+  "B0H7234YD3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "URBN Power Bank 20000mAh Fast Charging |35W Super Fast Power Delivery (PD) Portable Charge",
+    "ref_price": 1299.0
+  },
+  "B0H725859P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1299.0,
+    "lowest_price": 1299.0,
+    "name": "URBN Power Bank 20000mAh Fast Charging |35W Super Fast Power Delivery (PD) Portable Charge",
+    "ref_price": 1299.0
+  },
+  "B0H75PMPZM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 60990.0,
+    "lowest_price": 60990.0,
+    "name": "ASUS Vivobook 15 (2026),Intel Core 3 304 (Series 3-Latest Gen),Intel iGPU,8GB RAM,512GB SS",
+    "ref_price": 60990.0
+  },
+  "B0H82PNSZR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 36680.0,
+    "lowest_price": 36680.0,
+    "name": "Samsung Galaxy Watch9 (40mm Bluetooth, Cream)",
+    "ref_price": 36680.0
+  },
+  "B0H82ZPS8S": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 37999.0,
+    "lowest_price": 37999.0,
+    "name": "Samsung Galaxy Watch9 (40mm Bluetooth, Graphite)",
+    "ref_price": 37999.0
+  },
+  "B0H8L86HHP": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17700.0,
+    "lowest_price": 17700.0,
+    "name": "Motorola g37 Power 5G (Pantone Impenetrable, 4GB RAM, 128GB Storage) | 6.66 Inch HD+ Displ",
+    "ref_price": 17700.0
+  },
+  "B0H8M56QXM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 777.0,
+    "lowest_price": 777.0,
+    "name": "Acer OfficeLite KM300 Wireless Keyboard & Mouse Combo | 2.4GHz USB Nano Receiver | 104-Key",
+    "ref_price": 777.0
+  },
+  "B0H8ND2YBC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 17300.0,
+    "lowest_price": 17300.0,
+    "name": "Motorola g37 Power 5G (Pantone Nautical Blue, 4GB RAM, 128GB Storage) | 6.66 Inch HD+ Disp",
+    "ref_price": 17300.0
+  },
+  "B0H8NQDC6N": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "EVM EnTurbo 20000mAh Power Bank | 22.5W Super Fast Charging | Dual Output USB & Type-C | D",
+    "ref_price": 999.0
+  },
+  "B0H8NXNGWS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 61200.0,
+    "lowest_price": 61200.0,
+    "name": "ASUS Vivobook 15 (2026),Intel Core 5 120U,(i5-14th Gen),FingerPrint Sensor,8GB RAM,512GB S",
+    "ref_price": 61200.0
+  },
+  "B0H8PBGTSC": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 56990.0,
+    "lowest_price": 56990.0,
+    "name": "ASUS Vivobook 15 (2026),Intel Core 3 304 (Series 3-Latest Gen),Fingerprint Sensor,8GB RAM,",
+    "ref_price": 56990.0
+  },
+  "B0H93GYSMW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 57400.0,
+    "lowest_price": 57400.0,
+    "name": "Lenovo V14 Intel Core i5 13th Gen 13420H 14.0\" FHD Laptop",
+    "ref_price": 57400.0
+  },
+  "B0H93Z1916": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 56111.0,
+    "lowest_price": 56111.0,
+    "name": "HP Professional 15 (2026), Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Intel UHD Grap",
+    "ref_price": 56111.0
+  },
+  "B0H9LDJ797": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 27990.0,
+    "lowest_price": 27990.0,
+    "name": "Primebook 2 Max (2026) AI Laptop | 8GB RAM, 128GB UFS Storage (Expandable upto 1TB) | 15.6",
+    "ref_price": 27990.0
+  },
+  "B0H9M2FQ8T": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 799.0,
+    "lowest_price": 799.0,
+    "name": "FREED Bombshell Hair Dryer for Women | 1600 Watts Foldable Hair Dryer | 3 Heat 2 Speed Set",
+    "ref_price": 799.0
+  },
+  "B0H9RQF65D": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 699.0,
+    "lowest_price": 699.0,
+    "name": "GOBOULT TuneX Bluetooth Earphone with 30H Playtime, Dual Pairing Neckband, Zen™ ENC Mic, T",
+    "ref_price": 699.0
+  },
+  "B0H9SG1QXR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 33990.0,
+    "lowest_price": 33990.0,
+    "name": "Primebook 3 Max (2026) AI Laptop | 8GB RAM, 128GB Storage | 15.6-Inch FHD IPS Display | Me",
+    "ref_price": 33990.0
+  },
+  "B0H9SPNM94": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Storm Blaze Smartwatch in Premium Metal Finish with Advanced BT Calling, Functional C",
+    "ref_price": 1399.0
+  },
+  "B0H9X8PJW3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 50800.0,
+    "lowest_price": 50800.0,
+    "name": "Lenovo IdeaPad Slim 3, Ryzen 3 30, 8GB RAM, 512GB SSD, FHD Thin and Light Laptop, 15.6\" (3",
+    "ref_price": 50800.0
+  },
+  "B0HCNHGQDD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 34999.0,
+    "lowest_price": 34999.0,
+    "name": "iQOO Z11 5G (Aurora Green, 6GB RAM, 128GB Storage) | India's 1st MediaTek Dimensity 7500 T",
+    "ref_price": 34999.0
+  },
+  "B0HDPB4719": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 9499.0,
+    "lowest_price": 9499.0,
+    "name": "Samsung 27 Inch G3 Gaming Monitor | FHD (1920 x 1080) | IPS Panel | 144 Hz Refresh Rate | ",
+    "ref_price": 9499.0
+  },
+  "B0HDPLHJ35": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 7499.0,
+    "lowest_price": 7499.0,
+    "name": "Samsung 24 Inch G3 Gaming Monitor | FHD (1920 x 1080) | IPS Panel | 144 Hz Refresh Rate | ",
+    "ref_price": 7499.0
+  },
+  "B0HDZMXV21": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 999.0,
+    "lowest_price": 999.0,
+    "name": "One94Store Overhead LED Desk Lamp with Clamp | 360° Adjustable Swing Arm Table Light, 3 Co",
+    "ref_price": 999.0
+  },
+  "B0HF12CGWW": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1899.0,
+    "lowest_price": 1899.0,
+    "name": "One94Store Dual Head LED Desk Lamp with Clamp | Adjustable Gooseneck Table Light, 5 Colour",
+    "ref_price": 1899.0
+  },
+  "B0HFMTRGZL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Noise Air Clips V2 Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to",
+    "ref_price": 1999.0
+  },
+  "B0HFMY5GLR": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1999.0,
+    "lowest_price": 1999.0,
+    "name": "Noise Air Clips V2 Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to",
+    "ref_price": 1999.0
+  },
+  "B0HFS5TG8Y": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1699.0,
+    "lowest_price": 1699.0,
+    "name": "boAt 2026 Launch Airdopes Prime 702 ANC, (~48dB) Hybrid Noise Cancellation, Immersive Spat",
+    "ref_price": 1699.0
+  },
   "B0HFZQQBS5": {
-    "checked_at": "2026-11-07T08:15:52.859593+05:30",
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
     "in_stock": true,
     "last_price": 72999.0,
     "lowest_price": 72999.0,
     "name": "S26",
     "ref_price": 72999.0
+  },
+  "B0HFZW5CCB": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2499.0,
+    "lowest_price": 2499.0,
+    "name": "Cosmic Byte Proteus X 7.1.4 Surround Wired Gaming Headset with THX Spatial Audio +, 50mm N",
+    "ref_price": 2499.0
+  },
+  "B0HG1QKHLM": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 71990.0,
+    "lowest_price": 71990.0,
+    "name": "Lenovo Smartchoice V15, Intel Core i5-13420H, 16GB RAM, 512GB SSD, FHD 15.6” (39.62cm), Wi",
+    "ref_price": 71990.0
+  },
+  "B0HG929FR4": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 28998.0,
+    "lowest_price": 28998.0,
+    "name": "iQOO Z11xa 5G (Titan Black, 8GB RAM, 128 GB Storage) | Massive 7200mAh Battery | Dimensity",
+    "ref_price": 28998.0
+  },
+  "B0HG96MZ9P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 28998.0,
+    "lowest_price": 28998.0,
+    "name": "iQOO Z11xa 5G (Prismatic Green, 8GB RAM, 128 GB Storage) | Massive 7200mAh Battery | Dimen",
+    "ref_price": 28998.0
+  },
+  "B0HG9NPGZS": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 569.0,
+    "lowest_price": 569.0,
+    "name": "45W GaN Type C Super Fast Charger Adapter with Cable (2 Years Warranty) | Travel Adapter f",
+    "ref_price": 569.0
+  },
+  "B0HGM3VQPD": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 22498.99,
+    "lowest_price": 22498.99,
+    "name": "Motorola g max 5G, 6GB RAM, 128GB, Snapdragon 6s Gen 4, 6.72-inch FHD+ Display, 7000mAh, 5",
+    "ref_price": 22498.99
+  },
+  "B0HGM8PBNL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 27999.0,
+    "lowest_price": 27999.0,
+    "name": "iQOO Z11x 5G (Matrix Green, 6GB RAM, 128GB Storage)",
+    "ref_price": 27999.0
+  },
+  "B0HGMD8FCQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 38999.0,
+    "lowest_price": 38999.0,
+    "name": "Acer Aspire 14\" Laptop, Intel Celeron N4500, 12GB RAM, 256GB SSD, Intel UHD Graphics, Wind",
+    "ref_price": 38999.0
+  },
+  "B0HGYWRWTH": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 20989.0,
+    "lowest_price": 20989.0,
+    "name": "POCO M8x 5G (Blue, 128 GB) (6 GB RAM) | Snapdragon 4 Gen 5 Processor | 6.9-inch 120Hz Disp",
+    "ref_price": 20989.0
+  },
+  "B0HHFDRJTF": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 18949.0,
+    "lowest_price": 18949.0,
+    "name": "POCO M8x 5G (Black, 128 GB) (4 GB RAM)",
+    "ref_price": 18949.0
+  },
+  "B0HHS9XLTQ": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 72000.0,
+    "lowest_price": 72000.0,
+    "name": "HP 15 (i5 14th Gen), Intel Core 5-120U, 16GB RAM, 512GB SSD, FHD, Anti-Glare, 15.6''/39.6c",
+    "ref_price": 72000.0
+  },
+  "B0HJYXWL1P": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1799.0,
+    "lowest_price": 1799.0,
+    "name": "boAt 2026 Launch Nirvana Ion TWS Earbuds (Cloud Ivory) | Massive 120 Hours Playtime, Quad ",
+    "ref_price": 1799.0
+  },
+  "B0HJZ5FMGK": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 2199.0,
+    "lowest_price": 2199.0,
+    "name": "boAt Nirvana Ion w/Crest AI (Smart Lunar Black) | Massive 120 Hours Playtime, Quad Mics EN",
+    "ref_price": 2199.0
+  },
+  "B0HJZ7V1PL": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1599.0,
+    "lowest_price": 1599.0,
+    "name": "boAt 2026 Launch Nirvana Ion TWS Earbuds (Lunar Black) | Massive 120 Hours Playtime, Quad ",
+    "ref_price": 1599.0
+  },
+  "B0HK14QP5R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 1399.0,
+    "lowest_price": 1399.0,
+    "name": "boAt Wave Call 3 Plus Smartwatch (Active Black) | 1.96”(4.97cm) HD Display, BT Calling, IP",
+    "ref_price": 1399.0
+  },
+  "B0HK4MYD2R": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 899.0,
+    "lowest_price": 899.0,
+    "name": "GOBOULT Mustang TuneX Bluetooth Earphone with 40H Playtime, Dual Pairing Neckband, Zen™ EN",
+    "ref_price": 899.0
+  },
+  "B0HKJK4M3G": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 64990.0,
+    "lowest_price": 64990.0,
+    "name": "Lenovo IdeaPad Slim 3 Smartchoice (2026) Intel Core 3 304 AI PC (8GB RAM/512GB SSD/15.3\" (",
+    "ref_price": 64990.0
+  },
+  "B0HKJN82V3": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 659.0,
+    "lowest_price": 659.0,
+    "name": "68W TurboPower Type C Fast Charger Adapter with 1M Type C Cable Compatible with Motorola E",
+    "ref_price": 659.0
+  },
+  "B0HLQ6QXBT": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 4924.0,
+    "lowest_price": 4924.0,
+    "name": "MAYUMI NOVA-Vault 1TB Portable External Hard Disk Drive, USB 3.0 High Speed, Slim & Lightw",
+    "ref_price": 4924.0
+  },
+  "B0HLSSC9LG": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 89589.0,
+    "lowest_price": 89589.0,
+    "name": "ASUS TUF Gaming A15, Gaming Laptop, AMD Ryzen 7 155, RTX 3050 GPU (16GB/512GB/39.62 cms (1",
+    "ref_price": 89589.0
+  },
+  "B0HMJ5T5P7": {
+    "checked_at": "2026-11-07T10:54:21.109579+05:30",
+    "in_stock": true,
+    "last_price": 39990.0,
+    "lowest_price": 39990.0,
+    "name": "Acer Aspire 15,AMD Ryzen 3 3200U Processors, 8GB DDR4 RAM/512GB SSD, 39.62 cm /15.6\" FHD I",
+    "ref_price": 39990.0
+  },
+  "_meta": {
+    "auto_products": {
+      "B000AJIF4E": "Sony MDR-7506 Professional Wired On Ear Headphones (Best Compatible with Professional Cine",
+      "B008QS9J6Y": "Logitech C270 HD Web Camera",
+      "B00BX5FOCK": "SANDISK Cruzer Blade 64GB, USB 2.0, Flash drive, Pendrive, Red, 5Y Warranty (SDCZ50-064G-I",
+      "B00CEQEGPI": "Logitech MK270r Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Spill-Res",
+      "B00D3GO8R4": "Tenda N301 Wireless-N300 Easy Setup Router (White, Not a Modem) - RJ45 (single_band, 100 m",
+      "B00KCD8NFY": "Philips India's No.1 Hair Styling Brand -Hair Dryer 1000W |Blow Dry for Men & Women | 2 He",
+      "B00KYK2ABI": "SanDisk Ultra 64GB, USB 3.0, Flash Drive, Upto 130MB/s R, Pendrive, Black, 5Y Warranty (SD",
+      "B00PYKLKCS": "Western Digital Elements® 1TB Portable HDD, Black USB 3.0, Compatible with PC, PS4 and Xbo",
+      "B00TO7JUFG": "Philips India's No.1 Hair Styling Brand - Foldable Hair Dryer | 1200W | Fast Blow Dry | 2 ",
+      "B012MQS060": "Logitech MK215 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact De",
+      "B0151AM5UG": "Tenda F3 300Mbps Wi-Fi Router, Easy Setup, WPS Button, Parental Control, Bandwidth Control",
+      "B01J0XWYKQ": "Logitech B170 USB Mouse,12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+      "B01L8ZNWN2": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+      "B01LYLJ99X": "HP v222w 64GB USB 2.0 Pen Drive, Metal Silver",
+      "B01M0GSKNR": "HP v150w 64 GB USB 2.0 Flash Drive (Blue)",
+      "B01N33BLDT": "Havells HD3151 1200 W Foldable Hair Dryer; 3 Heat (Hot/Cool/Warm) Settings Including Cool ",
+      "B01N4EV2TL": "Logitech MK240 Nano Wireless USB Keyboard and Mouse Set, 12 Function Keys 2.4GHz Wireless,",
+      "B071P7183Y": "AGARO Regency Multipurpose Kettle With Steamer, 1.2L Inner Pot, Double Layered Body, Varia",
+      "B071RSD473": "TP-Link Archer C50 AC1200 Dual Band Wireless Cable Router, Wi-Fi Speed Up to 867 Mbps/5 GH",
+      "B074C8C6F4": "Lapcare Chillmate Powerful Laptop Cooler Pad with Dual 125mm Fans, Silent Operation Noisel",
+      "B077Q7F7Z3": "Xiaomi Redmi Y2 (Black, 3GB RAM, 32GB Storage)",
+      "B078L5J7G1": "D-Link DIR-825 |High Speed 1200Mbps Dual Band Wi-Fi Router| Gigabit Ethernet Ports | High-",
+      "B078S4P3J9": "Tribit XSound Go Bluetooth Speaker (2026), 20W, IPX7,24H Playtime,Black | Bluetooth 6.0, X",
+      "B07C9KQ7KR": "wipro Garnet 6W LED Table Lamp, with 3 Grade Dimming, Flexible Gooseneck Design, LED Porta",
+      "B07DGPYKLP": "Tenda AC10 AC1200 Wireless Smart Dual-Band Gigabit WiFi Router, MU-MIMO, 4 Gigabit Ports, ",
+      "B07DKD4ZR3": "Tenda AC5 V3 AC1200 Wireless Dual Band WiFi Router, Speed Up to 867Mbps/5GHz + 300Mbps/2.4",
+      "B07DNQHPND": "TOSHIBA Canvio Basics 1TB Portable External HDD - USB 3.2 for PC Laptop Windows and Mac, 3",
+      "B07DQ5ZH1D": "Seagate Portable 1TB External HDD – USB 3.0 for PC Laptop and Mac (STGX1000400)",
+      "B07FTRJJPZ": "INNOWIN Jazz High Back Office Chair | Mesh Ergonomic Chair with Multi-Tilt Lock, Lumbar Su",
+      "B07GVR9TG7": "TP-Link Archer AC1200 Archer C6 Wi-Fi Speed Up to 867 Mbps/5 GHz + 400Mbps/2.4 GHz, 5 Giga",
+      "B07JPX9CR7": "Dell WM118 Wireless Mouse, 1000DPI, 2.4 Ghz with USB Nano Receiver, Optical Tracking, 12-M",
+      "B07JQ7157K": "TP-Link TL-WR820N 300 Mbps Speed Wireless WiFi Router, Easy Setup, IPv6 Compatible, Suppor",
+      "B07N8GRWTZ": "Tommy Hilfiger Joshua Polyester Unisex 15 Inch Laptop Backpack - Black | 21 Ltr Capacity| ",
+      "B07N8HR66T": "Tommy Hilfiger Joshua Polyester Unisex 15 Inch Laptop Backpack - Navy | 21 Ltr Capacity| P",
+      "B07P3D6Y5B": "SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monito",
+      "B07SLMR1K6": "SANDISK Ultra Flair 64GB, USB 3.0, Flash Drive, Upto 150MB/s R, Pendrive, Metal, 5Y Warran",
+      "B07V82W5CN": "HP USB Wireless Spill Resistance Keyboard and Mouse Combo with 10m Working Range 2.4G Wire",
+      "B07WGQ84V6": "AGARO Premium Hair Dryer with 1400 Watts Motor, 3 Temperature Settings & Cool Shot Button-",
+      "B07WNK1FFN": "AGARO Esteem Electric Multipurpose Kettle 1.2L, 600W, with Stainless Steel Body, Egg Rack,",
+      "B07WYJVMY6": "iQOO Z11 Lite 44W 5G (Midnight Blue, 4GB RAM, 64GB Storage)",
+      "B07WYMJPVS": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 64GB Storage)",
+      "B07X1KRPDZ": "Portronics Key2-A Combo of Multimedia Wireless Keyboard & Mouse, Compact Light-Weight for ",
+      "B07X3RGV9C": "NUBWO N16 Gaming Headset - Noise Canceling Mic, Stereo Sound, and Comfortable Design for P",
+      "B083GKDRKR": "Havells Aqua Plus Electric Kettle 1.2 Litre, 1250 Watt | 304 Stainless Steel Inner Body | ",
+      "B086PKMZ21": "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm ",
+      "B08B3L75WX": "Acer SmartChoice SA242Y E 23.8 Inch Full HD IPS Monitor I 100Hz Refresh Rate I 1ms VRB I A",
+      "B08FXNP7CH": "Amazon Brand - Solimo Stainless Steel Insulated 24 Hours Hot or Cold Bottle Flask, 1000 ml",
+      "B08FYJKGSX": "TP-Link Archer C24 AC750 Mbps Dual-Band, WiFi Wireless Router | Multi Mode | 4 Antennas | ",
+      "B08GXDMLNJ": "TVS ELECTRONICS Gold Prime Mechanical Wired Keyboard | Dustproof Key switches | Guaranteed",
+      "B08HV25BBQ": "Noise ColorFit Pro 2 Full Touch Control Smart Watch with 35g Weight & Upgraded LCD Display",
+      "B08KDBX8KV": "BigPassport 1080P Full HD Webcam with Mic | USB Camera for Laptop, PC, Video Calling, Onli",
+      "B08KSTYD3P": "Patriot Memory LX Series Micro SD Flash Memory Card 128GB PSF128GMDC10",
+      "B08KT89BWX": "Lenovo 300 FHD Webcam with Full Stereo Dual Built-in Mics | FHD 1080P 2.1 Megapixel CMOS C",
+      "B08NDMTN2W": "VGR V-071 Professional Beard Trimmer for Men, 2X Fast Charging, USB Type C, 120 Min Runtim",
+      "B08QTYYNDN": "JBL Tune 510BT, On Ear Wireless Headphones with Mic, up to 40 Hours Playtime, Pure Bass, Q",
+      "B08ZJDWTJ1": "Seagate Expansion 1TB External HDD - USB 3.0 for Windows and Mac with 3 yr Data Recovery S",
+      "B0913GX9PW": "Sumeet Thermo1000 Stainless Steel Vacuum Flask 1000ml, Silver | 12-24 Hours Hot & Cold, IS",
+      "B091V8HK8Z": "Milton Appliances Go Electric Kettle 1.8 Litre I 3X Protection - Dry Boil, Auto Shut Off, ",
+      "B0929P7NT1": "Amazon Brand - Solimo Stainless Steel Water Bottle, Set of 3, 1 L Each (Blitz)",
+      "B094XSDC41": "AGARO 2000W AC Professional Hair Dryer with Comb, Concentrator & Diffuser Nozzles, Hot & C",
+      "B097B3MCSN": "Safari Forge 34L Laptop Backpack, 3 compartments, Raincover, Antitheft pocket, Trolley Sle",
+      "B097JM3NX5": "Safari Omega Pro Laptop Backpack With Raincover, 3 Compartments, Bottle Holder, Organizer,",
+      "B09BB38CMH": "ASUS Vivobook 15 (2026),Intel Core 3 100U,Intel iGPU, 16GB RAM, 512GB SSD, FHD, 15.6\"(39.6",
+      "B09BB6DTW9": "ASUS Vivobook Go 15 (2026),AMD Ryzen 3 30,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD,15.6\"(39.6",
+      "B09BB87Y6D": "ASUS Vivobook Go 14 (2026),AMD Ryzen 5 40,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD, 14\"(35.5 ",
+      "B09BVCVTBC": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard, 61 Keys Compact Mechanical Keyboard w/Wh",
+      "B09CYX92NB": "JBL Tune 770NC, BITA Award Winner- Most loved Over Ear Wireless Headphones, True Adaptive ",
+      "B09DG9VNWB": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)",
+      "B09DYY72F9": "Philips India's No.1 Hair Styling Brand - Foldable Hair Dryer for Men and Women | 1200W | ",
+      "B09F5WJV8R": "Kingston Xs2000 500G High Performance, Read/Write Speeds Up to 2,000Mb/S, Pocket-Sized Ext",
+      "B09F6DNLBD": "EVM Internal SSD Interface PCle Gen 3x4 Fast Performance, Ultra Low Power Consumption NVME",
+      "B09HNTMPRK": "beAAtho® Verona Mesh Mid Back Ergonomic Office Chair with 3 Years Limited Warranty - Adjus",
+      "B09ML2YBRF": "HIKVISION E3000 Internal NVMe PCIe M.2 SSD 256GB, Internal Solid State Drive, Gen 3x4, 228",
+      "B09MQZY875": "Cosmic Byte CB-GK-27 Vanth Mechanical Keyboard Upgraded with Swappable Outemu Blue Switche",
+      "B09NCFVNK9": "JBL Go Essential with Rich Base, Wireless Ultra Portable Bluetooth Speaker, Vibrant Colors",
+      "B09NDJ34RS": "Ant Esports H1100 Pro RGB Wired Over Ear Gaming Headphones for PC / PS4 / PS5 / Xbox One /",
+      "B09P1KK9K1": "ZEBRONICS Zeb-Blitz USB Gaming Headphone with Dolby Atmos, RGB LED, Windows Software, Simu",
+      "B09QFYNJMB": "Razer BlackShark V2 X - White | Multi-Platform Wired Esports On Ear Headset - RZ04-0324070",
+      "B09SBNSFR5": "HP 320 FHD Webcam 1080 Full HD 30fps - Plug and Play Setup, Wide-Angle View for Video Call",
+      "B09T3H12GV": "Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up t",
+      "B09W2ZWLNQ": "EVM 512GB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | High Speed S",
+      "B09W31VBGM": "EVM 1TB 2.5 Inch SATA III Internal SSD | Up to 550MB/s Read 500MB/s Write | Laptop Desktop",
+      "B09XS7JWHH": "Sony WH-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones with M",
+      "B0B1SJ7YSK": "JBL Live Pro 2 Premium in Ear Wireless TWS Earbuds, ANC Earbuds, 40Hr Playtime, Dual Conne",
+      "B0B34WJK3X": "FUR JADEN 40L Weekender Travel Laptop Backpack with Anti Theft Pocket, Organizer, 15.6 Inc",
+      "B0B3XX8P9C": "JBL Flip Essential 2, Wireless Portable Bluetooth Speaker with Deep Base, IPX7 Water & Dus",
+      "B0B4RZX4YN": "Milton Aura 1000 Thermosteel Water Bottle, 24 Hr Hot and Cold I Leak Proof Lid, ISI Certif",
+      "B0B5LW5DFQ": "Noise Pulse Go Buzz Smart Watch with Advanced Bluetooth Calling, 1.69\" TFT Display, SpO2, ",
+      "B0B6BLTGTT": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS ",
+      "B0B919D52V": "WEIRD WOLF Plastic Study Lamp with 3 Colour Modes & Adjustable Brightness Levels Table Lam",
+      "B0BCFKG49M": "HyperX Cloud Stinger 2 Core Essential PC Gaming Wired Headset, Lightweight Over Ear Headse",
+      "B0BD7PHMP9": "HP 325 Full HD 1080P Webcam, 2MP, 30FPS, USB 3.0, Noise-Cancelling Mic, Privacy Shutter, F",
+      "B0BG4JX79W": "Samsung Original 65W Tri Port,Type-C & USB-A,Super Fast Charger (Cable not Included),Black",
+      "B0BG8LZNYL": "Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechar",
+      "B0BJ72WZQ7": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days",
+      "B0BJF85YRR": "Portronics Harmonics Z5 Wireless Bluetooth Stereo Headset with 33Hrs Playtime, Double EQ M",
+      "B0BS1PRC4L": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery, Quick Ch",
+      "B0BS1QCFHX": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, ",
+      "B0BS9QGDF3": "Portronics Hydra 10 Mechanical Wireless Gaming Keyboard with Bluetooth 5.0 + 2.4 GHz, RGB ",
+      "B0BTD4S4XF": "American Tourister Valex | 28L Backpack | 17\" Laptop Bag | 2 Compartments | College & Offi",
+      "B0BTDJGD2K": "BROLAVIYA Overhead LED Desk Lamp Light with Metal arm Stand,3 Lighting Modes,360 Degree Sp",
+      "B0BVR9RCYW": "Dyazo 10 Angle Aluminum Laptop Stand Portable & Fully Foldable Raiser Compatible for Lenov",
+      "B0BW8RVQ3V": "boAt Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Sup",
+      "B0BW8TXJJ2": "boAt Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Sup",
+      "B0BXXPG6FP": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, ",
+      "B0BY2QJJ8J": "Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39\" TFT Display with Dual Button, Hands On",
+      "B0BYZ26QGB": "boAt Stone 352/358 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS",
+      "B0BZ4DJ7GZ": "boAt Aavante Bar 610, 25W Signature Sound, 2.0 CH with Dual Passive Radiators, 7 HRS Batte",
+      "B0BZPJQ2X2": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Year",
+      "B0BZZ263YF": "MI Xiaomi Beard Trimmer 2C With High Precision Trimming For Men | 2 Beard Comb,USB Type-C,",
+      "B0C3B18PKT": "Transcend 310C 256GB USB C & USB A External Portable SSD, Up to 1,050 MB/s, 5 Yr Warranty,",
+      "B0C4Q5HNMH": "Noise Halo Plus 1.46\" Super AMOLED Display Elite Smart Watch, Bluetooth Calling, Stainless",
+      "B0C4SN9V5K": "TP-Link Archer AX12 AX1500 Wi-Fi 6 Router | Dual-Band Gigabit Wireless | MU-MIMO & OFDMA |",
+      "B0C5X2JV72": "Noise Diva (Smartchoice) Smartwatch with Diamond Cut dial, Glossy Metallic Finish, AMOLED ",
+      "B0C663VVP1": "Zebronics NC5500D Powerful Laptop Cooler with Dual 125mm Fans, Silent Operation, Adjustabl",
+      "B0C74HZ4Y2": "Foxin SSD 512 GB NVMe | Internal Solid State Drive with Micron Chipset, SMI Controller, M.",
+      "B0C7VYN5PV": "Philips Skin Friendly Beard Trimmer For Men| Lift & Trim Technology|10 Length Settings|15 ",
+      "B0C9J1QZ3B": "Consistent 2.5 1 TB SSD with SATA III Interface, 6Gb/s,Read/Write Speed Upto - 570/500 MB/",
+      "B0C9J8NZMF": "CONSISTENT 1TB M.2 NVMe PCIe Internal SSD (CTM2S001S7) Up to 3500MB/s Read | 3D NAND High ",
+      "B0C9TYS4YF": "HP 712w 64GB USB 3.2 Flash Drive- Blue",
+      "B0CCD2B6SP": "Lava Yuva 2 (3 GB RAM, UFS 2.2 64GB Storage) - Glass Blue|Unisoc T606 Octa Core Processor|",
+      "B0CCV592KF": "Samsung Galaxy Watch6 Classic (Smartchoice) (Silver, 43mm) | Rotating Bezel | LTE | Monito",
+      "B0CD4BQ4SF": "Lenovo Ideapad Slim 3, AMD Ryzen 5 7520U, 16GB, 512GB SSD, FHD Thin and Light Laptop, 15.6",
+      "B0CDWP1D58": "Redragon K668 RGB Gaming Keyboard, 104 Keys + Extra 4 Hotkeys Wired Mechanical Keyboard w/",
+      "B0CDX74LYS": "Amazfit Balance (Smartchoice) 46mm AMOLED Smart Watch, Body Composition, 14 Days Battery, ",
+      "B0CF5QFH77": "boAt Nirvana Ion ANC, Active Noise Cancellation(~32dB), 120Hrs Battery, App Support, Cryst",
+      "B0CG22DQ8B": "Noise Vortex Plus 1.46” AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Batter",
+      "B0CG372R11": "Kreo Owl Full HD 1080P 60 FPS Webcam, Black | Auto-Focus, Built-in Dual Digital Mic, Plug ",
+      "B0CHFM2KTR": "Logitech Brio 100 Full HD 1080P Webcam for Meetings and Streaming, Auto-Light Balance, Bui",
+      "B0CHMN4KVN": "JBL Live 770NC Wireless Over Ear Headphones with True Adaptive Noise Cancelling, Smart Amb",
+      "B0CJ37223B": "Samsung Galaxy Tab A9 22.10 cm (8.7 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi+4",
+      "B0CJ3TCKYD": "Skybags Lumous 3 Compartment Laptop Backpack (E) 16 L Black",
+      "B0CJ91BY1H": "Lava Blaze Pro 5G (Radiant Pearl, 8GB RAM, 128GB Storage)| 50 MP AI Camera |120 Hz FHD+ Di",
+      "B0CKQXW39Q": "CP PLUS 64GB microSDXC Memory Card Grade UHS-3 Class 10, Up to 70 Mbps Reading & 30 Mbps W",
+      "B0CKRC958Z": "boAt Rockerz 255 Pro+, 60H Battery, Fast Charge, IPX7, Dual Pair,Low Latency,Magnetic Buds",
+      "B0CKYXGFZN": "ZEBRONICS Companion 301 2.4GHz Wireless Keyboard & Mouse Combo with UV Printed, Retro Styl",
+      "B0CL43QZLK": "MILTON Aqua 1000 Stainless Steel Water Bottle, 1 pc, 950 ml, Silver (Pack of 2)",
+      "B0CL72GGSF": "Wesley Luxur 45 Ltrs Overnighter Expandable Travel Laptop Backpack, Flight Cabin Approved ",
+      "B0CL7CMTXS": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB DDR5 Ram, 512 GB SSD PCIe, Windows 11 Lif",
+      "B0CLRCTC58": "Titan Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown,",
+      "B0CNKKR6SP": "EVM Elite EnSave Pro 512GB Portable External SSD | Up to 2000MB/s | USB 3.2 Gen 2x2 Type-C",
+      "B0CP2KRYLM": "Lenovo IdeaPad Slim 1, AMD Ryzen 5 5500U, 16GB RAM, 512GB SSD, HD, 15.6\", Windows 11 Home,",
+      "B0CP6BTQKR": "eMeet C950 Full HD 1080P Webcam with Microphone & Privacy Cover, Auto Light Correction, 70",
+      "B0CP9NSXYJ": "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LE",
+      "B0CQRNWJM2": "ZEBRONICS Blanc Slim Wireless Mouse with Rechargeable Battery, BT + 2.4GHz, 4 Buttons, 800",
+      "B0CQRQT445": "ZEBRONICS Havoc Premium Gaming Headphone with Dolby Atmos Subscription, 50mm Neodymium Dri",
+      "B0CQXNQYFP": "AULA F75 75% Wireless Mechanical Keyboard | Hot Swappable | Pre-lubed Linear Switches | RG",
+      "B0CRF6NJC3": "Philips OneBlade Turbo2X Hybrid Trim, Edge, Shave | Perfected for Skin Comfort | Trimmer M",
+      "B0CRL8FP2T": "boAt Rockerz 235 Pro Wireless Bluetooth Neckband Earphone, Upto 20 hrs of Playtime, Beast ",
+      "B0CRVQ43VC": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (White ",
+      "B0CSN6N2L2": "ZEBRONICS Transformer PRO Gaming Wireless Keyboard & Mouse Combo with 2.4GHz, Aluminum Bod",
+      "B0CW9944RQ": "Beardo Ape-X Prime 3-in-1 Multipurpose Trimmer for Men | Grooming Kit : Beard Trimmer, Pre",
+      "B0CW9J2RCL": "BEARDO Studio Professional Tornado Hair Dryer With 2000 Watts Power|Ac Motor, Concentrator",
+      "B0CWS3V8QN": "Portronics My Buddy K11 Metal Laptop Stand with 360° Rotation, Height & Angle Adjustable, ",
+      "B0CWVX1GNX": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Ma",
+      "B0CY2PLQ8N": "HP 15, AMD Ryzen 5 7520U,(16GB LPDDR5, 512GB SSD), Anti-Glare, Micro-Edge, FHD, 15.6''/39.",
+      "B0CZLDT5Q9": "MILTON Brim 750 Stainless Steel Water Bottle 690 ml, Single Walled, ISI Certified I Leak P",
+      "B0D18192T2": "Logitech M186 Wireless Mouse, 2.4GHz with USB Mini Receiver, 3 Years Battery Life, 1000 DP",
+      "B0D1C7KM6Y": "Redmi Pad SE| All Day Battery | Qualcomm Snapdragon 680| 90Hz Refresh Rate| 8GB, 128GB Tab",
+      "B0D2KGZZ4R": "Fire-Boltt Brillia Smart Watch 2.02” Super AMOLED Display, Bluetooth Calling, SpO2, Heart ",
+      "B0D2R2MXXJ": "Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Mot",
+      "B0D3596YR4": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank with 22.5W Max Output, LED Battery ",
+      "B0D3HG5CMG": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR4, 512GB SSD) FHD, Micro-Edge, 15.6\"/39.6cm, Win 11, M3",
+      "B0D3XVTRRY": "Milton Champ 1.5L 600W Electric Multi Cook Kettle with Steamer | Multipurpose Electric Ket",
+      "B0D473ZDPH": "Green Soul Zodiac Lite | Office Chair|Flybird Ergonomic Design|1D Adjustable Armrests|Sync",
+      "B0D63WC6GM": "TARKAN Laptop Stand for Desk, Heavy Metal Riser Stable Height Elevator with Air Flow for 1",
+      "B0D6GK2871": "Noise Pulse 4 Max Smart Watch with AI Create (India's 1st Ever with Unlimited Watch Faces)",
+      "B0D6W7F7WH": "boAt Stone 352 Pro/Stone 358 Pro w/ 14W Signature Sound, Up to 12 Hours Playback, RGB LEDs",
+      "B0D7MCRMKT": "OnePlus Watch 2R with Wear OS 4 by Google,Snapdragon W5 Chipset,Upto 100hrs Battery Life,1",
+      "B0D7ZHKZD3": "Havells 1200W Foldable Hair Dryer; 3 Heat Settings With Cool Shot (Hot/Cool/Warm),Heat Bal",
+      "B0D83G8R99": "Dell Inspiron 15 3535, Windows 11 Home AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, FHD, 15.6\"/3",
+      "B0D8QFDC67": "beAAtho® Verona Mesh High Back Ergonomic Office Chair with 3 Years Limited Warranty - Adju",
+      "B0D9W55VLG": "Ant Esports NC230 Gaming Notebook Cooler for 10–17 Inch Laptops | Cooling Pad with 6 Fans ",
+      "B0DB8H4JWR": "ZEBRONICS NS4000 PRO Rotatable Laptop Metal Stand, Upto 17 inch, 360° Fidget Rotation, Fol",
+      "B0DBGNY4XP": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12",
+      "B0DBGP48NW": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 12",
+      "B0DCK1RYTN": "MILTON Glide 1000 Stainless Steel Water Bottle, 1 L, Light Green| Single walled | Leak Pro",
+      "B0DCSYTVDD": "HP 255 G10 Laptop for Home or Work, 16GB RAM DDR5, 512GB SSD, 15.6\" Full HD, Ryzen 3 7335U",
+      "B0DCZ3WDTB": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD |Smart 12 Layer Protection|Type C",
+      "B0DCZ9PRCP": "Amazfit T-Rex 3 Smartchoice Outdoor Rugged Military 48mm smart Watch Built in GPS, 27 Days",
+      "B0DDV1GWP7": "EvoFox Katana X2 TKL Mechanical Gaming Keyboard | 3‑Pin Replaceable Clicky Blue Switches, ",
+      "B0DFQ1R3W4": "OnePlus Nord Buds 3 Truly Wireless in Ear Bluetooth Earbuds with up to 32dB Active Noise C",
+      "B0DFWL8F5C": "realme Buds T110 Bluetooth Truly Wireless in Ear Earbuds with mic, AI ENC for Calls, Googl",
+      "B0DG2GCTD7": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39",
+      "B0DG5DL8TM": "EVM EnX 64GB USB 3.2 Gen 1 Flash Drive | Exceptional 120MB/s Read| Sturdy Premium Metal Bo",
+      "B0DGGVHMDS": "Fastrack Astor FR2 Pro 1.43\" AMOLED Stainless Steel Smart Watch with SpO2, Heart Rate, BT ",
+      "B0DGGWCJ37": "Portronics Toad 34 Wireless Mouse with 2.4 GHz Wireless, Adjustable Sensitivity, USB Recei",
+      "B0DGX1VCWX": "Spigen Audio Newly Launched SA-HP P10 Wireless Over Ear Headphones with 60H Playtime, Upto",
+      "B0DH8FHY3S": "Blaupunkt 2025 Launch ATOMIK Grab 20W Party Speaker Boombox, Unbelievable Loud & Clear Mus",
+      "B0DHPM9GWB": "Redmi Pad SE 4G | WiFi Mediatek Helio G55| 8.7-Inc Display | 6650Mah Battery | 90Hz Smooth",
+      "B0DKFT2J9C": "Samsung Galaxy Watch 7 (44mm, Silver, BT) with 3nm Processor | Dual GPS | Sapphire Glass &",
+      "B0DKK15M2P": "acer Aspire Lite, 13th Gen, Intel Core i3-1305U, 16GB RAM, 512GB SSD, Full HD 15.6\"/39.62 ",
+      "B0DN5PKTLB": "HP Victus Gaming Laptop, 14th Gen Intel Core i5-14450HX, 6GB RTX 3050 GPU, 15.6\" (39.6 cm)",
+      "B0DNFRNNDS": "SANDISK Ultra Dual Drive Go Type-C 64GB, OTG, Upto 300MB/s, Pendrive, Navagio Blue, 5Y War",
+      "B0DNPWJLQC": "realme Buds Wireless 5 ANC in Ear Bluetooth Headphones,50dB ANC, 13.6mm Dynamic Bass Drive",
+      "B0DPCNCFGJ": "BenQ GW2790Q, 27 Inch (68.58 cm), IPS, 2K QHD 2560x1440, 100Hz, Black, 99% sRGB, 1500:1 CR",
+      "B0DPKFT27W": "SWISS MILITARY 30L Laptop Travel Backpack for 15.6 Inch Laptop, Unisex Office & College Ba",
+      "B0DPQWPQN2": "LG 24GS65F Smartchoice 60.47cm (23.8Inch) Ultragear FHD (1920x1080) IPS Gaming Monitor, 18",
+      "B0DQ57M7MD": "Samsung 24\"(60.5 cm) Flat IPS Monitor|IPS Panel|FHD 1920 x 1080|100 Hz|New Super Slim Desi",
+      "B0DQSX3Z76": "Crucial E100 SSD 480GB M.2 NVMe PCIe Gen4 Internal SSD, Up to 4,700MB/s, Laptop & Desktop ",
+      "B0DSFKDRLW": "Clazkit Stainless Steel Water Bottle, 1000 ml - Single-Walled, Spill-Proof, Food Grade Ste",
+      "B0DSFPW382": "Dell DC 15250 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD,",
+      "B0DSFQZTVW": "Dell 15 SmartChoice (Previously Inspiron), Intel 13th Gen Core i5-1334U, 16GB, 1TB SSD, FH",
+      "B0DST37ZS3": "Green Soul Jupiter Pro (2026 Edition) | Ergonomic Office Chair for Work | 5 Year Warranty ",
+      "B0DTBPC46X": "Lenovo IdeaPad Slim 3X - 2025 - Everyday AI Laptop - Copilot+ PC - 15.3\" WUXGA Display - 1",
+      "B0DV5GLTLZ": "boAt Rockerz 650 Pro, Touch/Swipe Controls, Dolby Audio, 80Hrs Battery, 2Mics ENx, Fast Ch",
+      "B0DV984J97": "HP 255 Notebook, AMD Athlon Silver 7120U,8GB DDR4, 256GB SSD, 15.6-inch(39.6cm),Anti-Glare",
+      "B0DVC5P58G": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband with 13.4 Mm Dynamic Bass Boost Drive",
+      "B0DXKXG9LC": "KINGSTER 1TB Portable External Hard Drive, Up to 145 MB/s, USB 3.0 2.5-Inch HDD, Ultra-Sli",
+      "B0DXPDYDNV": "Lifelong Electric Kettle 0.8 Litre with 2 Cups | 600W Stainless Steel Kettle with Double W",
+      "B0DXVGVNKN": "Acer ALG, 13th Gen Intel Core i5-13420H, NVIDIA GeForce RTX 3050-6GB DDR6, 16GB RAM, 512GB",
+      "B0DYKC512N": "Samsung Galaxy F06 5G (Bahama Blue, 128 GB) (6 GB RAM)",
+      "B0DYP4NYYJ": "Samsung Galaxy F06 5G, Bahama Blue (4GB, 128GB)",
+      "B0DZCRYG7R": "realme Buds T200 Lite Bluetooth in Ear Earbuds,4 Mic, AI ENC for Calls,48 Hours Total Play",
+      "B0DZHJT3JB": "Ambrane 20000mAh Powerbank with in-Build Type C Cable, 22.5W Fast Charging, USB & Type C O",
+      "B0DZHXSXP4": "Acer Nitro VG270 X1 27 Inch IPS Full HD Backlit LED Gaming Monitor I 0.5 MS Response I 200",
+      "B0F1N8B7Z4": "Redmi 13 5G Hawaiian Blue 8GB RAM 128GB ROM (Without Offer)",
+      "B0F1TV64CQ": "Portronics Key11 Combo Rechargeable Wireless Keyboard and Mouse Set, Bluetooth 5.3&2.4GHz ",
+      "B0F29HNJL1": "Lenovo V15 G4 AMD Ryzen 5 7520U 15.6 inch FHD Laptop | 15.6\" FHD Laptop 16GB DDR5 5500MHz ",
+      "B0F3DD2MXD": "Ant Esports H590 7.1 Surround Sound Gaming Headset, USB Wired Over-Ear Headphones with 50m",
+      "B0F3XB7T5Q": "POCO C71, Cool Blue (4GB, 64GB)",
+      "B0F3XP9GRT": "POCO C71, Power Black (4GB, 64GB)",
+      "B0F43WXC8K": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla G",
+      "B0F4K8KZS8": "Kreo Hive 65 Wired Mechanical Gaming Keyboard | 65% Layout | Gasket Mount | Metal Volume K",
+      "B0F4KCJG35": "128GB Micro SD Card with SD Adapter, microSDXC UHS-I C10 U1 Memory Card, 85MB/s Read 30MB/",
+      "B0F4RD9G72": "Samsung Galaxy A06 5G, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 128GB Storage, ",
+      "B0F5GV3Y87": "realme Earbuds Air 7 True Wireless,12.4mm Dynamic Bass Drivers,52Hrs Playtime,52dB Hybrid ",
+      "B0F5QLVD15": "SWISS MILITARY 30L Laptop Travel Backpack for 15.6 Inch Laptop, Unisex Office & College Ba",
+      "B0F7Y54PJX": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge, ENx Technology, App Support, M",
+      "B0F845SQKD": "Acer Aspire Lite, AMD Ryzen 3-5400U, Office 2024 + M365 Basic, 8GB RAM/512GB SSD, Full HD ",
+      "B0F8W13YV4": "PHILIPS Audio TAS2400BK Portable Bluetooth Speaker with Stereo Sound, 32W RMS, 2400mAh Rec",
+      "B0F8W3VKDZ": "PHILIPS Audio TAS1400BL Wireless Bluetooth Speaker with Deep Bass, Passive Radiator, 12W S",
+      "B0F94KYCQX": "Amazfit Active 2 Square Smartchoice, 2000 Nits Bright AMOLED Display, Built in GPS, 10Day ",
+      "B0F9TVTWP3": "realme NARZO 80 Lite 5G (Crystal Purple, 4GB+128GB) | 6000mAh Long-Lasting Battery | Media",
+      "B0F9X7Q776": "DROGO Aura Ergonomic Gaming Chair with Premium PU Leather Fabric, Linkage Armrest, Adjusta",
+      "B0FB98C9GZ": "ASUS Vivobook Go 15, AMD Ryzen 5 7520U Thin & Light Laptop(AMD Radeon iGPU/8GB RAM/512GB S",
+      "B0FBRGKXHG": "OnePlus Bullets Wireless Z3 in-Ear Neckband with 12.4mm Drivers, 3D Spatial Audio,10 mins ",
+      "B0FBRS76BR": "Redmi Pad 2, 11-inch (27.94 CM CM), LCD Display - 2.5K Sharp & Clear, 4GB RAM, 128GB ROM, ",
+      "B0FBRVRF4F": "Redmi Pad 2, 11-inch (27.94 CM), LCD Display - 2.5K Sharp & Clear, 6GB RAM, 128GB ROM, Wi-",
+      "B0FC69MZQ7": "Noise Junior Champ 3 Smart Watch for Kids | 3-in-1 Look with 2 Switchable Bumpers, in-Buil",
+      "B0FCMPJQ1J": "OnePlus Buds 4 TWS Earbuds with Upto 55dB Real-time ANC, Adaptive Mode, Dual Drivers and D",
+      "B0FDB9ZCTD": "Samsung Galaxy M36 5G Mobile (Velvet Black, 8GB RAM, 128GB Storage) | Google Gemini| Goril",
+      "B0FDFVM6CR": "Portronics 35W Adapto 35B Dual Port Fast Charging Adaptor with Type C PD Port & USB-A Port",
+      "B0FDGFZCRJ": "EvoFox Katana X2 FS Mechanical Gaming Keyboard | 3‑Pin Replaceable Clicky Blue Switches, D",
+      "B0FDGVNSLH": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6",
+      "B0FDL2BFP7": "Ambrane 20000mAh Pocket Size Power Bank with Inbuilt Type-C Cable, 22.5W Fast Charging, Ty",
+      "B0FDQ9M1SD": "Portronics Toad 8 Transparent Wireless Bluetooth Mouse with Dual Wireless (BT + 2.4 GHz), ",
+      "B0FDQJSPJK": "Samsung Galaxy Watch8 (40mm, Bluetooth, Graphite) with 3nm Processor | Dual GPS | Sapphire",
+      "B0FDQK5KSZ": "Samsung Galaxy Watch8 (44mm, LTE, Graphite) with 3nm Processor | Dual GPS | Sapphire Glass",
+      "B0FDQKWW14": "Lenovo IdeaPad Slim 3 Ryzen 3 15.6\" (39.6cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/",
+      "B0FDQLKGBW": "Samsung Galaxy Watch8 (40mm, LTE, Silver) with 3nm Processor | Dual GPS | Sapphire Glass &",
+      "B0FDWFRC48": "Lenovo Tab (Smartchoice) | 10.1 Inch Display| Wi-Fi Only| 4 GB RAM + 64 GB ROM (Expandable",
+      "B0FDWH5WTL": "Dell 15 (Previously Inspiron), Intel 14th Gen Core i3 / Core 3 100U, 16GB, 512GB SSD, FHD,",
+      "B0FF37F5XR": "Acer KA270 P6 27 Inch IPS Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VRB, AMD F",
+      "B0FF4VMVFN": "Portronics My Buddy K9 Pro 2-in-1 Laptop & Phone Stand with 360° Rotating Base, Adjustable",
+      "B0FFD2YSBY": "Acer EK240Y P6 P6 23.8 Inch IPS Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VRB ",
+      "B0FFM8M9B5": "Primebook 2 Pro (2026) AI Laptop | 8GB RAM, 128GB UFS Storage (Expandable upto 1TB) | 14.1",
+      "B0FFMQB3KL": "Primebook 2 Max (2026) AI Laptop | 8GB RAM, 256GB UFS Storage (Expandable upto 1TB) | 15.6",
+      "B0FFTFL9H1": "Motorola Edge 60 Fusion 5G, Pantone Mykonos Blue, 256 GB, 12 GB RAM",
+      "B0FG2QT7H2": "boAt Rockerz 512 ANC,(~40dB) Hybrid ANC, 80H Battery, 40mm Drivers, 40ms Low Latency, ENx ",
+      "B0FGXN53SS": "Acer SA272 P1 27 Inch Full HD IPS Ultra Slim (7.2mm Thick) Backlit LED Monitor I Zero Fram",
+      "B0FHBXTVR8": "MAYUMI DRIXEL HS 1TB External Hard Disk for PC, Mac & Mobile (Type-C) | Built-In Type-C Co",
+      "B0FHHL4GC3": "boAt Rockerz Prime 255Z, Spatial Audio,ENx Tech, Dual Pair, 50H Battery, Stream Ad Free Mu",
+      "B0FHWR3TBX": "OnePlus,Pad Lite, 11-inch (27.94 CM), LCD, 8GB RAM, 128GB ROM, WiFi + LTE, Quad Speakers, ",
+      "B0FHWVNVVK": "HIKVISION Extreme 128GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 50MB/s Write Sp",
+      "B0FHWZ4RZM": "HIKVISION Extreme 64GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 40MB/s Write Spe",
+      "B0FJ318CHQ": "RARECARE Table Lamp for Study Room | Study Lamp with 3 Light Modes | 1 Year Warranty | Lam",
+      "B0FJFTMG59": "Redmi 15 5G Frosted White 8GB + 128GB | 7000mAh Battery, 17.53cm (6.9) Display Up to 144Hz",
+      "B0FJG1V6RJ": "Lenovo Idea Tab Smartchoice with Pen|Wi-Fi| 11 Inch, 2.5K Display, 500 Nits Brightness| 8G",
+      "B0FJG2TL3C": "Lenovo Idea Tab Smartchoice with Pen|5G + Wi-Fi|11 Inch,2.5K Display, 500 Nits Brightness|",
+      "B0FJG84M6X": "80W USB-A to Type-C Fast Charger & Cable Compatible with Oneplus/Oppo/Xiaomi/Realme/Samsun",
+      "B0FJGDS5W3": "45W GaN Type- C Super Fast Charger Compatible with Samsung Galaxy S26/S25/S24/S23/S22/S21/",
+      "B0FJYJ8LVY": "HP 15 Smartchoice, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, ",
+      "B0FKTLK63R": "realme Buds T200 True Wireless Earbuds with Hi-Res Audio, 12.4mm Dynamic Bass Drivers, 32 ",
+      "B0FL2W325Z": "boAt Airdopes 213, 50H Battery, ENx Tech, Beast Mode, ASAP Charge, Bluetooth Earbuds, TWS ",
+      "B0FLF38P8G": "boAt Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calling, Functi",
+      "B0FLF44GTQ": "boAt Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calling, Functi",
+      "B0FLJD9JM3": "Kreo Owl Lite Full HD Webcam with 1080P 30 FPS, Auto-Focus and Built-in Dual Digital Mic, ",
+      "B0FLY4C8S5": "Sony IER-EX15C Wired in Ear Type C Headphones, in-Line Remote for Volume & Mute Function w",
+      "B0FM2Y25HP": "boAt Rockerz 301 ANC, (~30dB) ANC, 13mm Drivers,ENx, 40ms Low Latency, Hall Switch, Stream",
+      "B0FM7WX84H": "DR VAKU® 65W Charger Type C Fast Adapter with Multi Port Dual PD Charging GaN Technology f",
+      "B0FMDL81GS": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+      "B0FMDLD86P": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+      "B0FN7QTRPY": "Samsung Galaxy M07 Mobile (Black, 4GB RAM, 64GB Storage) | MediaTek Helio G99 | AnTuTu 624",
+      "B0FN8745CD": "Samsung 27\" (68.5cm) 100Hz Curved Monitor|1800R Curved Screen|100Hz|4ms|SRGB 95%|Ports-HDM",
+      "B0FNN886G7": "Lifelong Stainless Steel Water Bottle 900ml | Leak-Proof, Rust-Free, Odour-Free & Easy-to-",
+      "B0FNWNZZ1B": "Samsung Galaxy Tab S10 Lite [Smartchoice], 10.9-inch (27.7 CM), LCD Display, 6GB RAM, 128G",
+      "B0FPCZ6Q8Y": "Noise Twist Go Smart Watch 1.39\" Display, TruSyncᵀᴹ BT Calling, Glossy Metal Finish, 150+ ",
+      "B0FPGBDLHS": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i3-1315U 15.6 inch (39.6cm) FHD Laptop (8GB RAM/",
+      "B0FQ5F2QSQ": "Dell S2425HSM 24\"/60.45cm FHD Monitor|Ash White|144Hz Refresh|99% Srgb, 300 cd/m2 Brightne",
+      "B0FQBX87B7": "Samsung Galaxy F06 5G (Lit Violet, 64 GB) (4 GB RAM)",
+      "B0FQJNCX67": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 4 GB RAM, 64 GB Storage, Wi-F",
+      "B0FQJQ1YG8": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 8 GB RAM, 128 GB Storage, Wi-",
+      "B0FQJQQWG3": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 4 GB RAM, 64 GB Storage, Wi-F",
+      "B0FQV27MZK": "Cosmic Byte CryoCore Wired Gaming Headset for PC with 7.1.4 THX Spatial Audio, 50mm Hi-Fi ",
+      "B0FQW98HT2": "NYRWANA LED Table Lamp for Study Room, Adjustable Arm Desk Lamp, 3 Color Modes, 10-Level D",
+      "B0FRSW8QRX": "Samsung Galaxy F17 5G (Violet Pop, 128 GB) (6 GB RAM)",
+      "B0FSLSGHN8": "REDMI Watch Move 1.85 Premium AmoLED,14 Day Battery,Best Accuracy,Dual Core Processor Smar",
+      "B0FT8TXXZS": "Samsung Galaxy F36 5G (Red, 128 GB) (8 GB RAM) | 8 GB RAM",
+      "B0FTFCHTQX": "Mivi DuoPods Marathon Earbuds Wireless | Fast Charge | 70H Playtime | BT v5.3 | 13mm Drive",
+      "B0FTFHW5F6": "Mivi DuoPods Echo | AI-ENC Calls| IPX 4.0 Earphone Wireless | 13mm Drivers Earbuds | TWS E",
+      "B0FV3R4JZX": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+      "B0FV3RJBV7": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+      "B0FV3S8RNN": "JBL New Launch Tune 780NC Wireless Over Ear Headphones with Adaptive Noise Cancellation, U",
+      "B0FVLFTL4B": "realme Buds T310 Truly Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360° Spatial Audio, 1",
+      "B0FWCRMYGT": "Noise Diva Araya Smartwatch for Women with AMOLED Display (850 Nits), 60 Precision-Set Cry",
+      "B0FX9KJWH2": "Lenovo L24-4C| 24 Inch (60.96cm) Ultraslim PC Monitor, IPS, FHD 1920x1080, 144Hz, 99% sRGB",
+      "B0FX9NWX64": "Lenovo L27-4C| 27 Inch (68.58 cm) Ultraslim Monitor, FHD 1920x1080, IPS, 144Hz, 99% sRGB, ",
+      "B0G1BS9S4Q": "Samsung Galaxy Tab A11+ [Smartchoice], 11-inch (27.82 CM), LCD Display, 6GB RAM, 128GB ROM",
+      "B0G1C5DM4T": "Samsung Galaxy Tab A11+, 11-inch (27.82 CM), LCD Display, 6GB RAM, 128GB ROM, Wi-Fi+5G, Qu",
+      "B0G1T2GZP9": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animat",
+      "B0G2GGLTMF": "Mivi DuoPods Sync in Ear Earbuds | 60H Playtime Bluetooth Earphones Wireless | Earbuds ENC",
+      "B0G2MM7VH9": "HP 15 (2025) AMD Ryzen 3 7335U Quad Core Laptop 16GB DDR5 512GB SSD AMD Radeon Graphics Wi",
+      "B0G2R8YYXZ": "HP Victus, 13th Gen Intel Core i5-13420H, 6GB RTX 3050, 16GB DDR4, 512GB SSD, FHD, 144Hz, ",
+      "B0G2S8C4VQ": "Philips India's No.1 Men's Trimmer* | One tool, ultimate precision | BeardSense Technology",
+      "B0G3SWTTQ7": "Motorola G57 Power 5G (Corsair, 8GB RAM, 128GB Storage)",
+      "B0G3T3HZC6": "Motorola G57 Power 5G (Regatta, 8GB RAM, 128GB Storage) | Snapdragon 6s Gen 4 Processor | ",
+      "B0G3TFPN94": "Motorola G57 Power 5G (Fluidity, 8GB RAM, 128GB Storage)| Snapdragon 6s Gen 4 Processor | ",
+      "B0G3X99MZS": "realme P4X Smartphone 6.72 inch 144Hz Display 7000mAh Titan Bettery 45W Fast Charge 6GB RA",
+      "B0G48L1X1S": "boAt Airdopes 212, 50H Battery, ENx Tech, Beast Mode, ASAP Charge, Bluetooth Earbuds, TWS ",
+      "B0G4F6ZCSV": "Amazfit Active Max(Smartchoice) Smart Watch 1.5\" AMOLED Display,25-Day Battery,Offline Map",
+      "B0G4QQNK1K": "OnePlus, Pad Go 2, 12.1 inch (30.73 CM), LCD, 8GB RAM, 128GB ROM, Wi-Fi, Quad Speakers, Ey",
+      "B0G5G7LCJQ": "REDMI Note 15 5G (Glacier Blue, 8GB RAM 128GB Storage) | 108MP OIS Camera | Snapdragon 6 G",
+      "B0G6DVB6DG": "Philips India's No.1 Men's Trimmer* | Engineered for skin safe grooming | Skin protect tec",
+      "B0G6KNC9ZZ": "Tecno Spark GO 3 (Ink Black, 4GB+64GB | Super Durability Drop Resistant & IP64 Rated | Mak",
+      "B0G81P4MPG": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 6GB RAM, 128GB Storage) | 50MP OIS Triple Ca",
+      "B0G81T8LC8": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 4GB RAM, 128GB Storage) | 50MP OIS Triple ",
+      "B0G81TPT89": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 6GB RAM, 128GB Storage) | 50MP OIS Triple ",
+      "B0G92LZJD3": "ASUS Vivobook 15 (2025), 13th Gen,Intel Core i3-1315U, 8GB RAM, 512GB SSD, FHD, 15.6\", 39.",
+      "B0GCBB7KMQ": "Motorola G57 Power 5G (Regatta, 8GB RAM, 128GB Storage) | Snapdragon 6s Gen 4 Processor | ",
+      "B0GD69BWD6": "80w Fast Charger Adapter & USB-A to Type C Cable Combo, Compatible with OnePlus, Realme, X",
+      "B0GDGGGG35": "HIKVISION M225 64GB USB 2.0 Metal Pen Drive | Compact & Durable Flash Drive for Laptop and",
+      "B0GDQ26XZB": "Redmi Pad 2 Pro, 12.1-inch (30.73 CM), LCD Display - 2.5K Sharp & Clear, 8GB RAM, 128GB RO",
+      "B0GDQ28DY5": "realme Buds Air 8,11mm+6mm Dual Dynamic Bass Drivers,58Hrs Playtime, 55dB ANC,6 Mic ENC, 4",
+      "B0GDTK3VR6": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightw",
+      "B0GDTSH5BW": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightw",
+      "B0GFLS72L8": "acer EK240Y P0 23.8 Inch VA Panel Full HD Backlit LED Monitor I 144Hz Refresh Rate, 1MS VR",
+      "B0GFMT9VKP": "PHILIPS 5W CLARO White LED Desk Light | 3-in-1 Study & Table Lamp | EyeComfort Technology ",
+      "B0GFN87SXK": "PHILIPS 5W VION White LED Desk Light | 3-in-1 Study & Table Lamp | EyeComfort Technology |",
+      "B0GFVKCNP1": "realme C71 4G Smartphone 4GB+64GB Black | 6300mAh Battery, 6.745 inch Screen, 90Hz Eye Com",
+      "B0GGRDS2XR": "Poco C85 5G Power Black 6GB RAM 128GB ROM",
+      "B0GGRTW1TC": "Poco C85 5G Mystic Purple 6GB RAM 128GB ROM",
+      "B0GH71CR2D": "Poco M8 5G Carbon Black 6GB RAM 128GB ROM",
+      "B0GHDG5GP3": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+      "B0GHDWJ8DR": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+      "B0GHF61Z9N": "Fire-Boltt Phoenix Aura Women Smart Watch with 1.26” Diamond-Cut HD Display, Rotating Crow",
+      "B0GHL3KLX4": "Beetel Volte Series PB20 20000mAh Power Bank 22.5W Fast Charging | Triple | Triple Output ",
+      "B0GJSFFLXZ": "SANDISK Optimus™ 5100 NVMe™ SSD, 500GB, Upto 6600MB/s R, 5600MB/s W, 5Y Warranty, PCIe Gen",
+      "B0GK1MTWC1": "truke New Launch Mega 12 True Wireless in Ear Earbuds W/ 24-Bit Spatial Audio, Premium Lea",
+      "B0GL7QWQF1": "ZEBRONICS 2026 Launch 50W Bluetooth Speaker, Dual 5.7cm Drivers, 8.9cm Subwoofer, Upto 5Hr",
+      "B0GLFVSH8Z": "ASUS Vivobook 15 (2026),Intel Core i3-1315U, Intel iGPU, 16GB RAM, 512GB SSD, FHD, 15.6\"(3",
+      "B0GLH6M7DL": "AULA F75 75% Wireless PBT Keycaps Mechanical Keyboard | Hot Swappable, Pre-lubed Linear Sw",
+      "B0GLPHXR6N": "JBL Live 780NC, BITA Award Winner- Product of the Year, Advanced Noise Cancellation 2.0 Wi",
+      "B0GMK9KF8Z": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days",
+      "B0GMQLQGFW": "LG24U411A-BN Smartchoice 60 cm (24-inch) Full HD (1920 x 1080) IPS Monitor, 3-Side Virtual",
+      "B0GN1J78Z2": "Samsung Galaxy M17e 5G Mobile (Blitz Blue, 6GB RAM, 128GB Storage, Monster 6000mAh Battery",
+      "B0GN1NNYXF": "Samsung Galaxy M17e 5G Mobile (Vibe Violet, 6GB RAM, 128GB Storage, Monster 6000mAh Batter",
+      "B0GP6YWSY2": "Lenovo {Smartchoice} Idea Tab Pro with Pen Plus & Keyboard|12.7\" 3K Display|144 Hz Refresh",
+      "B0GPDNKWQ3": "boAt Wave Sigma 3 Curv Smartwatch with 2.01” (5.33 cm) Immersive Curved Display, Metallic ",
+      "B0GPDYDDZZ": "boAt Wave Sigma 3 Curv Smartwatch with 2.01” (5.33 cm) Immersive Curved Display, Metallic ",
+      "B0GQ17GY1H": "HP Professional 15 (2026), Intel (i3 14th Gen) Core 3 100U - (16 GB/512 GB SSD/Intel UHD G",
+      "B0GQSHYJ2D": "Redmi Pad 2, 11-inch (27.94 CM), LCD Display - 2.5K Sharp & Clear, 4GB RAM, 128GB ROM, Wi-",
+      "B0GQTNXDYM": "OnePlus Nord Buds 4 Pro E518A Radiant Gray in",
+      "B0GQTSHLLR": "OnePlus Nord Buds 4 Pro E518A Raven Black in",
+      "B0GR64G4H6": "Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, ",
+      "B0GRBQYQY3": "Samsung Galaxy A07 LTE (Green, 4GB RAM, 64GB Storage) | 50MP Dual Camera | 6.7 Inch HD+ Di",
+      "B0GRGP1B8Y": "Philips India's No.1 Men's Trimmer* | Lift & Trim Technology | Skin Friendly Beard Trimmer",
+      "B0GRMZ8X9R": "Motorola Edge 70 Fusion (Pantone Blue Surf, 8GB RAM, 128GB Storage) | 6.78\" 1.5K 144Hz AMO",
+      "B0GS5BHX4N": "Havells 1000W Foldable Hair Dryer|Blow Dry for Men & Women|2 Temperature Settings|Travel F",
+      "B0GSQQNKQC": "Philips India's No.1 Men's Trimmer* | Skin Safe Beard Trimmer for Men | Durapower tech | S",
+      "B0GSQRXKZ2": "GOBOULT Y1 v2.0 Ear Buds Wireless with 60H Playtime, Zen Quad Mic ENC, 45ms Low Latency, T",
+      "B0GSV7DPV5": "CrossBeats Everest 2.0 | Latest 2026 Smart Watch for man | 1.43\" AMOLED Always ON Display ",
+      "B0GSVR9C3X": "Lenovo LOQ Essential AMD Ryzen 7 170 | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/FHD IPS/144",
+      "B0GT5BKZB2": "Noise Alt Watch 1 Smart Watch 1.32” AMOLED Display, Built-in GPS, AI Suite, Functional Rot",
+      "B0GTFQG1BQ": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Au",
+      "B0GTVDH4G2": "HP 15, AMD Ryzen 5 7520U (16GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm",
+      "B0GTZJVD3Y": "Lenovo LOQ Essential AMD Ryzen 7 7735HS | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Re",
+      "B0GV1L119H": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 16GB D",
+      "B0GVFQD1JK": "REDMI A7 4G (Black, 3 GB RAM, 64GB Storage) | Large 17.48cm (6.88) Smooth 120Hz Display | ",
+      "B0GVFVND7C": "REDMI A7 4G (Sky Blue, 3 GB RAM, 64GB Storage) | Large 17.48cm (6.88) Smooth 120Hz Display",
+      "B0GVJQTMRH": "REDMI 15A 5G Awesome Blue 4GB RAM 64GB ROM",
+      "B0GVJZ56K5": "HIKVISION Extreme 16GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 15MB/s Write Spe",
+      "B0GVNP7J9Y": "Acer TravelLite TL04-41M 14.0\" FHD Laptop, AMD Ryzen 3 5400U, 16GB RAM | 512GB SSD, Window",
+      "B0GVYF57G9": "OnePlus Nord CE6 Lite | 8GB+256GB | Vivid Mint | Segment's Fastest Dimensity 7400 Apex Pro",
+      "B0GVYFM7QZ": "OnePlus Nord CE6 Lite | 8GB+256GB | Hyper Black | Segment's Fastest Dimensity 7400 Apex Pr",
+      "B0GVYGLNH7": "OnePlus Nord CE6 Lite | 8GB+128GB | Vivid Mint | Segment's Fastest Dimensity 7400 Apex Pro",
+      "B0GVZ7JJRP": "realme Buds T500 Pro TWS Earbuds with 12.4mm Drivers, Upto 50dB ANC,3D Spatial Audio, 56H ",
+      "B0GW8PLMZM": "Dell SE2726D 27 inch (68.58 cm) QHD IPS Display, 144Hz Refresh, AMD FreeSync, Eye Comfort ",
+      "B0GWF2HM26": "realme P4 Lite 5G (Mosaic Green, 4GB RAM, 64GB) | 13MP Camera | 6.8\" 144Hz Display | Dimen",
+      "B0GWF4S9KF": "Cookwell Multipurpose Cook Kettle With 1.5L Steel Inner Pot (600W)",
+      "B0GWJJZN9K": "HomeBasic Electric Kettle 2L, 1500W, 5-Min Rapid Boil, Cool-Touch Body, Stainless Steel In",
+      "B0GWLHVJRH": "OnePlus Nord CE6 | 8GB+128GB | Pitch Black | Snapdragon 7s Gen 4 | Segment's Fastest Touch",
+      "B0GWLHWCLJ": "OnePlus Nord CE6 | 8GB+128GB | Fresh Blue | Snapdragon 7s Gen 4 | Segment's Fastest Touch ",
+      "B0GWLTLNTV": "OnePlus Nord CE6 | 8GB+128GB | Lunar Pearl | Snapdragon 7s Gen 4 | Segment's Fastest Touch",
+      "B0GWW13HC3": "SANDISK 64GB Ultra Go microSD Card UHS-I, Up to 140MB/s, Full HD Video, Memory Card for An",
+      "B0GWW7V4KG": "SANDISK 128GB Ultra Go microSD Card UHS-I, Up to 190MB/s, Full HD Video, Memory Card for A",
+      "B0GX1W2CLZ": "Redmi Note 15 SE 5G Smartphone, Crimson Reserve, 6GB RAM, 128GB, 5800mAh Battery, IP66 Mil",
+      "B0GX9HWLBF": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96” (4.97 cm) HD Display",
+      "B0GX9JK9SN": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96”(4.97 cm) HD Display,",
+      "B0GX9M5DJC": "boAt Storm Call 4 India's first Smartwatch with Type-C Charging,1.96”(4.97 cm) HD Display,",
+      "B0GXB8526M": "Noise New Launch ColorFit Ultra 4 Smartwatch with BT Calling, 1.96\" AMOLED Always-On Displ",
+      "B0GXFPG1X3": "Acer Aspire Lite Intel Core 3-100U Processor, Office 2024 + M365 Basic, 8GB RAM/512GB SSD,",
+      "B0GXYV3XR4": "Acer Aspire Lite, AMD Ryzen 3-7330U, Office 2024 + M365 Basic,8GB RAM, 256GB SSD, Full HD ",
+      "B0GXYVZFDN": "Acer Aspire Lite Intel Core i3/Core 3 14th Gen-100U Processor, Office 2024 + M365 Basic, 8",
+      "B0GY26RL13": "Amazfit Bip Max 50mm Smartwatch, 2.07\" AMOLED Display, 20 Days of Battery, GPS, 4GB Storag",
+      "B0GY7VGHDQ": "HP 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB/512 GB SSDDOS (MS Office/Windows not",
+      "B0GYRKTVKB": "boAt (2026 Launch) Energyshroom PB401 20000 mAh 22.5W Fast Charging Power Bank (4X Output ",
+      "B0GZ8PX635": "Amazfit Bip Max 50mm Smartwatch, 2.07\" AMOLED Display, 20 Days of Battery, GPS, 4GB Storag",
+      "B0GZGJ2XNQ": "realme NARZO 90x 5G (Aqua Blue 2026, 6GB+128GB) | 7000mAh + 60W Biggest Battery & Fastest ",
+      "B0GZMYZW7R": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+      "B0GZN9ZPRG": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+      "B0GZND14GT": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic",
+      "B0GZWNK24R": "Poco C81, Elite Black (4GB, 64GB)",
+      "B0H1BMBX9R": "realme NARZO 80 Lite 4G (Obsidian Black 2026, 4GB+64GB) | 6300mAh Segment's Biggest Batter",
+      "B0H1G7Q5YD": "iVOOMi Full HD 1080P 30 FPS Webcam for PC, Auto-Light Balance, 5P FHD Lense, 2.0MP CMOS Se",
+      "B0H1JG89ZB": "iQOO Z10 Lite 5G (Titanium Blue 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G Processor",
+      "B0H1JGWF81": "iQOO Z10 Lite 5G (Cyber Green 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G Processor |",
+      "B0H1WVW8VY": "iQOO Z11 Lite 44W 5G (Midnight Blue, 6GB RAM, 128GB Storage) | 6500mAh Battery with 44W Fa",
+      "B0H1WY55ZL": "Samsung Galaxy A56 5G Mobile (Awesome Violet Glow, 8GB, 128GB) | Segment Most Complete Tri",
+      "B0H25X3W7F": "ASUS TUF A15 (2026),Smartchoice,AMD Ryzen 7 8845HS,RTX 3050,16GB RAM (Upgradeable Upto 64G",
+      "B0H268Z1CC": "Lenovo LOQ Essential AMD Ryzen 5 7535HS | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Re",
+      "B0H2FD3L97": "Lenovo Idea Tab (Smartchoice) with Folio Keyboard + Tab Pen | Wi-Fi + 5G |11\" Display, 2.5",
+      "B0H2HGLNQP": "boAt Ultima Ember 2 Smartwatch, 1.96” AMOLED Display, Ultra Bright 1000 nits Brightness, A",
+      "B0H2MF4HPG": "boAt Slazer S100 Beard Trimmer For Men, 300 min runtime,2X Fast Charging, USB Type C, Meta",
+      "B0H339SP81": "realme NARZO 100x 5G (Flash Orange,6GB+128GB) | Biggest 8000mAh Battery | 45W Fast Charge ",
+      "B0H33KMYHX": "realme NARZO 100x 5G (Midnight Black,6GB+128GB) | Biggest 8000mAh Battery | 45W Fast Charg",
+      "B0H3BMSM6T": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightwe",
+      "B0H3BXLJ3T": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightwe",
+      "B0H3P1RB8D": "Fulminare Plastic LED Rechargeable Touch Lamp | Magnetic Stick-On Light with 3 Color Modes",
+      "B0H3PQ6MW4": "OnePlus Nord Buds 4 TWS Earbuds with 52dB Real-time ANC, Game Sound Spatial Audio, 6-Mic A",
+      "B0H3PZGX1T": "Samsung Galaxy A17 5G, 8GB RAM, 128GB, Gray | 16.91 cm Super AMOLED display, 5000 mAh batt",
+      "B0H3Q5DPP9": "OnePlus Nord Buds 4 TWS Earbuds with 52dB Real-time ANC, Game Sound Spatial Audio, 6-Mic A",
+      "B0H416MQ6S": "Motorola g67 Power 5G (Pantone Cilantro, 256 GB) (12 GB RAM)",
+      "B0H45YFPJT": "Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM/ 256GB SSD, 14.0\"/35.56cm WXGA",
+      "B0H46H6JK8": "Acer Smartchoice Aspire One, AMD Ryzen 5-40,Office 2024 + M365 Basic, 8GB LPDDR5 RAM/ 512G",
+      "B0H4HCKQTW": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Reclin",
+      "B0H4HFHXSN": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Reclin",
+      "B0H4R38VQG": "100W USB-A to Type-C Fast Charger & Cable Compatible with Oneplus/Oppo/Xiaomi/Realme/Samsu",
+      "B0H4RBY9JN": "boAt (2026 Launch) Energyshroom PB401 20000 mAh 22.5W Fast Charging Power Bank (4X Output ",
+      "B0H4VLRRWK": "Ant Riser 40 360° Rotating Laptop Stand Height & Angle Adjustable Foldable Carbon Steel La",
+      "B0H5CBFP36": "realme P4R 5G Smartphone, Lavender Glare, 8000mAh Battery, 144Hz Display, 6 GB RAM, 128 GB",
+      "B0H696XFPH": "Lenovo LOQ 27Q-10 (Smartchoice) | 27\" (68.5cm) QHD (2560x1440) IPS 180Hz Gaming Monitor | ",
+      "B0H698MM7K": "Lenovo LOQ 27-10 (Smartchoice) | 27\" (68.5cm) FHD (1920x1080) IPS 200Hz Gaming Monitor | 0",
+      "B0H69FXJC8": "Lenovo LOQ 24-10 (Smartchoice) | 23.8\" (60.45cm) FHD (1920x1080) IPS 200Hz Gaming Monitor ",
+      "B0H6FQPGFT": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+      "B0H6FR1KJ1": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+      "B0H6FSKJ5K": "Noise Buds Mini X Truly Wireless Earbuds (2026) | Half in-Ear Design | 50H Playtime |12mm ",
+      "B0H6HY2C29": "realme narzo 80 Lite 4G (See Blue,4GB+64GB) 2026 | 6300mAh Segment's Biggest Battery | 7.9",
+      "B0H6MZ4N6D": "CP PLUS 64GB microSDXC Memory Card Grade UHS-3 Class 10, Up to 70 Mbps Reading & 30 Mbps W",
+      "B0H6SP6YVQ": "Milton Rapid Electric Kettle 1.5L | 1350 Watts | Hot Water portable Electric Kettle for Ho",
+      "B0H6SXS6XR": "Milton Rapid Cool Touch Electric Kettle 1.5 Litre | 304 SS Inner Body Hot Water Kettle Ele",
+      "B0H6WDV3GH": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i3-1315U 15.6\" (39.6cm) FHD Thin and Light Lapto",
+      "B0H7234YD3": "URBN Power Bank 20000mAh Fast Charging |35W Super Fast Power Delivery (PD) Portable Charge",
+      "B0H725859P": "URBN Power Bank 20000mAh Fast Charging |35W Super Fast Power Delivery (PD) Portable Charge",
+      "B0H75PMPZM": "ASUS Vivobook 15 (2026),Intel Core 3 304 (Series 3-Latest Gen),Intel iGPU,8GB RAM,512GB SS",
+      "B0H82PNSZR": "Samsung Galaxy Watch9 (40mm Bluetooth, Cream)",
+      "B0H82ZPS8S": "Samsung Galaxy Watch9 (40mm Bluetooth, Graphite)",
+      "B0H8L86HHP": "Motorola g37 Power 5G (Pantone Impenetrable, 4GB RAM, 128GB Storage) | 6.66 Inch HD+ Displ",
+      "B0H8M56QXM": "Acer OfficeLite KM300 Wireless Keyboard & Mouse Combo | 2.4GHz USB Nano Receiver | 104-Key",
+      "B0H8ND2YBC": "Motorola g37 Power 5G (Pantone Nautical Blue, 4GB RAM, 128GB Storage) | 6.66 Inch HD+ Disp",
+      "B0H8NQDC6N": "EVM EnTurbo 20000mAh Power Bank | 22.5W Super Fast Charging | Dual Output USB & Type-C | D",
+      "B0H8NXNGWS": "ASUS Vivobook 15 (2026),Intel Core 5 120U,(i5-14th Gen),FingerPrint Sensor,8GB RAM,512GB S",
+      "B0H8PBGTSC": "ASUS Vivobook 15 (2026),Intel Core 3 304 (Series 3-Latest Gen),Fingerprint Sensor,8GB RAM,",
+      "B0H93GYSMW": "Lenovo V14 Intel Core i5 13th Gen 13420H 14.0\" FHD Laptop",
+      "B0H93Z1916": "HP Professional 15 (2026), Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Intel UHD Grap",
+      "B0H9LDJ797": "Primebook 2 Max (2026) AI Laptop | 8GB RAM, 128GB UFS Storage (Expandable upto 1TB) | 15.6",
+      "B0H9M2FQ8T": "FREED Bombshell Hair Dryer for Women | 1600 Watts Foldable Hair Dryer | 3 Heat 2 Speed Set",
+      "B0H9RQF65D": "GOBOULT TuneX Bluetooth Earphone with 30H Playtime, Dual Pairing Neckband, Zen™ ENC Mic, T",
+      "B0H9SG1QXR": "Primebook 3 Max (2026) AI Laptop | 8GB RAM, 128GB Storage | 15.6-Inch FHD IPS Display | Me",
+      "B0H9SPNM94": "boAt Storm Blaze Smartwatch in Premium Metal Finish with Advanced BT Calling, Functional C",
+      "B0H9X8PJW3": "Lenovo IdeaPad Slim 3, Ryzen 3 30, 8GB RAM, 512GB SSD, FHD Thin and Light Laptop, 15.6\" (3",
+      "B0HCNHGQDD": "iQOO Z11 5G (Aurora Green, 6GB RAM, 128GB Storage) | India's 1st MediaTek Dimensity 7500 T",
+      "B0HDPB4719": "Samsung 27 Inch G3 Gaming Monitor | FHD (1920 x 1080) | IPS Panel | 144 Hz Refresh Rate | ",
+      "B0HDPLHJ35": "Samsung 24 Inch G3 Gaming Monitor | FHD (1920 x 1080) | IPS Panel | 144 Hz Refresh Rate | ",
+      "B0HDZMXV21": "One94Store Overhead LED Desk Lamp with Clamp | 360° Adjustable Swing Arm Table Light, 3 Co",
+      "B0HF12CGWW": "One94Store Dual Head LED Desk Lamp with Clamp | Adjustable Gooseneck Table Light, 5 Colour",
+      "B0HFMTRGZL": "Noise Air Clips V2 Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to",
+      "B0HFMY5GLR": "Noise Air Clips V2 Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to",
+      "B0HFS5TG8Y": "boAt 2026 Launch Airdopes Prime 702 ANC, (~48dB) Hybrid Noise Cancellation, Immersive Spat",
+      "B0HFZW5CCB": "Cosmic Byte Proteus X 7.1.4 Surround Wired Gaming Headset with THX Spatial Audio +, 50mm N",
+      "B0HG1QKHLM": "Lenovo Smartchoice V15, Intel Core i5-13420H, 16GB RAM, 512GB SSD, FHD 15.6” (39.62cm), Wi",
+      "B0HG929FR4": "iQOO Z11xa 5G (Titan Black, 8GB RAM, 128 GB Storage) | Massive 7200mAh Battery | Dimensity",
+      "B0HG96MZ9P": "iQOO Z11xa 5G (Prismatic Green, 8GB RAM, 128 GB Storage) | Massive 7200mAh Battery | Dimen",
+      "B0HG9NPGZS": "45W GaN Type C Super Fast Charger Adapter with Cable (2 Years Warranty) | Travel Adapter f",
+      "B0HGM3VQPD": "Motorola g max 5G, 6GB RAM, 128GB, Snapdragon 6s Gen 4, 6.72-inch FHD+ Display, 7000mAh, 5",
+      "B0HGM8PBNL": "iQOO Z11x 5G (Matrix Green, 6GB RAM, 128GB Storage)",
+      "B0HGMD8FCQ": "Acer Aspire 14\" Laptop, Intel Celeron N4500, 12GB RAM, 256GB SSD, Intel UHD Graphics, Wind",
+      "B0HGYWRWTH": "POCO M8x 5G (Blue, 128 GB) (6 GB RAM) | Snapdragon 4 Gen 5 Processor | 6.9-inch 120Hz Disp",
+      "B0HHFDRJTF": "POCO M8x 5G (Black, 128 GB) (4 GB RAM)",
+      "B0HHS9XLTQ": "HP 15 (i5 14th Gen), Intel Core 5-120U, 16GB RAM, 512GB SSD, FHD, Anti-Glare, 15.6''/39.6c",
+      "B0HJYXWL1P": "boAt 2026 Launch Nirvana Ion TWS Earbuds (Cloud Ivory) | Massive 120 Hours Playtime, Quad ",
+      "B0HJZ5FMGK": "boAt Nirvana Ion w/Crest AI (Smart Lunar Black) | Massive 120 Hours Playtime, Quad Mics EN",
+      "B0HJZ7V1PL": "boAt 2026 Launch Nirvana Ion TWS Earbuds (Lunar Black) | Massive 120 Hours Playtime, Quad ",
+      "B0HK14QP5R": "boAt Wave Call 3 Plus Smartwatch (Active Black) | 1.96”(4.97cm) HD Display, BT Calling, IP",
+      "B0HK4MYD2R": "GOBOULT Mustang TuneX Bluetooth Earphone with 40H Playtime, Dual Pairing Neckband, Zen™ EN",
+      "B0HKJK4M3G": "Lenovo IdeaPad Slim 3 Smartchoice (2026) Intel Core 3 304 AI PC (8GB RAM/512GB SSD/15.3\" (",
+      "B0HKJN82V3": "68W TurboPower Type C Fast Charger Adapter with 1M Type C Cable Compatible with Motorola E",
+      "B0HLQ6QXBT": "MAYUMI NOVA-Vault 1TB Portable External Hard Disk Drive, USB 3.0 High Speed, Slim & Lightw",
+      "B0HLSSC9LG": "ASUS TUF Gaming A15, Gaming Laptop, AMD Ryzen 7 155, RTX 3050 GPU (16GB/512GB/39.62 cms (1",
+      "B0HMJ5T5P7": "Acer Aspire 15,AMD Ryzen 3 3200U Processors, 8GB DDR4 RAM/512GB SSD, 39.62 cm /15.6\" FHD I"
+    },
+    "last_discovery": "2026-11-07T10:53:06.110656+05:30"
   }
 }
