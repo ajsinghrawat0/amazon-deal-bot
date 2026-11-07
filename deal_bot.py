@@ -42,7 +42,7 @@ DRY_RUN = os.getenv("DRY_RUN", "0") == "1"               # 1 = print posts, don'
 # Auto-discovery: the bot searches Amazon with the keywords in searches.csv
 # once a day and tracks the results (on top of products.csv).
 SEARCHES_FILE = os.getenv("SEARCHES_FILE", "searches.csv")
-MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "1100"))
+MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "600"))   # ~600 keeps each run under 2 minutes
 DISCOVERY_EVERY_HOURS = float(os.getenv("DISCOVERY_EVERY_HOURS", "24"))
 AUTO_MIN_DROP_PERCENT = float(os.getenv("AUTO_MIN_DROP_PERCENT", "5"))  # stricter for auto products
 MIN_RATING = int(os.getenv("MIN_RATING", "4"))   # only products rated 4+ stars
@@ -261,14 +261,15 @@ def amazon_post(url: str, headers: dict, body: dict):
     return r
 
 
-def search_amazon(headers: dict, row: dict) -> list:
-    """Run one keyword search. Returns list of (asin, title)."""
+def search_amazon(headers: dict, row: dict, limit: int = 10) -> list:
+    """Run one keyword search. Returns up to `limit` (asin, title), most relevant first."""
     found = []
-    for page in range(1, row["pages"] + 1):
+    pages = max(1, -(-limit // 10))
+    for page in range(1, pages + 1):
         body = {
             "keywords": row["keywords"],
             "searchIndex": row["category"] or "All",
-            "itemCount": 10,
+            "itemCount": min(10, limit - len(found)),
             "itemPage": page,
             "marketplace": "www.amazon.in",
             "partnerTag": AMAZON_TAG,
@@ -291,9 +292,9 @@ def search_amazon(headers: dict, row: dict) -> list:
             if asin:
                 found.append((asin, _get(item, "itemInfo", "title", "displayValue") or ""))
         time.sleep(1.1)
-        if len(items) < 10:
+        if len(items) < body["itemCount"] or len(found) >= limit:
             break
-    return found
+    return found[:limit]
 
 
 def load_searches(path: str) -> list:
@@ -338,9 +339,11 @@ def discover_products(state: dict) -> None:
     print(f"Finding products: {len(searches)} searches...")
     headers = amazon_headers()
     auto = {}
+    total_weight = sum(r["pages"] for r in searches)
     for row in searches:
+        share = max(1, round(MAX_AUTO_PRODUCTS * row["pages"] / total_weight))
         try:
-            results = search_amazon(headers, row)
+            results = search_amazon(headers, row, share)
         except Exception as e:
             print(f"  search '{row['keywords']}' error: {e}")
             continue

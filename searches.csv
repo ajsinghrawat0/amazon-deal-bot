@@ -2,6 +2,7 @@ keywords,category,min_price,max_price,pages
 # The bot searches Amazon.in with each line once a day and tracks what it finds (max 500 products).
 # Only products rated 4+ stars are picked. Prices are in rupees. pages = how many pages of 10 results (1-10).
 # Add or remove lines anytime. Lines starting with # are ignored.
+# Total is capped at about 600 products (shared across all lines) so each hourly run stays under 2 minutes.
 # --- Earbuds & headphones ---
 boAt wireless earbuds,,700,4000,2
 Noise wireless earbuds,,700,4000,1
