@@ -459,16 +459,17 @@ def build_caption(name: str, asin: str, d: dict) -> str:
 
     Lapcare Chillmate Laptop Cooler Pad
 
-    💰 Deal Price: ₹551 ✅
+    💰 Deal Price: ₹551
     🏷️ MRP: ₹999 (45% off)
     📉 Dropped ₹148 (was ₹699)
     ⭐ Lowest price we have tracked
 
-    Link: https://amazon.in/dp/...
+    🛒 Buy Now at ₹551 ✅
+    👉 https://amazon.in/dp/...
     """
     e = html.escape
     lines = [f"<b>{e(short_title(name))}</b>", ""]
-    lines.append(f"💰 <b>Deal Price: {rupees(d['now'])}</b> ✅")
+    lines.append(f"💰 <b>Deal Price: {rupees(d['now'])}</b>")
     if d.get("mrp") and d["mrp"] > d["now"]:
         off = round((d["mrp"] - d["now"]) / d["mrp"] * 100)
         if off >= 5:
@@ -485,7 +486,7 @@ def build_caption(name: str, asin: str, d: dict) -> str:
         link_html = e(d["link"])
     else:               # short-looking text, full affiliate link underneath
         link_html = f'<a href="{e(affiliate_link(asin))}">https://amazon.in/dp/{asin}</a>'
-    lines += ["", f"Link: {link_html}"]
+    lines += ["", f"🛒 <b>Buy Now at {rupees(d['now'])}</b> ✅", f"👉 {link_html}"]
     return "\n".join(lines)
 
 
