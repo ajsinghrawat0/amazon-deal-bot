@@ -42,7 +42,7 @@ DRY_RUN = os.getenv("DRY_RUN", "0") == "1"               # 1 = print posts, don'
 # Auto-discovery: the bot searches Amazon with the keywords in searches.csv
 # once a day and tracks the results (on top of products.csv).
 SEARCHES_FILE = os.getenv("SEARCHES_FILE", "searches.csv")
-MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "600"))   # ~600 keeps each run under 2 minutes
+MAX_AUTO_PRODUCTS = int(os.getenv("MAX_AUTO_PRODUCTS", "1100"))
 DISCOVERY_EVERY_HOURS = float(os.getenv("DISCOVERY_EVERY_HOURS", "24"))
 AUTO_MIN_DROP_PERCENT = float(os.getenv("AUTO_MIN_DROP_PERCENT", "5"))  # stricter for auto products
 MIN_RATING = int(os.getenv("MIN_RATING", "4"))   # only products rated 4+ stars
