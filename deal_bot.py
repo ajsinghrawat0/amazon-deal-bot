@@ -489,6 +489,17 @@ def post_deal(asin: str, caption: str, image) -> None:
     if DRY_RUN:
         print("---- DRY RUN post ----\n" + caption + "\n")
         return
+    if image and len(caption) <= 1000:   # photo on top, text below (Telegram caption limit 1024)
+        try:
+            telegram("sendPhoto", {
+                "chat_id": TELEGRAM_CHANNEL,
+                "parse_mode": "HTML",
+                "photo": image,
+                "caption": caption,
+            })
+            return
+        except RuntimeError as e:
+            print(f"Photo failed, sending text instead: {e}")
     telegram("sendMessage", {
         "chat_id": TELEGRAM_CHANNEL,
         "parse_mode": "HTML",
