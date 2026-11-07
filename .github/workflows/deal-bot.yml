@@ -1,8 +1,7 @@
 name: Amazon deal bot
 
 on:
-  schedule:
-    - cron: "17 * * * *"     # every hour (GitHub may run it a few minutes late)
+  # Started every 30 minutes by cron-job.org (GitHub's own schedule was too slow)
   workflow_dispatch:          # lets you run it by hand from the Actions tab
     inputs:
       test_telegram:
@@ -47,4 +46,5 @@ jobs:
           git config user.email "deal-bot@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || git commit -m "Update prices"
+          git pull --rebase origin main
           git push
