@@ -106,6 +106,7 @@ def load_products(path: str) -> list:
                 "name": (row.get("name") or "").strip(),
                 "target_price": float(target) if target else None,
                 "note": (row.get("note") or "").strip(),
+                "link": (row.get("link") or "").strip(),   # optional link.amazon / amzn.to short link
             })
     return products
 
@@ -436,6 +437,7 @@ def check_deal(product: dict, info: dict, old: dict) -> tuple:
         "mrp": info.get("mrp"),
         "badge": info.get("badge") or "",
         "note": product.get("note") or "",
+        "link": product.get("link") or "",
     }
 
 
@@ -463,7 +465,11 @@ def build_caption(name: str, asin: str, d: dict) -> str:
         lines.append(f"📌 {e(d['badge'])}")
     for note in filter(None, (d.get("note") or "").split(";")):
         lines.append(f"• {e(note.strip())}")
-    lines += ["", f"Link: {affiliate_link(asin)}"]
+    if d.get("link"):   # your own short link from SiteStripe / Amazon app
+        link_html = e(d["link"])
+    else:               # short-looking text, full affiliate link underneath
+        link_html = f'<a href="{e(affiliate_link(asin))}">https://amazon.in/dp/{asin}</a>'
+    lines += ["", f"Link: {link_html}"]
     return "\n".join(lines)
 
 
