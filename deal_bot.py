@@ -462,7 +462,7 @@ def build_caption(name: str, asin: str, d: dict) -> str:
     💰 Deal Price: ₹551
     🏷️ MRP: ₹999 (45% off)
     📉 Dropped ₹148 (was ₹699)
-    ⭐ Lowest price we have tracked
+    ⭐ Lowest price right now
 
     🛒 Buy Now at ₹551 ✅
     👉 https://amazon.in/dp/...
@@ -477,7 +477,7 @@ def build_caption(name: str, asin: str, d: dict) -> str:
     if d["drop"] > 0:
         lines.append(f"📉 Dropped {rupees(d['drop'])} (was {rupees(d['was'])})")
     if d["is_lowest"]:
-        lines.append("⭐ Lowest price we have tracked")
+        lines.append("⭐ Lowest price right now")
     if d.get("badge"):
         lines.append(f"⏰ {e(d['badge'])}")
     for note in filter(None, (d.get("note") or "").split(";")):
