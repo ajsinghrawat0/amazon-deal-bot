@@ -285,6 +285,8 @@ def search_amazon(headers: dict, row: dict, limit: int = 10) -> list:
         data = r.json()
         items = _get(data, "searchResult", "items") or []
         if r.status_code != 200 and not items:
+            if "AssociateNotEligible" in str(data):
+                raise RuntimeError("AssociateNotEligible")
             print(f"  search '{row['keywords']}' p{page} failed ({r.status_code}): {str(data)[:200]}")
             break
         for item in items:
@@ -345,6 +347,9 @@ def discover_products(state: dict) -> None:
         try:
             results = search_amazon(headers, row, share)
         except Exception as e:
+            if "AssociateNotEligible" in str(e):
+                print("Product search paused: Amazon API needs 10+ sales in the last 30 days.")
+                break
             print(f"  search '{row['keywords']}' error: {e}")
             continue
         for asin, title in results:
@@ -550,7 +555,17 @@ def run() -> int:
             products.append({"asin": asin, "name": "", "target_price": None, "auto": True})
     print(f"Checking {len(products)} products ({len(manual)} from products.csv)...")
 
-    prices = get_prices([p["asin"] for p in products])
+    try:
+        prices = get_prices([p["asin"] for p in products])
+    except Exception as e:
+        if "AssociateNotEligible" in str(e):
+            # Amazon pauses API access when the account has < 10 sales in 30 days.
+            # Skip quietly (no failure email) and try again next run.
+            print("PAUSED: Amazon API needs 10+ shipped sales in the last 30 days. "
+                  "No deals posted this run; will retry automatically.")
+            save_state(STATE_FILE, state)
+            return 0
+        raise
     stamp = now_ist().isoformat()
     deals = []
 
